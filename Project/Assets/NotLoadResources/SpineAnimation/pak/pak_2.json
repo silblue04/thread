@@ -1,0 +1,423 @@
+{
+"skeleton": { "hash": "+ptBRGgy3jeKEBsopfvn/Zlt8mk", "spine": "3.8.81", "images": "", "audio": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "airplane_1", "bone": "root" },
+	{ "name": "astronaut_1", "bone": "root" },
+	{ "name": "bat_1", "bone": "root" },
+	{ "name": "bear_1", "bone": "root" },
+	{ "name": "cake_1", "bone": "root" },
+	{ "name": "car_1", "bone": "root" },
+	{ "name": "cone_1", "bone": "root" },
+	{ "name": "diver_1", "bone": "root" },
+	{ "name": "duck_1", "bone": "root" },
+	{ "name": "fairy_1", "bone": "root" },
+	{ "name": "fish_1", "bone": "root" },
+	{ "name": "frog_1", "bone": "root" },
+	{ "name": "icecream_1", "bone": "root" },
+	{ "name": "mermaidpenguin_1", "bone": "root" },
+	{ "name": "mimic_1", "bone": "root" },
+	{ "name": "panda_1", "bone": "root" },
+	{ "name": "shark_1", "bone": "root" },
+	{ "name": "tank_1", "bone": "root" },
+	{ "name": "tennis_1", "bone": "root" },
+	{ "name": "yongyongi_1", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"airplane_1": {
+				"airplane_1": { "x": -0.5, "y": 0.5, "width": 47, "height": 32 },
+				"airplane_2": { "x": -0.5, "y": 0.5, "width": 47, "height": 32 },
+				"airplane_3": { "x": -0.5, "y": 0.5, "width": 47, "height": 32 },
+				"airplane_4": { "x": -0.5, "y": 0.5, "width": 47, "height": 32 }
+			},
+			"astronaut_1": {
+				"astronaut_1": { "x": -0.5, "y": 1, "width": 48, "height": 41 },
+				"astronaut_2": { "x": -0.5, "y": 1, "width": 48, "height": 41 },
+				"astronaut_3": { "x": -0.5, "y": 1, "width": 48, "height": 41 },
+				"astronaut_4": { "x": -0.5, "y": 1, "width": 48, "height": 41 }
+			},
+			"bat_1": {
+				"bat_1": { "x": -0.5, "y": 1, "width": 48, "height": 31 },
+				"bat_2": { "x": -0.5, "y": 1, "width": 48, "height": 31 },
+				"bat_3": { "x": -0.5, "y": 1, "width": 48, "height": 31 },
+				"bat_4": { "x": -0.5, "y": 1, "width": 48, "height": 31 }
+			},
+			"bear_1": {
+				"bear_1": { "y": 0.5, "width": 43, "height": 39 },
+				"bear_2": { "y": 0.5, "width": 43, "height": 39 },
+				"bear_3": { "y": 0.5, "width": 43, "height": 39 },
+				"bear_4": { "y": 0.5, "width": 43, "height": 39 }
+			},
+			"cake_1": {
+				"cake_1": { "y": 3, "width": 40, "height": 53 },
+				"cake_2": { "y": 3, "width": 40, "height": 53 },
+				"cake_3": { "y": 3, "width": 40, "height": 53 },
+				"cake_4": { "y": 3, "width": 40, "height": 53 }
+			},
+			"car_1": {
+				"car_1": { "x": 0.5, "y": 1.05, "width": 48, "height": 38 },
+				"car_2": { "x": 0.5, "y": 1.05, "width": 48, "height": 38 },
+				"car_3": { "x": 0.5, "y": 1.05, "width": 48, "height": 38 },
+				"car_4": { "x": 0.5, "y": 1.05, "width": 48, "height": 38 }
+			},
+			"cone_1": {
+				"cone_1": { "y": -1, "width": 22, "height": 21 },
+				"cone_2": { "y": -1, "width": 22, "height": 21 },
+				"cone_3": { "y": -1, "width": 22, "height": 21 },
+				"cone_4": { "y": -1, "width": 22, "height": 21 },
+				"cone_5": { "y": -1, "width": 22, "height": 21 },
+				"cone_6": { "y": -1, "width": 22, "height": 21 }
+			},
+			"diver_1": {
+				"diver_1": { "x": -4.5, "y": -0.08, "width": 53, "height": 39 },
+				"diver_2": { "x": -4.5, "y": -0.08, "width": 53, "height": 39 },
+				"diver_3": { "x": -4.5, "y": -0.08, "width": 53, "height": 39 },
+				"diver_4": { "x": -4.5, "y": -0.08, "width": 53, "height": 39 }
+			},
+			"duck_1": {
+				"duck_1": { "y": 0.5, "width": 24, "height": 24 },
+				"duck_2": { "y": 0.5, "width": 24, "height": 24 },
+				"duck_3": { "y": 0.5, "width": 24, "height": 24 },
+				"duck_4": { "y": 0.5, "width": 24, "height": 24 }
+			},
+			"fairy_1": {
+				"fairy_1": { "y": 0.5, "width": 46, "height": 40 },
+				"fairy_2": { "y": 0.5, "width": 46, "height": 40 },
+				"fairy_3": { "y": 0.5, "width": 46, "height": 40 },
+				"fairy_4": { "y": 0.5, "width": 46, "height": 40 }
+			},
+			"fish_1": {
+				"fish_1": { "x": -0.5, "y": 1, "width": 39, "height": 29 },
+				"fish_2": { "x": -0.5, "y": 1, "width": 39, "height": 29 },
+				"fish_3": { "x": -0.5, "y": 1, "width": 39, "height": 29 },
+				"fish_4": { "x": -0.5, "y": 1, "width": 39, "height": 29 }
+			},
+			"frog_1": {
+				"frog_1": { "y": 0.5, "width": 30, "height": 27 },
+				"frog_2": { "y": 0.5, "width": 30, "height": 27 },
+				"frog_3": { "y": 0.5, "width": 30, "height": 27 },
+				"frog_4": { "y": 0.5, "width": 30, "height": 27 }
+			},
+			"icecream_1": {
+				"icecream_1": { "x": -0.4, "y": 1, "width": 28, "height": 32 },
+				"icecream_2": { "x": -0.4, "y": 1, "width": 28, "height": 32 },
+				"icecream_3": { "x": -0.4, "y": 1, "width": 28, "height": 32 },
+				"icecream_4": { "x": -0.4, "y": 1, "width": 28, "height": 32 }
+			},
+			"mermaidpenguin_1": {
+				"mermaidpenguin_1": { "x": 0.5, "y": 0.5, "width": 57, "height": 39 },
+				"mermaidpenguin_2": { "x": 0.5, "y": 0.5, "width": 57, "height": 39 },
+				"mermaidpenguin_3": { "x": 0.5, "y": 0.5, "width": 57, "height": 39 },
+				"mermaidpenguin_4": { "x": 0.5, "y": 0.5, "width": 57, "height": 39 }
+			},
+			"mimic_1": {
+				"mimic_1": { "x": 0.9, "y": 3.4, "width": 34, "height": 38 },
+				"mimic_2": { "x": 0.9, "y": 3.4, "width": 34, "height": 38 },
+				"mimic_3": { "x": 0.9, "y": 3.4, "width": 34, "height": 38 },
+				"mimic_4": { "x": 0.9, "y": 3.4, "width": 34, "height": 38 }
+			},
+			"panda_1": {
+				"panda_1": { "width": 36, "height": 34 },
+				"panda_2": { "width": 36, "height": 34 },
+				"panda_3": { "width": 36, "height": 34 },
+				"panda_4": { "width": 36, "height": 34 }
+			},
+			"shark_1": {
+				"shark_1": { "x": 0.9, "y": -0.5, "width": 41, "height": 36 },
+				"shark_2": { "x": 0.9, "y": -0.5, "width": 41, "height": 36 },
+				"shark_3": { "x": 0.9, "y": -0.5, "width": 41, "height": 36 },
+				"shark_4": { "x": 0.9, "y": -0.5, "width": 41, "height": 36 }
+			},
+			"tank_1": {
+				"tank_1": { "y": 0.5, "width": 48, "height": 49 },
+				"tank_2": { "y": 0.5, "width": 48, "height": 49 },
+				"tank_3": { "y": 0.5, "width": 48, "height": 49 },
+				"tank_4": { "y": 0.5, "width": 48, "height": 49 }
+			},
+			"tennis_1": {
+				"tennis_1": { "y": 0.5, "width": 44, "height": 39 },
+				"tennis_2": { "y": 0.5, "width": 44, "height": 39 },
+				"tennis_3": { "y": 0.5, "width": 44, "height": 39 },
+				"tennis_4": { "y": 0.5, "width": 44, "height": 39 }
+			},
+			"yongyongi_1": {
+				"yongyongi_1": { "x": 0.5, "width": 46, "height": 48 },
+				"yongyongi_2": { "x": 0.5, "width": 46, "height": 48 },
+				"yongyongi_3": { "x": 0.5, "width": 46, "height": 48 },
+				"yongyongi_4": { "x": 0.5, "width": 46, "height": 48 },
+				"yongyongi_5": { "x": 0.5, "width": 46, "height": 48 }
+			}
+		}
+	}
+],
+"animations": {
+	"airplane": {
+		"slots": {
+			"airplane_1": {
+				"attachment": [
+					{ "name": "airplane_1" },
+					{ "time": 0.1667, "name": "airplane_2" },
+					{ "time": 0.3333, "name": "airplane_3" },
+					{ "time": 0.5, "name": "airplane_4" },
+					{ "time": 0.6667, "name": "airplane_1" }
+				]
+			}
+		}
+	},
+	"astronaut": {
+		"slots": {
+			"astronaut_1": {
+				"attachment": [
+					{ "name": "astronaut_1" },
+					{ "time": 0.2667, "name": "astronaut_2" },
+					{ "time": 0.5, "name": "astronaut_3" },
+					{ "time": 0.7667, "name": "astronaut_4" },
+					{ "time": 1, "name": "astronaut_1" }
+				]
+			}
+		}
+	},
+	"bat": {
+		"slots": {
+			"bat_1": {
+				"attachment": [
+					{ "name": "bat_1" },
+					{ "time": 0.1667, "name": "bat_2" },
+					{ "time": 0.3333, "name": "bat_3" },
+					{ "time": 0.5, "name": "bat_4" },
+					{ "time": 0.6667, "name": "bat_1" }
+				]
+			}
+		}
+	},
+	"bear": {
+		"slots": {
+			"bear_1": {
+				"attachment": [
+					{ "name": "bear_1" },
+					{ "time": 0.2667, "name": "bear_2" },
+					{ "time": 0.5, "name": "bear_3" },
+					{ "time": 0.7667, "name": "bear_4" },
+					{ "time": 1, "name": "bear_1" }
+				]
+			}
+		}
+	},
+	"cake": {
+		"slots": {
+			"cake_1": {
+				"attachment": [
+					{ "name": "cake_1" },
+					{ "time": 0.1667, "name": "cake_2" },
+					{ "time": 0.3333, "name": "cake_3" },
+					{ "time": 0.5, "name": "cake_4" },
+					{ "time": 0.6667, "name": "cake_1" }
+				]
+			}
+		}
+	},
+	"car": {
+		"slots": {
+			"car_1": {
+				"attachment": [
+					{ "name": "car_1" },
+					{ "time": 0.1667, "name": "car_2" },
+					{ "time": 0.3333, "name": "car_3" },
+					{ "time": 0.5, "name": "car_4" },
+					{ "time": 0.6667, "name": "car_1" }
+				]
+			}
+		}
+	},
+	"cone": {
+		"slots": {
+			"cone_1": {
+				"attachment": [
+					{ "name": "cone_1" },
+					{ "time": 0.1667, "name": "cone_2" },
+					{ "time": 0.3333, "name": "cone_3" },
+					{ "time": 0.5, "name": "cone_4" },
+					{ "time": 0.6667, "name": "cone_5" },
+					{ "time": 0.8333, "name": "cone_6" },
+					{ "time": 1, "name": "cone_1" }
+				]
+			}
+		}
+	},
+	"diver": {
+		"slots": {
+			"diver_1": {
+				"attachment": [
+					{ "name": "diver_1" },
+					{ "time": 0.1667, "name": "diver_2" },
+					{ "time": 0.3333, "name": "diver_3" },
+					{ "time": 0.5, "name": "diver_4" },
+					{ "time": 0.6667, "name": "diver_1" }
+				]
+			}
+		}
+	},
+	"duck": {
+		"slots": {
+			"duck_1": {
+				"attachment": [
+					{ "name": "duck_1" },
+					{ "time": 0.1667, "name": "duck_2" },
+					{ "time": 0.3333, "name": "duck_3" },
+					{ "time": 0.5, "name": "duck_4" },
+					{ "time": 0.6667, "name": "duck_1" }
+				]
+			}
+		}
+	},
+	"fairy": {
+		"slots": {
+			"fairy_1": {
+				"attachment": [
+					{ "name": "fairy_1" },
+					{ "time": 0.1667, "name": "fairy_2" },
+					{ "time": 0.3333, "name": "fairy_3" },
+					{ "time": 0.5, "name": "fairy_4" },
+					{ "time": 0.6667, "name": "fairy_1" }
+				]
+			}
+		}
+	},
+	"fish": {
+		"slots": {
+			"fish_1": {
+				"attachment": [
+					{ "name": "fish_1" },
+					{ "time": 0.1667, "name": "fish_2" },
+					{ "time": 0.3333, "name": "fish_3" },
+					{ "time": 0.5, "name": "fish_4" },
+					{ "time": 0.6667, "name": "fish_1" }
+				]
+			}
+		}
+	},
+	"frog": {
+		"slots": {
+			"frog_1": {
+				"attachment": [
+					{ "name": "frog_1" },
+					{ "time": 0.1667, "name": "frog_2" },
+					{ "time": 0.3333, "name": "frog_3" },
+					{ "time": 0.5, "name": "frog_4" },
+					{ "time": 0.6667, "name": "frog_1" }
+				]
+			}
+		}
+	},
+	"icecream": {
+		"slots": {
+			"icecream_1": {
+				"attachment": [
+					{ "name": "icecream_1" },
+					{ "time": 0.1667, "name": "icecream_2" },
+					{ "time": 0.3333, "name": "icecream_3" },
+					{ "time": 0.5, "name": "icecream_4" },
+					{ "time": 0.6667, "name": "icecream_1" }
+				]
+			}
+		}
+	},
+	"mermaidpenguin": {
+		"slots": {
+			"mermaidpenguin_1": {
+				"attachment": [
+					{ "name": "mermaidpenguin_1" },
+					{ "time": 0.1667, "name": "mermaidpenguin_2" },
+					{ "time": 0.3333, "name": "mermaidpenguin_3" },
+					{ "time": 0.5, "name": "mermaidpenguin_4" },
+					{ "time": 0.6667, "name": "mermaidpenguin_1" }
+				]
+			}
+		}
+	},
+	"mimic": {
+		"slots": {
+			"mimic_1": {
+				"attachment": [
+					{ "name": "mimic_1" },
+					{ "time": 0.1667, "name": "mimic_2" },
+					{ "time": 0.3333, "name": "mimic_3" },
+					{ "time": 0.5, "name": "mimic_4" },
+					{ "time": 0.6667, "name": "mimic_1" }
+				]
+			}
+		}
+	},
+	"panda": {
+		"slots": {
+			"panda_1": {
+				"attachment": [
+					{ "name": "panda_1" },
+					{ "time": 0.1667, "name": "panda_2" },
+					{ "time": 0.3333, "name": "panda_3" },
+					{ "time": 0.5, "name": "panda_4" },
+					{ "time": 0.6667, "name": "panda_1" }
+				]
+			}
+		}
+	},
+	"shark": {
+		"slots": {
+			"shark_1": {
+				"attachment": [
+					{ "name": "shark_1" },
+					{ "time": 0.1667, "name": "shark_2" },
+					{ "time": 0.3333, "name": "shark_3" },
+					{ "time": 0.5, "name": "shark_4" },
+					{ "time": 0.6667, "name": "shark_1" }
+				]
+			}
+		}
+	},
+	"tank": {
+		"slots": {
+			"tank_1": {
+				"attachment": [
+					{ "name": "tank_1" },
+					{ "time": 0.1667, "name": "tank_2" },
+					{ "time": 0.3333, "name": "tank_3" },
+					{ "time": 0.5, "name": "tank_4" },
+					{ "time": 0.6667, "name": "tank_1" }
+				]
+			}
+		}
+	},
+	"tennis": {
+		"slots": {
+			"tennis_1": {
+				"attachment": [
+					{ "name": "tennis_1" },
+					{ "time": 0.1667, "name": "tennis_2" },
+					{ "time": 0.3333, "name": "tennis_3" },
+					{ "time": 0.5, "name": "tennis_4" },
+					{ "time": 0.6667, "name": "tennis_1" }
+				]
+			}
+		}
+	},
+	"yongyongi": {
+		"slots": {
+			"yongyongi_1": {
+				"attachment": [
+					{ "name": "yongyongi_1" },
+					{ "time": 0.2667, "name": "yongyongi_2" },
+					{ "time": 0.5333, "name": "yongyongi_3" },
+					{ "time": 0.8, "name": "yongyongi_4" },
+					{ "time": 1.0667, "name": "yongyongi_5" },
+					{ "time": 1.3333, "name": "yongyongi_1" }
+				]
+			}
+		}
+	}
+}
+}

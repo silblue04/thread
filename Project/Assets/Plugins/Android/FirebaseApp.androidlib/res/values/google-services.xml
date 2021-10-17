@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://super-retro-world-60613898.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">585027512158</string>
+  <string name="google_storage_bucket" translatable="false">super-retro-world-60613898.appspot.com</string>
+  <string name="project_id" translatable="false">super-retro-world-60613898</string>
+  <string name="google_api_key" translatable="false">AIzaSyAfYM2i7ym0m7S6g27AebCzJ5n2r1KKEeY</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAfYM2i7ym0m7S6g27AebCzJ5n2r1KKEeY</string>
+  <string name="google_app_id" translatable="false">1:585027512158:android:b7cc349b8276b6ab7d91cf</string>
+  <string name="default_web_client_id" translatable="false">585027512158-b3lm3vh0jslvj7a3t4un23nnfu06ihtq.apps.googleusercontent.com</string>
+</resources>

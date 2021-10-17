@@ -1,0 +1,432 @@
+{
+"skeleton": { "hash": "/0M+INpApUjb5F2ueF3bKyctkbM", "spine": "3.8.81", "images": "", "audio": "" },
+"bones": [
+	{ "name": "pak_3" }
+],
+"slots": [
+	{ "name": "alien_1", "bone": "pak_3" },
+	{ "name": "board_1", "bone": "pak_3" },
+	{ "name": "bulb_1", "bone": "pak_3" },
+	{ "name": "burger_1", "bone": "pak_3" },
+	{ "name": "carrotrocket_1", "bone": "pak_3" },
+	{ "name": "combat_1", "bone": "pak_3" },
+	{ "name": "cyborg_1", "bone": "pak_3" },
+	{ "name": "dung_1", "bone": "pak_3" },
+	{ "name": "earth_1", "bone": "pak_3" },
+	{ "name": "motocycle_1", "bone": "pak_3" },
+	{ "name": "phone_1", "bone": "pak_3" },
+	{ "name": "planet_1", "bone": "pak_3" },
+	{ "name": "portable_1", "bone": "pak_3" },
+	{ "name": "robot_1", "bone": "pak_3" },
+	{ "name": "rocket_1", "bone": "pak_3" },
+	{ "name": "ship_1", "bone": "pak_3" },
+	{ "name": "soldier_1", "bone": "pak_3" },
+	{ "name": "star_1", "bone": "pak_3" },
+	{ "name": "ufo_1", "bone": "pak_3" },
+	{ "name": "whale_1", "bone": "pak_3" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"alien_1": {
+				"alien_1": { "x": 0.5, "y": 0.5, "width": 53, "height": 39 },
+				"alien_2": { "x": 0.5, "y": 0.5, "width": 53, "height": 39 },
+				"alien_3": { "x": 0.5, "y": 0.5, "width": 53, "height": 39 },
+				"alien_4": { "x": 0.5, "y": 0.5, "width": 53, "height": 39 }
+			},
+			"board_1": {
+				"board_1": { "x": 0.5, "y": 1.5, "width": 43, "height": 51 },
+				"board_2": { "x": 0.5, "y": 1.5, "width": 43, "height": 51 },
+				"board_3": { "x": 0.5, "y": 1.5, "width": 43, "height": 51 },
+				"board_4": { "x": 0.5, "y": 1.5, "width": 43, "height": 51 }
+			},
+			"bulb_1": {
+				"bulb_1": { "y": 2, "width": 32, "height": 38 },
+				"bulb_2": { "y": 2, "width": 32, "height": 38 },
+				"bulb_3": { "y": 2, "width": 32, "height": 38 },
+				"bulb_4": { "y": 2, "width": 32, "height": 38 }
+			},
+			"burger_1": {
+				"burger_1": { "y": 5, "width": 28, "height": 38 },
+				"burger_2": { "y": 5, "width": 28, "height": 38 },
+				"burger_3": { "y": 5, "width": 28, "height": 38 },
+				"burger_4": { "y": 5, "width": 28, "height": 38 }
+			},
+			"carrotrocket_1": {
+				"carrotrocket_1": { "x": 0.5, "width": 57, "height": 52 },
+				"carrotrocket_2": { "x": 0.5, "width": 57, "height": 52 },
+				"carrotrocket_3": { "x": 0.5, "width": 57, "height": 52 },
+				"carrotrocket_4": { "x": 0.5, "width": 57, "height": 52 }
+			},
+			"combat_1": {
+				"combat_1": { "x": 0.5, "y": 1.3, "width": 27, "height": 33 },
+				"combat_2": { "x": 0.5, "y": 1.3, "width": 27, "height": 33 },
+				"combat_3": { "x": 0.5, "y": 1.3, "width": 27, "height": 33 },
+				"combat_4": { "x": 0.5, "y": 1.3, "width": 27, "height": 33 }
+			},
+			"cyborg_1": {
+				"cyborg_1": { "x": 0.5, "y": 0.5, "width": 31, "height": 33 },
+				"cyborg_2": { "x": 0.5, "y": 0.5, "width": 31, "height": 33 },
+				"cyborg_3": { "x": 0.5, "y": 0.5, "width": 31, "height": 33 },
+				"cyborg_4": { "x": 0.5, "y": 0.5, "width": 31, "height": 33 }
+			},
+			"dung_1": {
+				"dung_1": { "y": 1, "width": 26, "height": 26 },
+				"dung_2": { "y": 1, "width": 26, "height": 26 },
+				"dung_3": { "y": 1, "width": 26, "height": 26 },
+				"dung_4": { "y": 1, "width": 26, "height": 26 }
+			},
+			"earth_1": {
+				"earth_1": { "x": -1, "y": 1, "width": 52, "height": 44 },
+				"earth_2": { "x": -1, "y": 1, "width": 52, "height": 44 },
+				"earth_3": { "x": -1, "y": 1, "width": 52, "height": 44 },
+				"earth_4": { "x": -1, "y": 1, "width": 52, "height": 44 },
+				"earth_5": { "x": -1, "y": 1, "width": 52, "height": 44 },
+				"earth_6": { "x": -1, "y": 1, "width": 52, "height": 44 },
+				"earth_7": { "x": -1, "y": 1, "width": 52, "height": 44 }
+			},
+			"motocycle_1": {
+				"motocycle_1": { "x": 0.5, "y": -2.5, "width": 51, "height": 47 },
+				"motocycle_2": { "x": 0.5, "y": -2.5, "width": 51, "height": 47 },
+				"motocycle_3": { "x": 0.5, "y": -2.5, "width": 51, "height": 47 },
+				"motocycle_4": { "x": 0.5, "y": -2.5, "width": 51, "height": 47 }
+			},
+			"phone_1": {
+				"phone_1": { "x": 0.5, "width": 31, "height": 42 },
+				"phone_2": { "x": 0.5, "width": 31, "height": 42 },
+				"phone_3": { "x": 0.5, "width": 31, "height": 42 },
+				"phone_4": { "x": 0.5, "width": 31, "height": 42 }
+			},
+			"planet_1": {
+				"planet_1": { "x": 0.5, "width": 57, "height": 40 },
+				"planet_2": { "x": 0.5, "width": 57, "height": 40 },
+				"planet_3": { "x": 0.5, "width": 57, "height": 40 },
+				"planet_4": { "x": 0.5, "width": 57, "height": 40 }
+			},
+			"portable_1": {
+				"portable_1": { "x": -1, "y": 0.5, "width": 42, "height": 35 },
+				"portable_2": { "x": -1, "y": 0.5, "width": 42, "height": 35 },
+				"portable_3": { "x": -1, "y": 0.5, "width": 42, "height": 35 },
+				"portable_4": { "x": -1, "y": 0.5, "width": 42, "height": 35 },
+				"portable_5": { "x": -1, "y": 0.5, "width": 42, "height": 35 },
+				"portable_6": { "x": -1, "y": 0.5, "width": 42, "height": 35 }
+			},
+			"robot_1": {
+				"robot_1": { "y": 0.5, "width": 48, "height": 45 },
+				"robot_2": { "y": 0.5, "width": 48, "height": 45 },
+				"robot_3": { "y": 0.5, "width": 48, "height": 45 },
+				"robot_4": { "y": 0.5, "width": 48, "height": 45 }
+			},
+			"rocket_1": {
+				"rocket_1": { "x": -1, "y": 1, "width": 44, "height": 44 },
+				"rocket_2": { "x": -1, "y": 1, "width": 44, "height": 44 },
+				"rocket_3": { "x": -1, "y": 1, "width": 44, "height": 44 },
+				"rocket_4": { "x": -1, "y": 1, "width": 44, "height": 44 }
+			},
+			"ship_1": {
+				"ship_1": { "x": 0.5, "y": 2.5, "width": 53, "height": 53 },
+				"ship_2": { "x": 0.5, "y": 2.5, "width": 53, "height": 53 },
+				"ship_3": { "x": 0.5, "y": 2.5, "width": 53, "height": 53 },
+				"ship_4": { "x": 0.5, "y": 2.5, "width": 53, "height": 53 }
+			},
+			"soldier_1": {
+				"soldier_1": { "y": 0.5, "width": 46, "height": 45 },
+				"soldier_2": { "y": 0.5, "width": 46, "height": 45 },
+				"soldier_3": { "y": 0.5, "width": 46, "height": 45 },
+				"soldier_4": { "y": 0.5, "width": 46, "height": 45 }
+			},
+			"star_1": {
+				"star_1": { "x": 0.5, "y": 1.5, "width": 33, "height": 33 },
+				"star_2": { "x": 0.5, "y": 1.5, "width": 33, "height": 33 },
+				"star_3": { "x": 0.5, "y": 1.5, "width": 33, "height": 33 },
+				"star_4": { "x": 0.5, "y": 1.5, "width": 33, "height": 33 }
+			},
+			"ufo_1": {
+				"ufo_1": { "x": -0.5, "y": -3.5, "width": 49, "height": 49 },
+				"ufo_2": { "x": -0.5, "y": -3.5, "width": 49, "height": 49 },
+				"ufo_3": { "x": -0.5, "y": -3.5, "width": 49, "height": 49 },
+				"ufo_4": { "x": -0.5, "y": -3.5, "width": 49, "height": 49 }
+			},
+			"whale_1": {
+				"whale_1": { "x": -2, "y": 0.5, "width": 64, "height": 43 },
+				"whale_2": { "x": -2, "y": 0.5, "width": 64, "height": 43 },
+				"whale_3": { "x": -2, "y": 0.5, "width": 64, "height": 43 },
+				"whale_4": { "x": -2, "y": 0.5, "width": 64, "height": 43 },
+				"whale_5": { "x": -2, "y": 0.5, "width": 64, "height": 43 }
+			}
+		}
+	}
+],
+"animations": {
+	"alien": {
+		"slots": {
+			"alien_1": {
+				"attachment": [
+					{ "name": "alien_1" },
+					{ "time": 0.1667, "name": "alien_2" },
+					{ "time": 0.3333, "name": "alien_3" },
+					{ "time": 0.5, "name": "alien_4" },
+					{ "time": 0.6667, "name": "alien_1" }
+				]
+			}
+		}
+	},
+	"board": {
+		"slots": {
+			"board_1": {
+				"attachment": [
+					{ "name": "board_1" },
+					{ "time": 0.1667, "name": "board_2" },
+					{ "time": 0.3333, "name": "board_3" },
+					{ "time": 0.5, "name": "board_4" },
+					{ "time": 0.6667, "name": "board_1" }
+				]
+			}
+		}
+	},
+	"bulb": {
+		"slots": {
+			"bulb_1": {
+				"attachment": [
+					{ "name": "bulb_1" },
+					{ "time": 0.1667, "name": "bulb_2" },
+					{ "time": 0.3333, "name": "bulb_3" },
+					{ "time": 0.5, "name": "bulb_4" },
+					{ "time": 0.6667, "name": "bulb_1" }
+				]
+			}
+		}
+	},
+	"burger": {
+		"slots": {
+			"burger_1": {
+				"attachment": [
+					{ "name": "burger_1" },
+					{ "time": 0.1667, "name": "burger_2" },
+					{ "time": 0.3333, "name": "burger_3" },
+					{ "time": 0.5, "name": "burger_4" },
+					{ "time": 0.6667, "name": "burger_1" }
+				]
+			}
+		}
+	},
+	"carrotrocket": {
+		"slots": {
+			"carrotrocket_1": {
+				"attachment": [
+					{ "name": "carrotrocket_1" },
+					{ "time": 0.1667, "name": "carrotrocket_2" },
+					{ "time": 0.3333, "name": "carrotrocket_3" },
+					{ "time": 0.5, "name": "carrotrocket_4" },
+					{ "time": 0.6667, "name": "carrotrocket_1" }
+				]
+			}
+		}
+	},
+	"combat": {
+		"slots": {
+			"combat_1": {
+				"attachment": [
+					{ "name": "combat_1" },
+					{ "time": 0.1667, "name": "combat_2" },
+					{ "time": 0.3333, "name": "combat_3" },
+					{ "time": 0.5, "name": "combat_4" },
+					{ "time": 0.6667, "name": "combat_1" }
+				]
+			}
+		}
+	},
+	"cyborg": {
+		"slots": {
+			"cyborg_1": {
+				"attachment": [
+					{ "name": "cyborg_1" },
+					{ "time": 0.1667, "name": "cyborg_2" },
+					{ "time": 0.3333, "name": "cyborg_3" },
+					{ "time": 0.5, "name": "cyborg_4" },
+					{ "time": 0.6667, "name": "cyborg_1" }
+				]
+			}
+		}
+	},
+	"dung": {
+		"slots": {
+			"dung_1": {
+				"attachment": [
+					{ "name": "dung_1" },
+					{ "time": 0.1667, "name": "dung_2" },
+					{ "time": 0.3333, "name": "dung_3" },
+					{ "time": 0.5, "name": "dung_4" },
+					{ "time": 0.6667, "name": "dung_1" }
+				]
+			}
+		}
+	},
+	"earth": {
+		"slots": {
+			"earth_1": {
+				"attachment": [
+					{ "name": "earth_1" },
+					{ "time": 0.1667, "name": "earth_2" },
+					{ "time": 0.3333, "name": "earth_3" },
+					{ "time": 0.5, "name": "earth_4" },
+					{ "time": 0.6667, "name": "earth_5" },
+					{ "time": 0.8333, "name": "earth_6" },
+					{ "time": 1, "name": "earth_7" },
+					{ "time": 1.1667, "name": "earth_1" }
+				]
+			}
+		}
+	},
+	"motocycle": {
+		"slots": {
+			"motocycle_1": {
+				"attachment": [
+					{ "name": "motocycle_1" },
+					{ "time": 0.1667, "name": "motocycle_2" },
+					{ "time": 0.3333, "name": "motocycle_3" },
+					{ "time": 0.5, "name": "motocycle_4" },
+					{ "time": 0.6667, "name": "motocycle_1" }
+				]
+			}
+		}
+	},
+	"phone": {
+		"slots": {
+			"phone_1": {
+				"attachment": [
+					{ "name": "phone_1" },
+					{ "time": 0.1, "name": "phone_2" },
+					{ "time": 0.2, "name": "phone_3" },
+					{ "time": 0.3, "name": "phone_4" },
+					{ "time": 0.6667, "name": "phone_3" },
+					{ "time": 0.7667, "name": "phone_2" },
+					{ "time": 0.8667, "name": "phone_1" },
+					{ "time": 1.1667, "name": "phone_1" }
+				]
+			}
+		}
+	},
+	"planet": {
+		"slots": {
+			"planet_1": {
+				"attachment": [
+					{ "name": "planet_1" },
+					{ "time": 0.1667, "name": "planet_2" },
+					{ "time": 0.3333, "name": "planet_3" },
+					{ "time": 0.5, "name": "planet_4" },
+					{ "time": 0.6667, "name": "planet_1" }
+				]
+			}
+		}
+	},
+	"portable": {
+		"slots": {
+			"portable_1": {
+				"attachment": [
+					{ "name": "portable_1" },
+					{ "time": 0.1667, "name": "portable_2" },
+					{ "time": 0.3333, "name": "portable_3" },
+					{ "time": 0.5, "name": "portable_4" },
+					{ "time": 0.6667, "name": "portable_5" },
+					{ "time": 0.8333, "name": "portable_6" },
+					{ "time": 1, "name": "portable_1" }
+				]
+			}
+		}
+	},
+	"robot": {
+		"slots": {
+			"robot_1": {
+				"attachment": [
+					{ "name": "robot_1" },
+					{ "time": 0.1667, "name": "robot_2" },
+					{ "time": 0.3333, "name": "robot_3" },
+					{ "time": 0.5, "name": "robot_4" },
+					{ "time": 0.6667, "name": "robot_1" }
+				]
+			}
+		}
+	},
+	"rocket": {
+		"slots": {
+			"rocket_1": {
+				"attachment": [
+					{ "name": "rocket_1" },
+					{ "time": 0.1667, "name": "rocket_2" },
+					{ "time": 0.3333, "name": "rocket_3" },
+					{ "time": 0.5, "name": "rocket_4" },
+					{ "time": 0.6667, "name": "rocket_1" }
+				]
+			}
+		}
+	},
+	"ship": {
+		"slots": {
+			"ship_1": {
+				"attachment": [
+					{ "name": "ship_1" },
+					{ "time": 0.1667, "name": "ship_2" },
+					{ "time": 0.3333, "name": "ship_3" },
+					{ "time": 0.5, "name": "ship_4" },
+					{ "time": 0.6667, "name": "ship_1" }
+				]
+			}
+		}
+	},
+	"soldier": {
+		"slots": {
+			"soldier_1": {
+				"attachment": [
+					{ "name": "soldier_1" },
+					{ "time": 0.1667, "name": "soldier_2" },
+					{ "time": 0.3333, "name": "soldier_3" },
+					{ "time": 0.5, "name": "soldier_4" },
+					{ "time": 0.6667, "name": "soldier_1" }
+				]
+			}
+		}
+	},
+	"star": {
+		"slots": {
+			"star_1": {
+				"attachment": [
+					{ "name": "star_1" },
+					{ "time": 0.1667, "name": "star_2" },
+					{ "time": 0.3333, "name": "star_3" },
+					{ "time": 0.5, "name": "star_4" },
+					{ "time": 0.6667, "name": "star_1" }
+				]
+			}
+		}
+	},
+	"ufo": {
+		"slots": {
+			"ufo_1": {
+				"attachment": [
+					{ "name": "ufo_1" },
+					{ "time": 0.2333, "name": "ufo_2" },
+					{ "time": 0.5, "name": "ufo_3" },
+					{ "time": 0.7333, "name": "ufo_4" },
+					{ "time": 1, "name": "ufo_1" }
+				]
+			}
+		}
+	},
+	"whale": {
+		"slots": {
+			"whale_1": {
+				"attachment": [
+					{ "name": "whale_1" },
+					{ "time": 0.2, "name": "whale_2" },
+					{ "time": 0.4, "name": "whale_3" },
+					{ "time": 0.6, "name": "whale_4" },
+					{ "time": 0.8, "name": "whale_5" },
+					{ "time": 1, "name": "whale_1" }
+				]
+			}
+		}
+	}
+}
+}

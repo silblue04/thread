@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8521047410934559265
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8521047410934559267}
+  - component: {fileID: 8349963317492297422}
+  m_Layer: 0
+  m_Name: MonsterImageCollector_Pak_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8521047410934559267
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8521047410934559265}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8349963317492297422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8521047410934559265}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62283fbe7ae1344aa8f5488c6abe3fb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pak_idx: 1
+  _directory: /NotLoadResources/Sprite/MonsterImage/Pak_{0}
+  _recursive: 1
+  _spriteCollectorDictionary:
+    m_keys:
+    - pak_1_apple
+    - pak_1_box
+    - pak_1_clover
+    - pak_1_crow
+    - pak_1_devil
+    - pak_1_dog
+    - pak_1_flower
+    - pak_1_heart
+    - pak_1_key
+    - pak_1_knight
+    - pak_1_meat
+    - pak_1_mushroom
+    - pak_1_potion
+    - pak_1_princess
+    - pak_1_skull
+    - pak_1_skullsoldier
+    - pak_1_slime
+    - pak_1_slimeking
+    - pak_1_tree
+    - pak_1_unicorn
+    - pak_2_airplane
+    - pak_2_astronaut
+    - pak_2_bat
+    - pak_2_bear
+    - pak_2_cake
+    - pak_2_car
+    - pak_2_cone
+    - pak_2_diver
+    - pak_2_duck
+    - pak_2_fairy
+    - pak_2_fish
+    - pak_2_frog
+    - pak_2_icecream
+    - pak_2_mermaidpenguin
+    - pak_2_mimic
+    - pak_2_panda
+    - pak_2_shark
+    - pak_2_tank
+    - pak_2_tennis
+    - pak_2_yongyongi
+    m_values:
+    - {fileID: 21300000, guid: 8217275196d943c45af38ade79a5c487, type: 3}
+    - {fileID: 21300000, guid: 3e49b454958a17740a797ed56bf4a193, type: 3}
+    - {fileID: 21300000, guid: ee0e2eabe0aa01b4789d004fe78d49ec, type: 3}
+    - {fileID: 21300000, guid: 19bb0cf37af67fc47835f2b45985dae9, type: 3}
+    - {fileID: 21300000, guid: 0311ec14464224c48a53011a7cccafac, type: 3}
+    - {fileID: 21300000, guid: 5c825f5700d98614393b0f8c25abb43d, type: 3}
+    - {fileID: 21300000, guid: 08ebf68ea2d1c334eadc4caf9df44256, type: 3}
+    - {fileID: 21300000, guid: 8018c074fd199eb4fa17e87aea2fa798, type: 3}
+    - {fileID: 21300000, guid: 6bde19a325d52754a8e5f12a290596e4, type: 3}
+    - {fileID: 21300000, guid: dcf8ddb46b4e0554293a58034a27a807, type: 3}
+    - {fileID: 21300000, guid: d16d84aff202ded4f9498528a21eca59, type: 3}
+    - {fileID: 21300000, guid: 44f26171c538b09428afc0c0a9dc2563, type: 3}
+    - {fileID: 21300000, guid: 2d55f748dbee4a44dac0e0ce415d5d27, type: 3}
+    - {fileID: 21300000, guid: 7e6e0b3430248c2459209a9f19f2aada, type: 3}
+    - {fileID: 21300000, guid: ee3310f4d65de034e8a423d6845ec087, type: 3}
+    - {fileID: 21300000, guid: c423e51def1a72e4ca5b8dd9f65c1c70, type: 3}
+    - {fileID: 21300000, guid: 8a6d7c33e8c24f94b824b7379ca821c9, type: 3}
+    - {fileID: 21300000, guid: b17448a107c015f46ae70d91be33bf20, type: 3}
+    - {fileID: 21300000, guid: 9d5a2658f3f92a0439b0dddcaaf19480, type: 3}
+    - {fileID: 21300000, guid: f67293cbc60e7fe4392f707177139d40, type: 3}
+    - {fileID: 21300000, guid: 567fdd770c807ca43872e2f256bebb2b, type: 3}
+    - {fileID: 21300000, guid: 647992d05fad67a45a15fe847bbe0e92, type: 3}
+    - {fileID: 21300000, guid: ce1c3cd7292ad75468ffbcae50b6345e, type: 3}
+    - {fileID: 21300000, guid: 7a3b66ef78035684cb821e0d35ba03f5, type: 3}
+    - {fileID: 21300000, guid: c643ad220e27e23449a224329b98a1d3, type: 3}
+    - {fileID: 21300000, guid: 30d055ea13aebf84dbda8f52c2a6f2a0, type: 3}
+    - {fileID: 21300000, guid: 0133298cf49f5bd4dbb4a202d7d3973d, type: 3}
+    - {fileID: 21300000, guid: ca6ee9d339920b14285d0129a2ce5cbc, type: 3}
+    - {fileID: 21300000, guid: e3219c82c9a506e468925b38fd1a80c8, type: 3}
+    - {fileID: 21300000, guid: b12f20d05cfe747479282fbe034f071b, type: 3}
+    - {fileID: 21300000, guid: fac19c36b988427408a1d2adbe14d5b7, type: 3}
+    - {fileID: 21300000, guid: debfde3702e67a741b8de4da9ba126a1, type: 3}
+    - {fileID: 21300000, guid: 41e9b86d41a9fdf4b88c34ac1fb0b748, type: 3}
+    - {fileID: 21300000, guid: 99e61ed19c7eb8547aad6d29b63520c6, type: 3}
+    - {fileID: 21300000, guid: 6a60c295b59936f439fce4432a50e0b3, type: 3}
+    - {fileID: 21300000, guid: 708cf6d843a827c499f26a1aefc382a9, type: 3}
+    - {fileID: 21300000, guid: da1158587e1470d4f9bec4905cec5cef, type: 3}
+    - {fileID: 21300000, guid: 37f594876518e63449cf26024d6ed7d3, type: 3}
+    - {fileID: 21300000, guid: 13f548a6b36d9924a9885925efcd2b51, type: 3}
+    - {fileID: 21300000, guid: 64662cf6813ecfb4f9380db1248e4379, type: 3}

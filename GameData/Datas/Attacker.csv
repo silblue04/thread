@@ -1,0 +1,5 @@
+attackter_idx,attackter_class_type,prefab_renderer_name,attacker_base_stat_idx
+100,Warrior,Prefabs/UnityAnimation/Unit/Attacker/Cha_101,100
+101,Rogue,Prefabs/UnityAnimation/Unit/Attacker/Cha_101,101
+102,Archer,Prefabs/UnityAnimation/Unit/Attacker/Cha_101,102
+103,Mage,Prefabs/UnityAnimation/Unit/Attacker/Cha_101,103

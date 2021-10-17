@@ -1,0 +1,1440 @@
+Language,Korean,English,ChineseSimplified,ChineseTraditional
+skill,Skill,Skill,技能,技能
+quest,Quest,Quest,任务,任務
+option,Option,Option,选项,選項
+lv,Lv.{0},Lv.{0},Lv.{0},Lv.{0}
+grade,등급,Grade,-,-
+level,레벨,Level,-,-
+equipment_set,장비세트,-,-,-
+world,WORLD,WORLD,WORLD,WORLD
+popup_exit_title,EXIT,EXIT,EXIT,EXIT
+popup_exit_desc,정말로 떠나시는건가요?,Are you sure to exit the game?,您确定退出游戏么？,您確定退出遊戲麼？
+max,Max,Max,Max,Max
+dps,DPS,DPS,DPS,DPS
+finish,마무리,Finish,结束,結束
+no,아니요,No,不,不
+yes,네,Yes,Yes,Yes
+system_message_not_loaded_ads,이런! 광고를 못 찾았어요. 잠시 후 다시 시도해주세요.,We can't find any ads.Please try again later.,无法加载广告.请稍后再试,無法加載廣告.請稍後再試
+popup_option_title,OPTION,OPTION,选项,選項
+popup_option_language,언어,language,语言,語言
+popup_option_bgm,배경음,bgm,背景音乐,背景音樂
+popup_option_sfx,효과음,sound,音效,音效
+popup_option_effect,이펙트,effect,特效,特效
+show_speed_0,Very Slow,very slow,非常慢,非常慢
+show_speed_1,Slow,slow,慢,慢
+show_speed_2,Normal,normal,正常,正常
+show_speed_3,Fast,Fast,快速,快速
+show_speed_4,Very Fast,Very Fast,非常快,非常快
+power,Power,Power,功率,功率
+count,Count,Count,计数,計數
+speed,Speed,Speed,速度,速度
+system_message_to_be_updated,공사중 입니다!,Coming soon!,敬请期待！,敬請期待！
+new_projectile,New Weapon!,New Weapon!,新武器！,新武器！
+costume_idx_0_desc_key,설명_코스튬_0,-,-,-
+costume_idx_1_desc_key,설명_코스튬_1,-,-,-
+costume_idx_2_desc_key,설명_코스튬_2,-,-,-
+costume_idx_3_desc_key,설명_코스튬_3,-,-,-
+costume_idx_4_name_key,명칭_코스튬_4,-,-,-
+costume_idx_4_desc_key,설명_코스튬_4,-,-,-
+costume_idx_5_name_key,명칭_코스튬_5,-,-,-
+costume_idx_5_desc_key,설명_코스튬_5,-,-,-
+costume_idx_6_name_key,명칭_코스튬_6,-,-,-
+costume_idx_6_desc_key,설명_코스튬_6,-,-,-
+costume_idx_7_name_key,명칭_코스튬_7,-,-,-
+costume_idx_7_desc_key,설명_코스튬_7,-,-,-
+costume_idx_8_name_key,명칭_코스튬_8,-,-,-
+costume_idx_8_desc_key,설명_코스튬_8,-,-,-
+time_day,d,d,d,d
+time_hour,h,h,h,h
+time_min,m,m,m,m
+time_sec,s,s,s,s
+buff_idx_1000_name_key,손가락 강화 훈련,Finger strengthening training,强化手指训练,強化手指訓練
+buff_idx_1001_name_key,동료 강화 단련,Partner strengthening training,同伴强化训练,同伴強化訓練
+buff_idx_1002_name_key,동료 강화 단련,Partner strengthening training,同伴强化训练,同伴強化訓練
+buff_idx_1003_name_key,손가락 강화 훈련,Finger strengthening training,手指强化训练,手指強化訓練
+buff_idx_1004_name_key,효율증대! 보물상자,Efficiency increased! Treasure box,提高效率！宝箱,提高效率！寶箱
+buff_idx_1005_name_key,효율증대! 보물상자,Efficiency increased! Treasure box,提高效率！宝箱,提高效率！寶箱
+buff_idx_1006_name_key,손가락 강화 훈련,Finger strengthening training,强化手指训练,強化手指訓練
+buff_idx_1007_name_key,재태크의 달인,Master of Finance,理财达人,理財達人
+buff_idx_1100_name_key,손가락 강화 훈련,Finger strengthening training,强化手指训练,強化手指訓練
+buff_idx_1101_name_key,약점을 노려라!,Aim at weakness!,瞄准弱点！,瞄準弱點！
+buff_idx_1102_name_key,약점을 노려라!,Aim at weakness!,瞄准弱点！,瞄準弱點！
+buff_idx_1103_name_key,손가락 강화 훈련,Finger strengthening training,强化同伴训练,強化同伴訓練
+buff_idx_1104_name_key,너-무 아픈 한방,Bitter blow,沉痛一击,沉痛一擊
+buff_idx_1105_name_key,너-무 아픈 한방,Bitter blow,沉痛一击,沉痛一擊
+buff_idx_1106_name_key,손가락 강화 훈련,Finger strengthening training,强化手指训练,強化手指訓練
+buff_idx_1107_name_key,스쿼트의 달인,Squat Master,深蹲达人,深蹲達人
+buff_idx_1200_name_key,더-많은 보물상자,More-more treasure chests,更多宝箱,更多寶箱
+buff_idx_1201_name_key,효율증대! 보물상자,Improve efficiency! Treasure chest,提高效率！宝箱,提高效率！寶箱
+buff_idx_1202_name_key,효율증대! 보물상자,Improve efficiency! Treasure chest,提高效率！宝箱,提高效率！寶箱
+buff_idx_1203_name_key,더-많은 보물상자,More-more treasure chests,更多宝箱,更多寶箱
+buff_idx_1204_name_key,효율증대! 보물상자,Increased efficiency! treasure box,提高效率！宝箱,提高效率！寶箱
+buff_idx_1205_name_key,효율증대! 보물상자,Improve efficiency! Treasure chest,提高效率！宝箱,提高效率！寶箱
+buff_idx_1206_name_key,더-많은 보물상자,More treasure chests,更多宝箱,更多寶箱
+buff_idx_1207_name_key,재태크의 달인,Financial manager,理财达人,理財達人
+buff_idx_1300_name_key,주먹왕이 되어라!,Become a Champ!,成为拳王！,成為拳王！
+buff_idx_1301_name_key,울어라 화살촉아!,Go!Go!Go! arrows!,箭如雨下！,箭如雨下！
+buff_idx_1302_name_key,보라색 맛 났어!,It tasted purple!,尝起来棒极了！,嘗起來棒極了！
+buff_idx_1303_name_key,제품 설명서 완독,Read through the product manual,通读产品说明书,通讀產品說明書
+buff_idx_1304_name_key,가스불 조절하기,Adjust the gas fire,调节灶火,調節灶火
+buff_idx_1305_name_key,정수기 필터교체,Replace water dispenser filter,更换饮水机滤芯,更換飲水機濾芯
+buff_idx_1306_name_key,에어컨 파워모드,Air conditioner power mode,空调强力模式,空調強力模式
+buff_idx_1307_name_key,실내온도 조절하기,Adjust room temperature,调整室温,調整室溫
+buff_idx_1000_desc_key,탭 데미지 증가 {0},click damage increased by {0},点击伤害增加{0},點擊傷害增加{0}
+buff_idx_1001_desc_key,용병 데미지 증가 {0},mercenary damage increased by {0},佣兵伤害增加{0},傭兵傷害增加{0}
+buff_idx_1002_desc_key,용병 데미지 증가 {0},mercenary damage increased by {0},佣兵伤害增加{0},傭兵傷害增加{0}
+buff_idx_1003_desc_key,탭 데미지 증가 {0},Tap Damage increased by {0},点击伤害增加{0},點擊傷害增加{0}
+buff_idx_1004_desc_key,보물상자 골드량 증가 {0},Treasure Chest Gold Amount increased by {0},增加宝箱金币数量{0},增加寶箱金幣數量{0}
+buff_idx_1005_desc_key,보물상자 골드량 증가 {0},Treasure Chest Gold Amount increased by {0},增加宝箱金币数量{0},增加寶箱金幣數量{0}
+buff_idx_1006_desc_key,탭 데미지 증가 {0},Tap Damage increased by {0},增加点击伤害值{0},增加點擊傷害值{0}
+buff_idx_1007_desc_key,모든 골드량 증가 {0},All coins increased by {0},所有金币量增加{0},所有金幣量增加{0}
+buff_idx_1100_desc_key,크리티컬 확률 증가 {0},critical strike rate increased by {0},提高暴击率{0},提高暴擊率{0}
+buff_idx_1101_desc_key,크리티컬 데미지 증가 {0},Critical damage increased by {0},暴击伤害增加{0},暴擊傷害增加{0}
+buff_idx_1102_desc_key,크리티컬 데미지 증가 {0},Critical damage increased by {0},暴击伤害增加{0},暴擊傷害增加{0}
+buff_idx_1103_desc_key,크리티컬 확률 증가 {0},Increase critical strike rate {0},提高暴击率{0},提高暴擊率{0}
+buff_idx_1104_desc_key,크리티컬 데미지 증가 {0},Critical damage increased by {0},暴击伤害增加{0},暴擊傷害增加{0}
+buff_idx_1105_desc_key,크리티컬 데미지 증가 {0},Critical damage increased by {0},暴击伤害增加{0},暴擊傷害增加{0}
+buff_idx_1106_desc_key,크리티컬 확률 증가 {0},Increase critical strike rate {0},提高暴击率{0},提高暴擊率{0}
+buff_idx_1107_desc_key,모든 데미지 증가 {0},Increase all damage {0},增加所有伤害{0},增加所有傷害{0}
+buff_idx_1200_desc_key,보물상자 확률 증가 {0},Increase Treasure Chest Chance by {0},宝箱机率增加{0},寶箱幾率增加{0}
+buff_idx_1201_desc_key,보물상자 골드량 증가 {0},Treasure Chest Gold Amount Increased by {0},增加宝箱金币量{0},增加寶箱金幣量{0}
+buff_idx_1202_desc_key,보물상자 골드량 증가 {0},Treasure Chest Gold Amount Increased by {0},增加宝箱金币量{0},增加寶箱金幣量{0}
+buff_idx_1203_desc_key,보물상자 확률 증가 {0},Treasure Chest Chance Increased by {0},增加宝箱出现机率{0},增加寶箱出現機率{0}
+buff_idx_1204_desc_key,보물상자 골드량 증가 {0},Treasure Chest Gold Amount Increased by {0},宝箱金币量增加{0},寶箱金幣量增加{0}
+buff_idx_1205_desc_key,보물상자 골드량 증가 {0},Treasure Chest Gold Amount Increased by {0},宝箱金币量增加{0},寶箱金幣量增加{0}
+buff_idx_1206_desc_key,보물상자 확률 증가 {0},Treasure Chest Chance Increased by {0},宝箱机率增加{0},寶箱機率增加{0}
+buff_idx_1207_desc_key,모든 골드량 증가 {0},All Gold Amount increased by {0},所有金币量增加{0},所有金幣量增加{0}
+buff_idx_1300_desc_key,근접 공격력 증가 {0},Melee damage increased by {0},近战伤害提高{0},近戰傷害提高{0}
+buff_idx_1301_desc_key,원거리 공격력 증가 {0},long-range attack power increased by {0},提高远程攻击力{0},提高遠程攻擊力{0}
+buff_idx_1302_desc_key,마법 공격력 증가 {0},magic attack power increased by {0},增加魔法攻击力{0},增加魔法攻擊力{0}
+buff_idx_1303_desc_key,기계 공격력 증가 {0},mechanical damage increased by {0},增加机械伤害{0},增加機械傷害{0}
+buff_idx_1304_desc_key,불속성 피해량 증가 {0},fire damage increased by {0},增加火属性伤害{0},增加火屬性傷害{0}
+buff_idx_1305_desc_key,물속성 피해량 증가 {0},water damage increased by {0},增加水属性伤害{0},增加水屬性傷害{0}
+buff_idx_1306_desc_key,바람속성 피해량 증가 {0},wind damage increased by {0},增加风属性伤害{0},增加風屬性傷害{0}
+buff_idx_1307_desc_key,땅속성 피해량 증가 {0},soil damage increased by {0},增加土属性伤害{0},增加土屬性傷害{0}
+buff_idx_5000_name_key,속사의 리볼버,Fast revolver,闪电左轮手枪,閃電左輪手槍
+buff_idx_5001_name_key,VIP 회원증,VIP membership card,VIP会员卡,VIP會員卡
+buff_idx_5002_name_key,황금 마차,Golden carriage,金色马车,金色馬車
+buff_idx_5003_name_key,초심자의 다트,Darts for beginners,初学者的飞镖,初學者的飛鏢
+buff_idx_5004_name_key,금 메달,gold medal,金牌,金牌
+buff_idx_5005_name_key,메달 장식대,Medallion,奖牌装饰台,獎牌裝飾臺
+buff_idx_5006_name_key,황금 트로피,Golden trophy,金奖杯,金獎杯
+buff_idx_5007_name_key,황금 거위,Golden goose,黄金鹅,黃金鵝
+buff_idx_5008_name_key,빛나는 열쇠,Glowing key,发光钥匙,發光鑰匙
+buff_idx_5009_name_key,날카로운 죽창,Sharp bamboo spear,锋利的竹矛,鋒利的竹矛
+buff_idx_5010_name_key,힘의 건틀릿,Power Gauntlets,力量护手,力量護手
+buff_idx_5011_name_key,용사의 훈장,Warrior Medal,勇士勋章,勇士勳章
+buff_idx_5012_name_key,미다스의 손,Midas's Hand,点金手,點金手
+buff_idx_5013_name_key,속사의 장갑,Rapid Fire Gloves,快速射击手套,快速射擊手套
+buff_idx_5000_desc_key,재장전단계 증가\n{0},reload level increased by \n{0},装载阶段提高\n {0},裝載階段提高\n {0}
+buff_idx_5001_desc_key,무기 용병 업그레이드 할인\n{0},Weapon Mercenary Upgrade Discount\n{0},武器佣兵升级优惠\n {0},武器傭兵升級優惠\n {0}
+buff_idx_5002_desc_key,보물상자 효율 증폭\n{0},Treasure Chest Efficiency increased by \n{0},宝箱效率提升\n {0},寶箱效率提升\n {0}
+buff_idx_5003_desc_key,크리티컬 확률 증가\n{0},Critical Rate Increased by \n{0},提高暴击率\n {0},提高暴擊率\n {0}
+buff_idx_5004_desc_key,환생 시 메달 획득량 증가\n{0},Medals obtained received increased by \n{0}when reborn,重生时获得奖牌增加\n{0},重生時獲得獎牌增加\n{0}
+buff_idx_5005_desc_key,환생 시 메달 획득량 증가\n{0},Medals obtained received increased by \n{0}when reborn,重生时获得奖牌增加\n{0},重生時獲得獎牌增加\n{0}
+buff_idx_5006_desc_key,환생 시 증가한 Stage 만큼 메달 획득\n{0},When reborn. you can get medals according to your stages \n {0},重生后.可获得增加关卡同等数量的奖牌\n {0},重生後.可獲得增加關卡同等數量的獎牌\n {0}
+buff_idx_5007_desc_key,골드 획득량 증가\n{0},Gold Amount increased by \n{0},增加金币获得量\n {0},增加金幣獲得量\n {0}
+buff_idx_5008_desc_key,보물상자 효율 증폭\n{0},Treasure Chest Efficiency Boost\n{0},宝箱效率提升\n {0},寶箱效率提升\n {0}
+buff_idx_5009_desc_key,크리티컬 데미지 증가\n{0},critical damage increased by \n {0},增加暴击伤害\n {0},增加暴擊傷害\n {0}
+buff_idx_5010_desc_key,모든 공격력 증가\n{0},all attack power increased by \n {0},提高所有攻击力\n {0},提高所有攻擊力\n {0}
+buff_idx_5011_desc_key,용병이 100레벨마다 총 데미지 증가.\n{0} (최대 600% 증가),Mercenaries increase the total damage value every 100 levels. \n {0} (up to 600% increase),佣兵每100级增加总伤害值。\n {0}（最多增加600％）,傭兵每100級增加總傷害值。\n {0}（最多增加600％）
+buff_idx_5012_desc_key,골드 획득량 증가\n{0},Increase the amount of gold coins obtained\n {0},增加金币获得量\n {0},增加金幣獲得量\n {0}
+buff_idx_5013_desc_key,장전시 일정 확률로 즉시 재장전\n{0},Reload immediately with a certain probability when you load \n {0},在加载过程中以一定的概率立即重新加载\n {0},在加載過程中以一定的概率立即重新加載\n {0}
+name_key_treasure_idx_0,속사의 리볼버,Rapid Fire Revolver,快速左轮手枪,快速左輪手槍
+name_key_treasure_idx_1,VIP 회원증,VIP membership card,VIP会员卡,VIP會員卡
+name_key_treasure_idx_2,황금 마차,Golden carriage,金色马车,金色馬車
+name_key_treasure_idx_3,초심자의 다트,Beginner's darts,初学者的飞镖,初學者的飛鏢
+name_key_treasure_idx_4,금 메달,gold medal,金牌,金牌
+name_key_treasure_idx_5,메달 장식대,Medallion,奖章,獎章
+name_key_treasure_idx_6,황금 트로피,Golden trophy,金奖杯,金獎杯
+name_key_treasure_idx_7,황금 거위,Golden goose,黄金鹅,黃金鵝
+name_key_treasure_idx_8,빛나는 열쇠,Shining key,发光钥匙,發光鑰匙
+name_key_treasure_idx_9,날카로운 죽창,Sharp bamboo spear,锋利的竹矛,鋒利的竹矛
+name_key_treasure_idx_10,힘의 건틀릿,Gauntlets of Strength,力量护手,力量護手
+name_key_treasure_idx_11,용사의 훈장,Medal of the Champion,勇士的勋章,勇士的勳章
+name_key_treasure_idx_12,미다스의 손,Midas's Hand,点金手,點金手
+name_key_treasure_idx_13,속사의 장갑,Rapid Fire Gloves,快速射击手套,快速射擊手套
+popup_prestige_success,환생 성공!,Reincarnation success!,重生成功！,重生成功！
+Reward,보상,reward,奖励,獎勵
+basic_reward,Stage 보상,Stage reward,关卡奖励,關卡獎勵
+confirm,확인,Confirm,确认,確認
+level_up,Level Up,Level Up,升级,升級
+reach_stage,Stgae 돌파!,Break through the stgae!,突破关卡！,突破關卡！
+UnitNameText,Mr.Smith,Mr.Smith,史密斯先生,史密斯先生
+challenge,Challenge,Challenge,挑战,挑戰
+give_up,Give Up,Give Up,放弃,放棄
+prestige_desc,도달한 Stage에 따라 대량의 메달을 획득합니다!\n무기와 골드는 초기화되고 용병과 보물은 유지됩니다.,You will get a lot of medals according to your level. ! \n Weapons and gold will be reset. mercenaries and treasures will be retained.,根据您所处的关卡等级.您将获得大量奖牌！\n武器和黄金会重置.佣兵和宝藏会保留。,根據您所處的關卡等級.您將獲得大量獎牌！\n武器和黃金會重置.傭兵和寶藏會保留。
+Worker,Worker,Worker,Worker,Worker
+Mercenary,Staff,Staff,员工,員工
+Treasure,Treasure,Treasure,宝藏,寶藏
+Shop,Shop,Shop,商店,商店
+gems,Gem,Gem,宝石,寶石
+watch_ad,Watch AD,Watch AD,观看广告,觀看廣告
+BEST,BEST,BEST,最好,最好
+HIT,HIT,HIT,击中,擊中
+legend,Legend,Legend,传说,傳說
+prestige,Prestige,Prestige,声望,聲望
+special,Special,Special,特别,特別
+Collect,Collect,Collect,收集,收集
+popup_ads_title,천사의 선물,Angel's gift,天使的礼物,天使的禮物
+popup_reward_title,알림,notice,提醒,提醒
+popup_reward_desc,보상 획득!,Got a reward!,获得奖励！,獲得獎勵！
+next_projectile,New Weapon!,New Weapon!,新武器！,新武器！
+popup_prestige_title,Go! Go! Prestige,Go! Go! Prestige,升起来吧！声望,升起來吧！聲望
+new_record,기록 갱신!,Record has been broken!,打破记录！,打破記錄！
+stage,현재 Stage,Current Stage,目前关卡,目前關卡
+best_record,이전 기록,Previous record,之前的纪录,之前的紀錄
+revival_idx_1_name_key,슈퍼 환생,Super rebirth,超级轮回,超級輪回
+revival_idx_0_name_key,그냥 환생,Direct rebirth,直接重生,直接重生
+ad,광고 시청 시,When watching an ad,观看广告时,觀看廣告時
+total_reward,총 획득 메달,Medals earned overall,获得奖牌,獲得獎牌
+popup_prestige_calculation_title,Go! Go! Prestige,Rebirth Statement,重生,重生
+popup_prestige_success_title,Prestige Success!,Prestige Success!,重生!,重生!
+treasure_idx_0_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_1_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_2_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_3_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_4_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_5_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_6_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_7_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_8_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_9_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_10_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_11_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_12_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_13_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_14_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_15_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_16_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_17_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+product_idx_101_desc_0,첫 구매 보너스 +1000,First Purchase Bonus +1000,首次购买奖励+1000,首次購買獎勵+1000
+product_idx_102_desc_0,첫 구매 보너스 +3000,First Purchase Bonus +3000,首次购买奖励+3000,首次購買獎勵+3000
+product_idx_103_desc_0,첫 구매 보너스 +5000,First Purchase Bonus +5000,首次购买奖励+5000,首次購買獎勵+5000
+product_idx_104_desc_0,첫 구매 보너스 +10000,First Purchase Bonus +10000,首次购买奖励+10000,首次購買獎勵+10000
+product_idx_105_desc_0,첫 구매 보너스 +30000,First Purchase Bonus +30000,首次购买奖励+30000,首次購買獎勵+30000
+product_idx_106_desc_0,첫 구매 보너스 +50000,First Purchase Bonus +50000,首次购买奖励+50000,首次購買獎勵+50000
+product_idx_101_price_desc_key,Gem 1000,Gem 1000,宝石1000,寶石1000
+product_idx_111_price_desc_key,Gem 1000,Gem 1000,宝石1000,寶石1000
+product_idx_102_price_desc_key,Gem 3000,Gem 3000,宝石3000,寶石3000
+product_idx_112_price_desc_key,Gem 3000,Gem 3000,宝石3000,寶石3000
+product_idx_103_price_desc_key,Gem 5000,Gem 5000,宝石5000,寶石5000
+product_idx_113_price_desc_key,Gem 5000,Gem 5000,宝石5000,寶石5000
+product_idx_104_price_desc_key,Gem 10000,Gem 10000,宝石10000,寶石10000
+product_idx_114_price_desc_key,Gem 10000,Gem 10000,宝石10000,寶石10000
+product_idx_105_price_desc_key,Gem 30000,Gem 30000,宝石30000,寶石30000
+product_idx_115_price_desc_key,Gem 30000,Gem 30000,宝石30000,寶石30000
+product_idx_106_price_desc_key,Gem 50000,Gem 50000,宝石50000,寶石50000
+product_idx_116_price_desc_key,Gem 50000,Gem 50000,宝石50000,寶石50000
+product_idx_100000_price_desc_key,Free! Gem 300,Free! Gem 300,免费！宝石300,免費！寶石300
+achievement_idx_0_name_key,터치터치! 화면 터치하기!,Click click! Tap the screen!,点击点击！点击屏幕！,點擊點擊！點擊螢幕！
+achievement_idx_1_name_key,강하다! 무기 업그레이드!,Super! Upgrade weapons!,超强！升级武器！,超強！升級武器！
+achievement_idx_2_name_key,슥슥 스테이지 클리어!,Hurry up to clear the stage!,嗖嗖嗖的通关吧！,嗖嗖嗖的通關吧！
+achievement_idx_3_name_key,파파박! 필살 픽셀 부시기!,Bang bang bang! Break the pixel!,砰砰砰！ 击碎砖块吧！,砰砰砰！ 擊碎磚塊吧！
+achievement_idx_4_name_key,주머니 빵빵! 보물상자 획득!,Full of pockets! Got the treasure chest!,口袋满满！获得宝箱！,口袋滿滿！獲得寶箱！
+mercenary_idx_10_name_key,샥크스,Sharks,鲨克斯,鯊克斯
+mercenary_idx_11_name_key,월링턴,Wallington,沃灵顿,沃靈頓
+mercenary_idx_12_name_key,우사기,Usagi,兔斯奇,兔斯奇
+mercenary_idx_13_name_key,드래콩,Dragcong,龙龙空,龍龍空
+hire,고용하기,Hiring,雇佣,雇傭
+costume_idx_0_name_key,5분 대기조. 샥크스,Five minute stand-by. Sharks,速度王.鲨克斯,速度王.鯊克斯
+costume_idx_1_name_key,3 대 500. 월링턴,3 against 500. Wallington,3比500。威灵顿,3比500。威靈頓
+costume_idx_2_name_key,칼퇴의 요정. 우사기,Ending-on-time fairy. Usagi,准点下班王 兔斯奇,准點下班王 兔斯奇
+costume_idx_3_name_key,동호회 회장. 드래콩,Club president. Dracong,俱乐部部长.龙龙空,俱樂部部長.龍龍空
+weapon_name_10000,선임이 쓰던 장도리,-,-,-
+weapon_name_10001,예쁜 말이 나오는 도끼,-,-,-
+weapon_name_10002,연봉협상의 화살,-,-,-
+weapon_name_10003,미스터 류의 사인볼,-,-,-
+name_key_add_on_idx_0,오토 터치,Auto touch,自动点击,自動點擊
+desc_key_add_on_idx_0,자동으로 공격합니다!,Attack automatically!,自动攻击！,自動攻擊！
+buff_idx_10000_name_key,데미지 x2,Final damage doubled!,最终伤害加倍！,最終傷害加倍！
+buff_idx_10001_name_key,골드 x2,Double the amount of gold!,获得的金量翻倍！,獲得的金量翻倍！
+buff_idx_10000_desc_key,최종 데미지가 2배로 증가합니다!,Final damage doubled!,最终伤害加倍！,最終傷害加倍！
+buff_idx_10001_desc_key,골드 획득량이 2배로 증가합니다!,Gold income doubled!,黄金收益翻倍！,黃金收益翻倍！
+real_time_dps,실시간 DPS,Real-time DPS,实时DPS,即時DPS
+worker_dps,일꾼 DPS,Worker DPS,worker DPS,worker DPS
+merceary_dps,동료 DPS,Partner DPS,同伴DPS,同伴DPS
+popup_ad_free_func_title,무료 버프,Free buff,免费buff,免費buff
+Watch AD,광고 시청,Watch ad,观看广告,觀看廣告
+duration_time,버프 지속시간,Buff duration,buff持续时间,buff持續時間
+Off,Off,Off,Off,Off
+On,On,On,On,On
+popup_help_title,도움말,Help,帮助,幫助
+help_ad_free_func,아주 강력한 무료로 버프를 받아보세요.\n광고만 시청하면 빵빵한 버프가 들어옵니다.\n\n1. 오토 터치\n터치를 하지 않아도 자동으로 공격합니다!\n\n2. 최종 데미지 2배!\n모든 데미지가 200%로 증가합니다!\n\n3. 골드 획득량 2배!\n골드 획득량이 200%로 증가합니다!,Get very powerful buff for free.\nYou only need to watch an ad and you'll get a full buff.\n\n1. Auto Touch\n You can attack automatically without tapping!\n\n2. Double final damage! \nAll damage is increased to 200%!\n\n3. Double the amount of gold!\nThe amount of gold is increased to 200%!,来免费获得超级强大的增益效果吧.\n观看广告就可以拥有强大的buff.\n\n1. 自动点击\n不需要点击就可以自动攻击!\n\n2. 最终伤害值2倍!\n所有伤害值都增加到200%!\n\n3. 金币获得量2倍!\n金币获得量增加到200%!,來免費獲得超級強大的增益效果吧.\n觀看廣告就可以擁有強大的buff.\n\n1. 自動點擊\n不需要點擊就可以自動攻擊!\n\n2. 最終傷害值2倍!\n所有傷害值都增加到200%!\n\n3. 金幣獲得量2倍!\n金幣獲得量增加到200%!
+projectile_collection,보유한 무기 종류,Type of weapon possessed,所拥有的武器类型,所擁有的武器類型
+costume_collection,보유한 의상 종류,Type of clothing possessed,所拥有的服装类型,所擁有的服裝類型
+projectile,무기,weapon,武器,武器
+costume,의상,costume,服装,服裝
+euip,장착하기,equip,装备,裝備
+popup_gacha,돌려라! 가챠머신!,Turn it around! Gacha machine!,转起来吧！扭蛋机！,轉起來吧！扭蛋機！
+times,{0}회,time,次,次
+gacha,가챠,Gacha,扭蛋,扭蛋
+weapon,무기,weapon,武器,武器
+popup_mission_title,업적,Achievements,成就,成就
+overlap_multi,지속시간,duration,持续时间,持續時間
+not_applied_projectile,무기 미착용,No weapons equipped,未装备武器,未裝備武器
+not_applied_costume,코스튬 미착용,No costume,未装备服装,未裝備服裝
+projectile_num,탄,shot,发,發
+step,단계,stage,阶段,階段
+popup_yesno_message_party_preset_not_saved,프리셋이 저장되지 않습니다. 팝업을 닫으시겠습니까?,You haven't saved the lineup.\nAre you sure to close it?\n\n! Press press the button apply to save it.,没有组队配置存储信息。\n要将弹窗关闭么？\n\n!你需要点击应用才能适配上！,沒有組隊配置存儲資訊。\n要將彈窗關閉麼？\n\n!你需要點擊應用才能適配上！
+help_gacha,가챠를 구매해서 동료들을 꾸며주세요!\n무기와 코스튬을 뽑아서 내 동료를 더 강하게!\n\n똑같은 시너지를 지닌 무기와 코스튬을 입히면 숨겨진 힘이 나타납니다!\n동료에게 멋진 코스튬과 잘 어울리는 무기를 끼워주세요!\n\n확률고지!\n일반 : 89.00%\n고급 : 10.00%\n희귀 : 1.00%,You can dress up your partners by gacha!\n Pull out weapons and costumes to make your partners stronger!\n\n You will find hidden power when you wear weapons and costumes with the same synergy!\n Equip weapon that goes well with the best costume!\n\nProbability notice!\nNormal: 89.00%\nAdvanced: 10.00%\nRare: 1.00%,购买扭蛋币来打扮你的同伴吧！\n抽取武器和服装.让我的同伴变得更强！!\n\n如果装备了组合效果的武器和服装会出现隐藏的力量哦！!\n快给同伴配上酷炫的服装和合适的武器吧！\ n \ n概率通知！\ n普通：89.00％\ n高级：10.00％\ n稀有率：1.00％,
+system_message_on_ad_free_func,{0} 켜졌습니다!,{0} starts now!,{0} 从现在开始,{0} 從現在開始
+system_message_off_ad_free_func,{0} 꺼졌습니다!,{0} has been terminated.,{0} 已结束,{0} 已經結束
+SYSTEM_MESSAGE_NOT_ENOUGH_BASIC_CURRNECY,재화가 부족합니다.,You don't have enough money,货币不足,貨幣不足
+system_message_not_loaded_reward_ads,광고가 없습니다.,No ads can be loaded.,没有广告,沒有廣告
+system_message_iap_there_is_no_product,관련 상품이 없습니다.,No related products.,没有相关商品。,沒有相關商品。
+system_message_iap_fail_purchase_product,구매에 실패했습니다.,Failed to buy.,购买失败,購買失敗
+system_message_iap_fail_duplicate_product,중복된 구매입니다.,Duplicate purchase.,重复购买,重複購買
+SYSTEM_MESSAGE_PRODUCT_SOLD_OUT,오늘은 더이상 구매할 수 없습니다.,You can't buy it anymore today.,今天无法再购买了。,今天無法再購買了。
+SYSTEM_MESSAGE_PRODUCT_FAILED_TO_RECEIVE_PRICE_INFORMATION,상품 가격 정보를 가져올 수 없습니다.,Failed to load the information of product's price.,无法加载商品的价格信息。,無法加載商品的價格資訊。
+quest_idx_0_title_key,화면을 터치해주세요.,Touch the screen.,请触摸屏幕。,請觸摸屏幕。
+quest_idx_10_title_key,화면을 10번 터치해주세요.,Touch the screen 10 times.,请触摸屏幕10次。,請觸摸屏幕10次。
+quest_idx_20_title_key,픽셀을 10개 부셔주세요.,-,-,-
+quest_idx_30_title_key,Worker를 업그레이드 해주세요.,Upgrade the worker.,请升级你的worker。,請升級你的worker。
+quest_idx_40_title_key,Worker의 Lv.6로 업그레이드,Upgrade to Lv.6 of Worker,请将worker升级到Lv.6,請將worker升級到Lv.6
+quest_idx_50_title_key,Worker의 Lv.11로 업그레이드,Upgrade to Lv.11 of Worker,将worker升级到Lv.11,將worker升級到Lv.11
+quest_idx_60_title_key,300골드로 샥크스 고용하기,Hire Sharks with 300A Gold,花费300金币雇佣鲨克斯,花費300金幣雇傭鯊克斯
+quest_idx_70_title_key,샥크스 Level Up 하기,Level up Sharks,升级鲨克斯,升級鯊克斯
+quest_idx_80_title_key,Worker의 Lv.16로 업그레이드,Upgrade to Lv.16 of Worker,将worker升级到Lv.16,將worker升級到Lv.16
+quest_idx_90_title_key,샥크스의 스킬 획득하기 (Level 10 필요),-,-,-
+quest_idx_100_title_key,5A골드로 월링턴 고용하기,Hire Wallington with 5A Gold,花费5A金币雇佣威灵顿,花費5A金幣雇傭威靈頓
+quest_idx_110_title_key,월링턴 Level Up 하기,Level up Wallington,升级威灵顿,升級威靈頓
+quest_idx_120_title_key,Worker의 Lv.21로 업그레이드,Upgrade to Lv.21 of Worker,将worker升级到Lv.21,將worker升級到Lv.21
+quest_idx_130_title_key,스테이지 2 클리어,Stage 2 cleared,完成第二关卡,完成第二關卡
+quest_idx_140_title_key,월링턴의 스킬 획득하기 (Level 10 필요),-,-,-
+quest_idx_150_title_key,15A골드로 우사기 고용하기,Hire Usagi with 15A Gold,花费15A金币雇佣兔斯奇,花費15A金幣雇傭兔斯奇
+quest_idx_160_title_key,우사기 Level Up 하기,Level up Usagi,升级兔斯奇,升級兔斯奇
+quest_idx_170_title_key,Worker의 Lv.26로 업그레이드,Upgrade to Lv.26 of Worker,升级为worker的Lv.26,升級為worker的Lv.26
+quest_idx_180_title_key,샥크스의 스킬 획득하기 (Level 20 필요),-,-,-
+quest_idx_190_title_key,스테이지 5 클리어,Stage 5 cleared,完成第五关卡,完成第五關卡
+quest_idx_200_title_key,우사기의 스킬 획득하기 (Level 10 필요),-,-,-
+quest_idx_210_title_key,Worker의 Lv.31로 업그레이드,Upgrade to Lv.31 of Worker,将worker升级到Lv.31,將worker升級到Lv.31
+quest_idx_220_title_key,200A골드로 드래콩 고용하기,Hire Dracong with 200A Gold,花费200A金币雇佣龙龙空,花費200A金幣雇傭龍龍空
+quest_idx_230_title_key,드래콩 Level Up 하기,Level up Dracong,升级龙龙空,升級龍龍空
+quest_idx_240_title_key,월링턴의 스킬 획득하기 (Level 20 필요),-,-,-
+quest_idx_250_title_key,샥크스의 스킬 획득하기 (Level 50 필요),-,-,-
+quest_idx_260_title_key,Worker의 Lv.41로 업그레이드,Upgrade to Lv.41 of Worker,将worker升级到Lv.41,將worker升級到Lv.41
+quest_idx_270_title_key,우사기의 스킬 획득하기 (Level 20 필요),-,-,-
+quest_idx_280_title_key,스테이지 10 클리어,-,-,-
+quest_idx_290_title_key,샥크스의 스킬 획득하기 (Level 100 필요),-,-,-
+quest_idx_300_title_key,Worker의 Lv.46로 업그레이드,Upgrade to Lv.46 of Worker,worker升级到Lv.46,worker升級到Lv.46
+quest_idx_310_title_key,월링턴의 스킬 획득하기 (Level 50 필요),-,-,-
+quest_idx_320_title_key,드래콩의 스킬 획득하기 (Level 20 필요),-,-,-
+quest_idx_330_title_key,Worker의 Lv.51로 업그레이드,Upgrade to Lv.51 of Worker,将worker升级到Lv.51,將worker升級到Lv.51
+quest_idx_340_title_key,동료들 Level Up 50번 해주기,-,-,-
+quest_idx_350_title_key,스테이지 20 클리어,-,-,-
+quest_idx_360_title_key,[보물] VIP 회원증 획득하기,-,-,-
+quest_idx_370_title_key,[보물] VIP 회원증 업그레이드,-,-,-
+quest_idx_380_title_key,[보물] 초심자의 다트 획득하기,-,-,-
+quest_idx_390_title_key,[보물] 초심자의 다트 업그레이드,-,-,-
+quest_idx_400_title_key,샥크스의 Level 900 달성,Achieved Level 900 of Sharks,鲨克斯等级达到900,鯊克斯等級達到900
+quest_idx_410_title_key,샥크스의 Level 999 달성,Achieved Level 999 of Sharks,鲨克斯等级达到999,鯊克斯等級達到999
+quest_idx_420_title_key,샥크스 Evolution 하기,Evolve Sharks,将鲨克斯进化,將鯊克斯進化
+quest_idx_430_title_key,샥크스 Level Up 하기,Level up Sharks,升级鲨克斯,升級鯊克斯
+quest_idx_440_title_key,Worker의 Lv.81로 업그레이드,Upgrade to Lv.81 of Worker,worker升级到Lv.81,worker升級到Lv.81
+quest_idx_450_title_key,월링턴 Evolution 하기,Evolve Wallington,将威灵顿进行进化,將威靈頓進行進化
+quest_idx_460_title_key,월링턴 Level Up 하기,Level up Wallington,升级威灵顿,升級威靈頓
+quest_idx_470_title_key,스테이지 25 클리어,-,-,-
+quest_idx_480_title_key,우사기 Evolution 하기,Evolve Usagi,进化兔斯奇,進化兔斯奇
+quest_idx_490_title_key,우사기 Level Up 하기,Level up Usagi,升级兔斯奇,升級兔斯奇
+quest_idx_500_title_key,Worker의 Lv.86로 업그레이드,Upgrade to Lv.86 of Worker,worker升级到Lv.86,worker升級到Lv.86
+quest_idx_510_title_key,드래콩 Evolution 하기,Evolve Dracong,进化龙龙空,進化龍龍空
+quest_idx_520_title_key,드래콩 Level Up 하기,Level up Dracong,升级龙龙空,升級龍龍空
+quest_idx_530_title_key,스테이지 30 클리어,-,-,-
+quest_idx_540_title_key,Worker의 Lv.91로 업그레이드,-,-,-
+quest_idx_550_title_key,이제 환생하여 더 강해지세요,-,-,-
+quest_idx_0_desc_key,화면을 터치하면 망치가 발사됩니다!,Touch the screen and the hammer will fire!,触摸屏幕会发射锤子！,觸摸屏幕會發射錘子！
+quest_num_0_title_key,화면을 터치해주세요.,Touch the screen.,请触摸屏幕。,請觸摸屏幕。
+quest_num_1_title_key,화면을 10번 터치해주세요.,Touch the screen 10 times.,请触摸屏幕10次。,請觸摸屏幕10次。
+quest_num_2_title_key,픽셀을 20개 부셔주세요.,Break 20 pixels.,请打碎20个砖块。,請打碎20個磚塊。
+quest_num_3_title_key,Worker를 업그레이드 해주세요.,Upgrade the worker.,请升级你的worker。,請升級你的worker。
+quest_num_4_title_key,Worker의 Lv.6로 업그레이드,Upgrade to Lv.6 of Worker,请将worker升级到Lv.6,請將worker升級到Lv.6
+quest_num_5_title_key,픽셀에서 나오는 상자를 5개 주워주세요.,Pick up 5 of the boxes coming out from the pixels.,请击碎从像素中出来的五个箱子。,請擊碎從像素中出來的五個箱子。
+quest_num_6_title_key,Worker의 Lv.11로 업그레이드,Upgrade to Lv.11 of Worker,将worker升级到Lv.11,將worker升級到Lv.11
+quest_num_7_title_key,픽셀을 50개 부셔주세요.,Break 50 pixels.,请击碎50个砖块。,請擊碎50個磚塊。
+quest_num_8_title_key,300골드로 샥크스 고용하기,Hire Sharks with 300A Gold,花费300金币雇佣鲨克斯,花費300金幣雇傭鯊克斯
+quest_num_9_title_key,샥크스 Level Up 하기,Level up Sharks,升级鲨克斯,升級鯊克斯
+quest_num_10_title_key,그림을 1개 완성 시켜주세요!,-,-,-
+quest_num_11_title_key,Worker의 Lv.16로 업그레이드,Upgrade to Lv.16 of Worker,将worker升级到Lv.16,將worker升級到Lv.16
+quest_num_12_title_key,픽셀에서 나오는 상자를 30개 주워주세요.,-,-,-
+quest_num_13_title_key,스테이지 1 클리어,Stage 1 cleared,完成第一关,完成第一關
+quest_num_14_title_key,샥크스의 스킬 획득하기 (Level 10 필요),-,-,-
+quest_num_15_title_key,7A골드로 월링턴 고용하기,Hire Wallington with 7A Gold,花费7A金币雇佣威灵顿,花費7A金幣雇傭威靈頓
+quest_num_16_title_key,월링턴 Level Up 하기,Level up Wallington,升级威灵顿,升級威靈頓
+quest_num_17_title_key,픽셀을 100개 부셔주세요.,Break 100 pixels.,击碎100个砖块。,擊碎100個磚塊。
+quest_num_18_title_key,Worker의 Lv.21로 업그레이드,Upgrade to Lv.21 of Worker,将worker升级到Lv.21,將worker升級到Lv.21
+quest_num_19_title_key,스테이지 2 클리어,Stage 2 cleared,完成第二关卡,完成第二關卡
+quest_num_20_title_key,화면을 25번 터치해주세요.,Touch the screen 25 times.,请触摸屏幕25次。,請觸摸屏幕25次。
+quest_num_21_title_key,월링턴의 스킬 획득하기 (Level 10 필요),-,-,-
+quest_num_22_title_key,15A골드로 우사기 고용하기,Hire Usagi with 15A Gold,花费15A金币雇佣兔斯奇,花費15A金幣雇傭兔斯奇
+quest_num_23_title_key,우사기 Level Up 하기,Level up Usagi,升级兔斯奇,升級兔斯奇
+quest_num_24_title_key,Worker의 Lv.26로 업그레이드,Upgrade to Lv.26 of Worker,升级为worker的Lv.26,升級為worker的Lv.26
+quest_num_25_title_key,샥크스의 스킬 획득하기 (Level 20 필요),-,-,-
+quest_num_26_title_key,그림을 5개 완성 시켜주세요!,Complete 5 pictures!,请完成5张图片！,請完成5張圖片！
+quest_num_27_title_key,스테이지 5 클리어,Stage 5 cleared,完成第五关卡,完成第五關卡
+quest_num_28_title_key,200A골드로 드래콩 고용하기,Hire Dracong with 200A Gold,花费200A金币雇佣龙龙空,花費200A金幣雇傭龍龍空
+quest_num_29_title_key,드래콩 Level Up 하기,Level up Dracong,升级龙龙空,升級龍龍空
+quest_num_30_title_key,우사기의 스킬 획득하기 (Level 10 필요),-,-,-
+quest_num_31_title_key,Worker의 Lv.31로 업그레이드,Upgrade to Lv.31 of Worker,将worker升级到Lv.31,將worker升級到Lv.31
+quest_num_32_title_key,월링턴의 스킬 획득하기 (Level 20 필요),-,-,-
+quest_num_33_title_key,샥크스의 스킬 획득하기 (Level 50 필요),-,-,-
+quest_num_34_title_key,Worker의 Lv.36로 업그레이드,Upgrade to Lv.36 of Worker,升级为workerLv.36,升級為workerLv.36
+quest_num_35_title_key,픽셀에서 나오는 상자를 50개를 주워주세요.,Pick up 50 of the boxes coming out from the pixels.,捡起砖块中掉落的50个箱子,撿起磚塊中掉落的50個箱子
+quest_num_36_title_key,Worker의 Lv.41로 업그레이드,Upgrade to Lv.41 of Worker,将worker升级到Lv.41,將worker升級到Lv.41
+quest_num_37_title_key,우사기의 스킬 획득하기 (Level 20 필요),-,-,-
+quest_num_38_title_key,드래콩의 스킬 획득하기 (Level 10 필요),-,-,-
+quest_num_39_title_key,스테이지 10 클리어\n! 무기와 동료 강화는 필수 !,Stage 10 cleared\n! Weapons and teammates must be strengthened !,完成关卡10 \n！强化武器和同伴至关重要！,完成關卡10 \n！強化武器和同伴至關重要！
+quest_num_40_title_key,샥크스의 스킬 획득하기 (Level 100 필요),-,-,-
+quest_num_41_title_key,Worker의 Lv.46로 업그레이드,Upgrade to Lv.46 of Worker,worker升级到Lv.46,worker升級到Lv.46
+quest_num_42_title_key,월링턴의 스킬 획득하기 (Level 50 필요),-,-,-
+quest_num_43_title_key,드래콩의 스킬 획득하기 (Level 20 필요),-,-,-
+quest_num_44_title_key,우사기의 스킬 획득하기 (Level 50 필요),-,-,-
+quest_num_45_title_key,월링턴의 스킬 획득하기 (Level 100 필요),-,-,-
+quest_num_46_title_key,Worker의 Lv.51로 업그레이드,Upgrade to Lv.51 of Worker,将worker升级到Lv.51,將worker升級到Lv.51
+quest_num_47_title_key,동료들을 100번 강화하기,Strengthen teammates 100 times.,将你的同伴强化100次,將你的同伴強化100次
+quest_num_48_title_key,스테이지 15 클리어\n! 무기와 동료 강화는 필수 !,Stage 15 cleared\n! Weapons and teammates must be strengthened !,完成第15关卡 \n！强化武器和同伴至关重要！,完成第15關卡 \n！強化武器和同伴至關重要！
+quest_num_49_title_key,!보물! VIP 회원증 획득하기,!Treasure! VIP Membership Card obtained,！宝藏！获得VIP会员卡,！寶藏！獲得VIP會員卡
+quest_num_50_title_key,!보물! VIP 회원증 Lv.30로 업그레이드,!Treasure! VIP Membership Card upgraded to Lv.30,！宝藏！将VIP会员卡升级到30级,！寶藏！將VIP會員卡升級到30級
+quest_num_51_title_key,!보물! 황금마차 획득하기,!Treasure! Golden Carriage obtained,！宝藏！获取黄金马车,！寶藏！獲取黃金馬車
+quest_num_52_title_key,!보물! 황금마차 Lv.20로 업그레이드,!Treasure! Golden Carriage upgraded to Lv.20,！宝藏！将黄金马车升级到Lv.20,！寶藏！將黃金馬車升級到Lv.20
+quest_num_53_title_key,우사기의 스킬 획득하기 (Level 100 필요),-,-,-
+quest_num_54_title_key,드래콩의 스킬 획득하기 (Level 100 필요),-,-,-
+quest_num_55_title_key,Worker의 Lv.66로 업그레이드,-,-,-
+quest_num_56_title_key,스테이지 20 클리어\n! 무기와 동료 강화는 필수 !,Stage 20 cleared\n! Weapons and teammates must be strengthened !,完成第20关卡 \n！一定要强化武器和同伴！,完成第20關卡 \n！一定要強化武器和同伴！
+quest_num_57_title_key,!보물! 초심자의 다트 획득하기,!Treasure! Beginner's Dart obtained,！宝藏！获取初学者的飞镖,！寶藏！獲取初學者的飛鏢
+quest_num_58_title_key,!보물! 초심자의 다트 Lv.10 업그레이드,!Treasure! Beginner's Dart upgraded to Lv.10,！宝藏！初学者飞镖升级到Lv.10,！寶藏！初學者飛鏢升級到Lv.10
+quest_num_59_title_key,!보물! 속사의 리볼버 획득하기,!Treasure! Rapid Revolver obtained,！宝藏！购买左轮手枪,！寶藏！購買左輪手槍
+quest_num_60_title_key,!보물! 속사의 리볼버 Lv.15 업그레이드,!Treasure! Rapid Revolver upgraded to Lv.15,！宝藏！左轮手枪升级到Lv.15,！寶藏！左輪手槍升級到Lv.15
+quest_num_61_title_key,Worker의 Lv.76로 업그레이드,Upgrade to Lv.76 of Worker,worker升级到Lv.76,worker升級到Lv.76
+quest_num_62_title_key,샥크스의 Level 900 달성,Achieved Level 900 of Sharks,鲨克斯等级达到900,鯊克斯等級達到900
+quest_num_63_title_key,샥크스의 Level 999 달성,Achieved Level 999 of Sharks,鲨克斯等级达到999,鯊克斯等級達到999
+quest_num_64_title_key,샥크스 Evolution 하기,Evolve Sharks,将鲨克斯进化,將鯊克斯進化
+quest_num_65_title_key,샥크스 Level Up 하기,Level up Sharks,升级鲨克斯,升級鯊克斯
+quest_num_66_title_key,Worker의 Lv.81로 업그레이드,Upgrade to Lv.81 of Worker,worker升级到Lv.81,worker升級到Lv.81
+quest_num_67_title_key,월링턴의 Level 900 달성,Achieved Level 900 of Wallington,威灵顿达到等级900级,威靈頓達到等級900級
+quest_num_68_title_key,월링턴의 Level 999 달성,Achieved Level 999 of Wallington,威灵顿等级达到999,威靈頓等級達到999
+quest_num_69_title_key,월링턴 Evolution 하기,Evolve Wallington,将威灵顿进行进化,將威靈頓進行進化
+quest_num_70_title_key,월링턴 Level Up 하기,Level up Wallington,升级威灵顿,升級威靈頓
+quest_num_71_title_key,스테이지 25 클리어\n! 무기와 동료 강화는 필수 !,Stage 25 cleared\n! Weapons and teammates must be strengthened !,完成第25关 \n！强化武器和同伴至关重要！,完成第25關 \n！強化武器和同伴至關重要！
+quest_num_72_title_key,샥크스의 집중을 획득하세요.,Obtain Sharks' concentration.,获得鲨克斯的聚焦。,獲得鯊克斯的聚焦。
+quest_num_73_title_key,월링턴의 저력을 획득하세요.,Obtain Wallington's potential.,发挥威灵顿的潜力。,發揮威靈頓的潛力。
+quest_num_74_title_key,우사기의 격려을 획득하세요.,Obtain Usagi's encouragement.,得到兔斯奇的激励。,得到兔斯奇的激勵。
+quest_num_75_title_key,드래콩의 기합을 획득하세요.,Obtain Dracong's spirit.,获得龙龙空的蓄力。,獲得龍龍空的蓄力。
+quest_num_76_title_key,Worker의 Lv.86로 업그레이드,Upgrade to Lv.86 of Worker,worker升级到Lv.86,worker升級到Lv.86
+quest_num_77_title_key,우사기의 Level 900 달성,Achieved Level 900 of Usagi,兔斯奇达到900级,兔斯奇達到900級
+quest_num_78_title_key,우사기의 Level 999 달성,Achieved Level 999 of Usagi,兔斯奇达到999级,兔斯奇達到999級
+quest_num_79_title_key,우사기 Evolution 하기,Evolve Usagi,进化兔斯奇,進化兔斯奇
+quest_num_80_title_key,우사기 Level Up 하기,Level up Usagi,升级兔斯奇,升級兔斯奇
+quest_num_81_title_key,그림을 5개 완성 시켜주세요!,Complete 5 pictures!,请完成5张图片！,請完成5張圖片！
+quest_num_82_title_key,드래콩의 Level 900 달성,Achieved Level 900 of Dracong,龙龙空达到900级,龍龍空達到900級
+quest_num_83_title_key,드래콩의 Level 999 달성,Achieved Level 999 of Dracong,龙龙空达到999级,龍龍空達到999級
+quest_num_84_title_key,드래콩 Evolution 하기,Evolve Dracong,进化龙龙空,進化龍龍空
+quest_num_85_title_key,드래콩 Level Up 하기,Level up Dracong,升级龙龙空,升級龍龍空
+quest_num_86_title_key,스테이지 30 클리어\n! 무기와 동료 강화는 필수 !,Stage 30 cleared\n! Weapons and teammates must be strengthened !,完成关卡30 \n！加强武器和同伴至关重要！,完成關卡30 \n！加強武器和同伴至關重要！
+quest_num_87_title_key,환생하여 대량의 메달을 획득하세요!,Reincarnate and obtain a massive medal!,请选择重生来获取大量奖牌吧！,請選擇重生來獲取大量獎牌吧！
+quest_num_0_desc_key,화면을 터치하면 망치가 발사됩니다!,Touch the screen and the hammer will fire!,触摸屏幕会发射锤子！,觸摸屏幕會發射錘子！
+quest_num_3_desc_key,업그레이드를 하면 더욱 강해집니다!,Upgrade makes you stronger!,升级会变得更强大！,升級會變得更強大！
+quest_num_4_desc_key,5단계마다 새로운 무기를 사용합니다!,Use a new weapon every five stages!,每5个等级可以使用新武器！,每5個等級可以使用新武器！
+quest_num_5_desc_key,상자에서 대량의 골드를 획득합니다!,Get lots of gold from the box!,在箱子中获取大量金币,在箱子中獲取大量金幣
+quest_num_8_desc_key,동료는 자동으로 공격합니다!,Teammates attack automatically!,同伴会自动攻击！,同伴會自動攻擊！
+quest_num_9_desc_key,더 강해진 동료가 느껴지시나요?,Can you feel your teammates getting stronger?,感受到你的同伴变得更加强大了么？,感受到你的同伴變得更加強大了麼？
+quest_num_14_desc_key,동료의 스킬로 워커의 능력이 향상됩니다!,-,-,-
+quest_num_50_desc_key,VIP 회원증은 엄청난 할인을 제공합니다!,VIP membership gives a huge discount!,VIP会员卡提供巨大折扣！,VIP會員卡提供巨大折扣！
+quest_num_52_desc_key,황금마차는 골드 획득량을 증폭시킵니다!,The golden carriage amplifies the amount of gold you get!,黄金马车可以让金币大幅增加！,黃金馬車可以讓金幣大幅增加！
+quest_num_58_desc_key,워커의 크리티컬 확률이 증가합니다!,Increases the critical probability of the walker!,worker的暴击率增加了！,worker的暴擊率增加了！
+quest_num_60_desc_key,모두의 재장전시간이 감소합니다!,Reduces reload time for everyone!,所有人的再装载时间都缩短了！,所有人的再裝載時間都縮短了！
+quest_num_63_desc_key,최대 Level에 도달 시 Evolution을 할 수 있습니다!,Evolution is possible when the maximum level is reached!,当您达到最高等级时.就可以进化！,當您達到最高等級時.就可以進化！
+quest_num_64_desc_key,샥크스의 공격력이 대폭 상승합니다!,Dramatically increases Sharks attack power!,鲨克斯的攻击力大大提高了！,鯊克斯的攻擊力大大提高了！
+quest_num_86_desc_key,이제 환생을 하실 수 있습니다!,You can now reincarnate!,现在您就可以重生了！,現在您就可以重生了！
+quest_num_1014_title_key,샥크스의 첫번째 Skill 획득하기\n- 샥크스 Level 10 필요 -,Obtain first skill of Sharks\n- Requires Sharks Level 10 -,获得鲨克斯的第一个技能\n-鲨克斯等级需要达到10-,獲得鯊克斯的第一個技能\n-鯊克斯等級需要達到10-
+quest_num_1021_title_key,월링턴의 첫번째 Skill 획득하기\n- 월링턴 Level 10 필요 -,Obtain first skill of Wallington\n- Requires Wallington Level 10 -,获得威灵顿的第一项技能\n-需要威灵顿达到Level10-,獲得威靈頓的第一項技能\n-需要威靈頓達到Level10-
+quest_num_1025_title_key,샥크스의 두번째 Skill 획득하기\n- 샥크스 Level 20 필요 -,Obtain second skill of Sharks\n- Requires Sharks Level 20 -,获得鲨克斯的第二技能\n-需要鲨克斯等级达到20-,獲得鯊克斯的第二技能\n-需要鯊克斯等級達到20-
+quest_num_1030_title_key,우사기의 첫번째 Skill 획득하기\n- 우사기 Level 10 필요 -,Obtain first skill of Usagi\n- Requires Usagi Level 10 -,获得兔斯奇的第一项技能\n-需要兔斯奇等级达到10-,獲得兔斯奇的第一項技能\n-需要兔斯奇等級達到10-
+quest_num_1032_title_key,월링턴의 두번째 Skill 획득하기\n- 월링턴 Level 20 필요 -,Obtain second skill of Wallington\n- Requires Wallington Level 20 -,获得威灵顿的第二项技能\n-需要威灵顿等级达到20-,獲得威靈頓的第二項技能\n-需要威靈頓等級達到20-
+quest_num_1033_title_key,샥크스의 세번째 Skill 획득하기\n- 샥크스 Level 50 필요 -,Obtain third skill of Sharks\n- Requires Sharks Level 50 -,获得鲨克斯的第三项技能\n-需要鲨克斯等级达到50-,獲得鯊克斯的第三項技能\n-需要鯊克斯等級達到50-
+quest_num_1037_title_key,우사기의 두번째 Skill 획득하기\n- 우사기 Level 20 필요 -,Obtain second skill of Usagi\n- Requires Usagi Level 20 -,获得兔斯奇的第二技能\n- 兔斯奇 20级要求-,獲得兔斯奇的第二技能\n- 兔斯奇 20級要求-
+quest_num_1038_title_key,드래콩의 첫번째 Skill 획득하기\n- 드래콩 Level 10 필요 -,Obtain first skill of Dracong\n- Requires Dracong Level 10 -,获得龙龙空的第一项技能\n-需要龙龙空 10级-,獲得龍龍空的第一項技能\n-需要龍龍空 10級-
+quest_num_1040_title_key,샥크스의 네번째 Skill 획득하기\n- 샥크스 Level 100 필요 -,Obtain fourth skill of Sharks\n- Requires Sharks Level 100 -,获得鲨克斯的第四技能\n-鲨克斯等级100.,獲得鯊克斯的第四技能\n-鯊克斯等級100.
+quest_num_1042_title_key,월링턴의 세번째 Skill 획득하기\n- 월링턴 Level 50 필요 -,Obtain third skill of Wallington\n- Requires Wallington Level 50 -,获得威灵顿的第三技能\n-需要威灵顿等级达到50-,獲得威靈頓的第三技能\n-需要威靈頓等級達到50-
+quest_num_1043_title_key,드래콩의 두번째 Skill 획득하기\n- 드래콩 Level 20 필요 -,Obtain second skill of Dracong\n- Requires Dracong Level 20 -,获得龙龙空的第二种技能\n-需要龙龙空等级达到20-,獲得龍龍空的第二種技能\n-需要龍龍空等級達到20-
+quest_num_1044_title_key,우사기의 세번째 Skill 획득하기\n- 우사기 Level 50 필요 -,Obtain third skill of Usagi\n- Requires Usagi Level 50 -,获得兔斯奇的第三项技能\n-需要兔斯奇等级达到50-,獲得兔斯奇的第三項技能\n-需要兔斯奇等級達到50-
+quest_num_1045_title_key,월링턴의 네번째 Skill 획득하기\n- 월링턴 Level 100 필요 -,Obtain fourth skill of Wallington\n- Requires Wallington Level 100 -,获得威灵顿的第四技能\n-需要威灵顿等级达到100-,獲得威靈頓的第四技能\n-需要威靈頓等級達到100-
+quest_num_1053_title_key,우사기의 네번째 Skill 획득하기\n- 우사기 Level 100 필요 -,Obtain fourth skill of Usagi\n- Requires Usagi Level 100 -,获得兔斯奇的第四技能\n- 兔斯奇达到100级要求-,獲得兔斯奇的第四技能\n- 兔斯奇達到100級要求-
+quest_num_1054_title_key,드래콩의 네번째 Skill 획득하기\n- 드래콩 Level 100 필요 -,-,-,-
+quest_num_1014_desc_key,탭 데미지가 더 강해집니다.,Tap damage is stronger.,点击的破坏力更强。,點擊的破壞力更強。
+quest_num_1021_desc_key,탭 데미지가 더 강해집니다.,Tap damage is stronger.,点击的破坏力更强。,點擊的破壞力更強。
+quest_num_1025_desc_key,동료들의 데미지가 증가합니다.,Increases damage done by teammates.,同伴的伤害值增加。,同伴的傷害值增加。
+quest_num_1030_desc_key,보물상자가 더 많이 떨어집니다.,More treasure chests falling.,更多宝箱掉落。,更多寶箱掉落。
+quest_num_1032_desc_key,크리티컬 데미지가 증가합니다.,Increases critical damage.,暴击伤害增加。,暴擊傷害增加。
+quest_num_1033_desc_key,동료들의 데미지가 증가합니다.,Increases damage done by teammates.,同伴的伤害值增加。,同伴的傷害值增加。
+quest_num_1037_desc_key,보물상자에서 더 많은 골드가 나옵니다.,More gold comes out of the treasure chest.,宝物箱子中会出来更多的金币,寶物箱子中會出來更多的金幣
+quest_num_1038_desc_key,근거리 타입의 피해량이 증가합니다.,Increases damage done by close range type.,近距离伤害增加。,近距離傷害增加。
+quest_num_1040_desc_key,탭 데미지가 더 강해집니다.,Tap damage is stronger.,点击的破坏力更强。,點擊的破壞力更強。
+quest_num_1042_desc_key,보물상자에서 더 많은 골드가 나옵니다.,More gold comes out of the treasure chest.,宝物箱子中会出来更多的金币,寶物箱子中會出來更多的金幣
+quest_num_1043_desc_key,원거리 타입의 피해량이 증가합니다.,Increases damage done by long range type.,远程伤害增加。,遠程傷害增加。
+quest_num_1044_desc_key,크리티컬 데미지가 증가합니다.,Increases critical damage.,暴击伤害增加。,暴擊傷害增加。
+quest_num_1045_desc_key,탭 데미지가 더 강해집니다.,Tap damage is stronger.,点击的破坏力更强。,點擊的破壞力更強。
+quest_num_1053_desc_key,보물상자가 더 많이 떨어집니다.,More treasure chests falling.,更多宝箱掉落。,更多寶箱掉落。
+quest_num_1054_desc_key,기계 타입의 피해량이 증가합니다.,-,-,-
+buff_idx_5014_name_key,샥크스의 집중,Sharks' concentration,获得鲨克斯的聚焦。,獲得鯊克斯的聚焦。
+buff_idx_5015_name_key,월링턴의 저력,Wallington's potential,发挥威灵顿的潜力。,發揮威靈頓的潛力。
+buff_idx_5016_name_key,우사기의 격려,Usagi's encouragement,得到兔斯奇的激励。,得到兔斯奇的激勵。
+buff_idx_5017_name_key,드래콩의 기합,Dracong's spirit,获得龙龙空的蓄力。,獲得龍龍空的蓄力。
+buff_idx_5014_desc_key,!탭! 일반 픽셀 데미지 증가\n{0},!Tap! Increase regular pixel damage\n{0},点击！普通砖块伤害增加\n {0},點擊！普通磚塊傷害增加\n {0}
+buff_idx_5015_desc_key,!탭! 보스 픽셀 데미지 증가\n{0},!Tap! Increase boss pixel damage\n{0},点击！boss砖块伤害增加\n {0},點擊！boss磚塊傷害增加\n {0}
+buff_idx_5016_desc_key,!탭! 공격력 증가\n{0},!Tap! Increase attack power\n{0},点击！攻击力增加\n {0},點擊！攻擊力增加\n {0}
+buff_idx_5017_desc_key,!탭! 크리티컬 데미지 증가\n{0},!Tap! Increase critical damage\n{0},点击！暴击伤害增加\n {0},點擊！暴擊傷害增加\n {0}
+treasure_idx_14_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_15_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_16_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+treasure_idx_17_condition_desc_key,STAGE{0},STAGE{0},关卡{0},關卡{0}
+name_key_treasure_idx_14,샥크스의 집중,Sharks' concentration,获得鲨克斯的聚焦。,獲得鯊克斯的聚焦。
+name_key_treasure_idx_15,월링턴의 저력,Wallington's potential,发挥威灵顿的潜力。,發揮威靈頓的潛力。
+name_key_treasure_idx_16,우사기의 격려,Usagi's encouragement,得到兔斯奇的激励。,得到兔斯奇的激勵。
+name_key_treasure_idx_17,드래콩의 기합,Dracong's spirit,获得龙龙空的蓄力。,獲得龍龍空的蓄力。
+quest_num_1055_title_key,드래콩의 세번째 Skill 획득하기\n- 드래콩 Level 50 필요 -,Obtain third skill of Dracong\n- Requires Dracong Level 50 -,获得龙龙空的第三项技能\n-需要龙龙空等级50-,獲得龍龍空的第三項技能\n-需要龍龍空等級50-
+quest_num_1055_desc_key,마법 타입의 피해량이 증가합니다.,Increases damage done by magic type.,魔法伤害增加。,魔法傷害增加。
+quest_num_1056_title_key,Worker의 Lv.61로 업그레이드,Upgrade to Lv.61 of Worker,worker升级到Lv.61,worker升級到Lv.61
+quest_num_1057_title_key,샥크스의 Level 400 달성,Achieved Level 400 of Sharks,鲨克斯达到等级400,鯊克斯達到等級400
+quest_num_1058_title_key,월링턴의 Level 400 달성,Achieved Level 400 of Wallington,威灵顿达到400级,威靈頓達到400級
+quest_num_1059_title_key,우사기의 Level 400 달성,Achieved Level 400 of Usagi,兔斯奇达到400级,兔斯奇達到400級
+quest_num_1060_title_key,드래콩의 Level 400 달성,Achieved Level 400 of Dracong,达到龙龙空达到400级,達到龍龍空達到400級
+set_bonus_idx_0_name_key,서부시대,Western-era,西方时代,西方時代
+set_bonus_idx_1_name_key,레스토랑,Restaurant,餐厅,餐廳
+set_bonus_idx_2_name_key,스페이스,Space,太空,太空
+set_bonus_idx_3_name_key,건설자,Builder,建筑师,建築師
+set_bonus_idx_4_name_key,판타지,Fantasy,幻想的,幻想的
+set_bonus_idx_5_name_key,해적왕,Pirate King,海贼王,海賊王
+set_bonus_idx_6_name_key,우주 전사,Space Warrior,太空战士,太空戰士
+set_bonus_idx_7_name_key,소방관,Firefighter,消防员,消防員
+set_bonus_idx_8_name_key,프로레슬러,Pro Wrestler,职业摔跤手,職業摔跤手
+set_bonus_idx_9_name_key,경찰관,Police,警察,員警
+costume_idx_99_name_key,Worker,Worker,Worker,Worker
+costume_idx_101_name_key,복면강도. 샥크스,Masked robber. Sharks,蒙面强盗.鲨克斯,蒙面強盜.鯊克斯
+costume_idx_102_name_key,서부보안관. 샥크스,West Sheriff. Sharks,西部警长.鲨克斯,西部警長.鯊克斯
+costume_idx_103_name_key,요리사. 샥크스,Chef. Sharks,厨师.鲨克斯,廚師.鯊克斯
+costume_idx_104_name_key,우주인. 샥크스,Astronaut. Sharks,宇航员.鲨克斯,宇航員.鯊克斯
+costume_idx_105_name_key,건설자. 샥크스,Builder. Sharks,建筑师.鲨克斯,建築師.鯊克斯
+costume_idx_201_name_key,중세 궁수. 우사기,Medieval archer. Usagi,中世纪弓箭手。兔斯奇,中世紀弓箭手。兔斯奇
+costume_idx_202_name_key,해적왕. 우사기,Pirate king. Usagi,海盗王.兔斯奇,海盜王.兔斯奇
+costume_idx_203_name_key,조리원. 우사기,Cook. Usagi,料理师.兔斯奇,料理師.兔斯奇
+costume_idx_204_name_key,메카 토끼. 우사기,Mecha Bunny. Usagi,机器兔.兔斯奇,機器兔.兔斯奇
+costume_idx_205_name_key,소방수. 우사기,Fireman. Usagi,消防员.兔斯奇,消防員.兔斯奇
+costume_idx_301_name_key,판금 전사. 월링턴,Metal warrior. Wallington,钣金战士。威灵顿,鈑金戰士。威靈頓
+costume_idx_302_name_key,챔피언. 월링턴,Champion. Wallington,冠军.威灵顿,冠軍.威靈頓
+costume_idx_303_name_key,주방장. 월링턴,Head cook. Wallington,厨师长.威灵顿,廚師長.威靈頓
+costume_idx_304_name_key,미스터. 월링턴,Mister. Wallington,先生.威灵顿,先生.威靈頓
+costume_idx_305_name_key,건설자. 월링턴,Builder. Wallington,建筑师.威灵顿,建築師.威靈頓
+costume_idx_401_name_key,백 마법사. 드래콩,White magician. Dracong,白巫师.龙龙空,白巫師.龍龍空
+costume_idx_402_name_key,검은 수염. 드래콩,Black beard. Dracong,黑胡子.龙龙空,黑鬍子.龍龍空
+costume_idx_403_name_key,요리사. 드래콩,Cook. Dracong,厨师.龙龙空,廚師.龍龍空
+costume_idx_404_name_key,우주인. 드래콩,Astronaut. Dracong,宇航员.龙龙空,宇航員.龍龍空
+costume_idx_405_name_key,경찰서장. 드래콩,Police chief. Dracong,警署署长.龙龙空,警署署長.龍龍空
+costume_idx_99_desc_key,임시_Worker_설명,-,-,-
+costume_idx_101_desc_key,임시_복면강도. 샥크스_설명,-,-,-
+costume_idx_102_desc_key,임시_서부보안관. 샥크스_설명,-,-,-
+costume_idx_103_desc_key,임시_요리사. 샥크스_설명,-,-,-
+costume_idx_104_desc_key,임시_우주인. 샥크스_설명,-,-,-
+costume_idx_105_desc_key,임시_건설자. 샥크스_설명,-,-,-
+costume_idx_201_desc_key,임시_중세 궁수. 우사기_설명,-,-,-
+costume_idx_202_desc_key,임시_해적왕. 우사기_설명,-,-,-
+costume_idx_203_desc_key,임시_조리원. 우사기_설명,-,-,-
+costume_idx_204_desc_key,임시_메카 토끼. 우사기_설명,-,-,-
+costume_idx_205_desc_key,임시_소방수. 우사기_설명,-,-,-
+costume_idx_301_desc_key,임시_판금 전사. 월링턴_설명,-,-,-
+costume_idx_302_desc_key,임시_챔피언. 월링턴_설명,-,-,-
+costume_idx_303_desc_key,임시_주방장. 월링턴_설명,-,-,-
+costume_idx_304_desc_key,임시_미스터. 월링턴_설명,-,-,-
+costume_idx_305_desc_key,임시_건설자. 월링턴_설명,-,-,-
+costume_idx_401_desc_key,임시_백 마법사. 드래콩_설명,-,-,-
+costume_idx_402_desc_key,임시_검은 수염. 드래콩_설명,-,-,-
+costume_idx_403_desc_key,임시_요리사. 드래콩_설명,-,-,-
+costume_idx_404_desc_key,임시_우주인. 드래콩_설명,-,-,-
+costume_idx_405_desc_key,임시_경찰서장. 드래콩_설명,-,-,-
+buff_idx_10111_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_10211_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_10311_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_10411_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_10511_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_20111_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_20211_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_20311_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_20411_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_20511_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_30111_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_30211_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_30311_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_30411_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_30511_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_40111_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_40211_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_40311_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_40411_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_40511_name_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_10112_name_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_10212_name_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_10312_name_key,기계 공격력 증가,Increases machine attack power,机械攻击力增加,機械攻擊力增加
+buff_idx_10412_name_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_10512_name_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_20112_name_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_20212_name_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_20312_name_key,마법 공격력 증가,Increases magic attack power,魔法攻击力增加,魔法攻擊力增加
+buff_idx_20412_name_key,기계 공격력 증가,Increases machine attack power,机械攻击力增加,機械攻擊力增加
+buff_idx_20512_name_key,기계 공격력 증가,Increases machine attack power,机械攻击力增加,機械攻擊力增加
+buff_idx_30112_name_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_30212_name_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_30312_name_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_30412_name_key,기계 공격력 증가,Increases machine attack power,机械攻击力增加,機械攻擊力增加
+buff_idx_30512_name_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_40112_name_key,마법 공격력 증가,Increases magic attack power,魔法攻击力增加,魔法攻擊力增加
+buff_idx_40212_name_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_40312_name_key,마법 공격력 증가,Increases magic attack power,魔法攻击力增加,魔法攻擊力增加
+buff_idx_40412_name_key,마법 공격력 증가,Increases magic attack power,魔法攻击力增加,魔法攻擊力增加
+buff_idx_40512_name_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_10113_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_10213_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_10313_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_10413_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_10513_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_20113_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_20213_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_20313_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_20413_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_20513_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_30113_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_30213_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_30313_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_30413_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_30513_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_40113_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_40213_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_40313_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_40413_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_40513_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_10101_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_10201_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_10301_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_10401_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_10501_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_20101_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_20201_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_20301_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_20401_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_20501_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_30101_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_30201_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_30301_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_30401_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_30501_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_40101_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_40201_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_40301_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_40401_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_40501_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_10202_name_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_10302_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_10402_name_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_10502_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_20202_name_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_20402_name_key,기계 공격력 증가,Increases machine attack power,机械攻击力增加,機械攻擊力增加
+buff_idx_20502_name_key,기계 공격력 증가,Increases machine attack power,机械攻击力增加,機械攻擊力增加
+buff_idx_30102_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_30302_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_30402_name_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_30502_name_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_40102_name_key,마법 공격력 증가,Increases magic attack power,魔法攻击力增加,魔法攻擊力增加
+buff_idx_40202_name_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_40302_name_key,마법 공격력 증가,Increases magic attack power,魔法攻击力增加,魔法攻擊力增加
+buff_idx_40402_name_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_40502_name_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_10503_name_key,무기 용병 업그레이드 할인,Armed soldier upgrade discount,武器佣兵升级的折扣,武器傭兵升級的折扣
+buff_idx_20203_name_key,보물상자 확률 증가,Increase treasure chest probability,宝藏宝箱机率增加,寶藏寶箱機率增加
+buff_idx_20403_name_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_30403_name_key,모든 속성 피해량 증가,Increases damage done by all elements,所有属性伤害值增加,所有屬性傷害值增加
+buff_idx_40503_name_key,재장전단계 증가,Increase reloading phase,装弹等级增加,裝彈等級增加
+buff_idx_10121_name_key,! 서부시대 시너지 안내 !\n근접 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 서부시대 무기 장착! -,! Western-era Synergy Guide !\n With close range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with Western-era weaponry!,！西方时代的协同效果说明！\n装备近距离武器时.最终伤害提高1.5倍\n-触发条件：装备西方时代的武器！--,！西方時代的協同效果說明！\n裝備近距離武器時.最終傷害提高1.5倍\n-觸發條件：裝備西方時代的武器！--
+buff_idx_10221_name_key,! 서부시대 시너지 안내 !\n원거리 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 서부시대 무기 장착! -,! Western-era Synergy Guide !\n With long range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with Western-era weaponry!,！西方时代的协同效果说明！\n配备远程武器时.最终伤害提高1.5倍\n-触发条件：装备西方时代的武器！--,！西方時代的協同效果說明！\n配備遠程武器時.最終傷害提高1.5倍\n-觸發條件：裝備西方時代的武器！--
+buff_idx_10321_name_key,! 레스토랑 시너지 안내 !\n기계 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 레스토랑 무기 장착! -,! Restaurant Synergy Guide !\n With machine weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with restaurant weaponry!,！餐厅协同效果指南！\n装备机械武器时.最终伤害提高1.5倍\n-触发条件： 装备餐厅武器！--,！餐廳協同效果指南！\n裝備機械武器時.最終傷害提高1.5倍\n-觸發條件： 裝備餐廳武器！--
+buff_idx_10421_name_key,! 스페이스 시너지 안내 !\n원거리 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 스페이스 무기 장착! -,! Space Synergy Guide !\n With long range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with space weaponry!,！太空协同效果说明！\n配备远程武器时.最终伤害提高1.5倍\n-触发条件：装备太空武器！--,！太空協同效果說明！\n配備遠程武器時.最終傷害提高1.5倍\n-觸發條件：裝備太空武器！--
+buff_idx_10521_name_key,! 건설자 시너지 안내 !\n원거리 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 건설자 무기 장착! -,! Builder Synergy Guide !\n With long range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with builder weaponry!,！建筑师的协同指南！\n配备远程武器时.最终伤害提高1.5倍\n-触发条件：装备建筑师武器！--,！建築師的協同指南！\n配備遠程武器時.最終傷害提高1.5倍\n-觸發條件：裝備建築師武器！--
+buff_idx_20121_name_key,! 판타지 시너지 안내 !\n원거리 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 판타지 무기 장착! -,! Fantasy Synergy Guide !\n With long range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with fantasy weaponry!,！幻想的协同效果指南！\n配备远程武器时.最终伤害提高1.5倍\n-触发条件。配备幻想武器！--,！幻想的協同效果指南！\n配備遠程武器時.最終傷害提高1.5倍\n-觸發條件。配備幻想武器！--
+buff_idx_20221_name_key,! 해적왕 시너지 안내 !\n근접 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 해적왕 무기 장착! -,! Pirate King Synergy Guide !\n With close range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with pirate king weaponry!,！海贼王的协同指南！\n装备近战武器时.最终伤害提高1.5倍\n-触发条件：装备海贼王武器！--,！海賊王的協同指南！\n裝備近戰武器時.最終傷害提高1.5倍\n-觸發條件：裝備海賊王武器！--
+buff_idx_20321_name_key,! 레스토랑 시너지 안내 !\n마법 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 레스토랑 무기 장착! -,! Restaurant Synergy Guide !\n With magic weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with restaurant weaponry!,！餐厅协同效果指南！\n装备魔法武器时.最终伤害提高1.5倍\n-触发条件：装备餐厅武器！--,！餐廳協同效果指南！\n裝備魔法武器時.最終傷害提高1.5倍\n-觸發條件：裝備餐廳武器！--
+buff_idx_20421_name_key,! 우주 전사 시너지 안내 !\n기계 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 우주 전사 무기 장착! -,! Space Warrior Synergy Guide !\n With machine weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with space warrior weaponry!,！太空战士协同作战指南！\n装备机械武器时。最终伤害提高1.5倍\n-触发条件：装备太空战士武器！--,！太空戰士協同作戰指南！\n裝備機械武器時。最終傷害提高1.5倍\n-觸發條件：裝備太空戰士武器！--
+buff_idx_20521_name_key,! 소방관 시너지 안내 !\n기계 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 소방관 무기 장착! -,! Firefighter Synergy Guide !\n With magic weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with firefighter weaponry!,！消防员的协同效果指南！\n装备机械武器时。最终伤害提高1.5倍\n-触发条件：装备消防员武器！--,！消防員的協同效果指南！\n裝備機械武器時。最終傷害提高1.5倍\n-觸發條件：裝備消防員武器！--
+buff_idx_30121_name_key,! 판타지 시너지 안내 !\n근접 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 판타지 무기 장착! -,! Fantasy Synergy Guide !\n With close range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with fantasy weaponry!,！幻想的协同效果指南！\n装备近战武器时。最终伤害提高1.5倍\n-触发条件：装备幻想武器！--,！幻想的協同效果指南！\n裝備近戰武器時。最終傷害提高1.5倍\n-觸發條件：裝備幻想武器！--
+buff_idx_30221_name_key,! 프로레슬러 시너지 안내 !\n근접 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 프로레슬러 무기 장착! -,! Pro Wrestler Synergy Guide !\n With close range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with pro wrestler weaponry!,！职业摔跤手的协同指南！\n装备近战武器时.最终伤害提高1.5倍\n-触发条件：装备职业摔跤手武器！--,！職業摔跤手的協同指南！\n裝備近戰武器時.最終傷害提高1.5倍\n-觸發條件：裝備職業摔跤手武器！--
+buff_idx_30321_name_key,! 레스토랑 시너지 안내 !\n근접 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 레스토랑 무기 장착! -,! Restaurant Synergy Guide !\n With close range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with restaurant weaponry!,！餐厅协同效果指南！\n装备近战武器时.最终伤害提高1.5倍\n-触发条件：转呗餐厅武器！--,！餐廳協同效果指南！\n裝備近戰武器時.最終傷害提高1.5倍\n-觸發條件：轉唄餐廳武器！--
+buff_idx_30421_name_key,! 우주 전사 시너지 안내 !\n기계 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 우주 전사 무기 장착! -,! Space Warrior Synergy Guide !\n With machine weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with space warrior weaponry!,！太空战士协同作战指南！\n装备机械武器时。最终伤害提高1.5倍\n-触发条件：装备太空战士武器！--,！太空戰士協同作戰指南！\n裝備機械武器時。最終傷害提高1.5倍\n-觸發條件：裝備太空戰士武器！--
+buff_idx_30521_name_key,! 건설자 시너지 안내 !\n원거리 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 건설자 무기 장착! -,! Builder Synergy Guide !\n With long range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with builder weaponry!,！建筑师的协同指南！\n配备远程武器时.最终伤害提高1.5倍\n-触发条件：装备建筑师武器！--,！建築師的協同指南！\n配備遠程武器時.最終傷害提高1.5倍\n-觸發條件：裝備建築師武器！--
+buff_idx_40121_name_key,! 판타지 시너지 안내 !\n마법 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 판타지 무기 장착! -,! Fantasy Synergy Guide !\n With magic weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with fantasy weaponry!,！幻想的协同效果指南！\n装备魔法武器时.最终伤害提高1.5倍\n-触发条件：装备幻想武器！--,！幻想的協同效果指南！\n裝備魔法武器時.最終傷害提高1.5倍\n-觸發條件：裝備幻想武器！--
+buff_idx_40221_name_key,! 해적왕 시너지 안내 !\n근접 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 해적왕 무기 장착! -,! Pirate King Synergy Guide !\n With close range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with pirate king weaponry!,！海贼王的协同指南！\n装备近战武器时.最终伤害提高1.5倍\n-触发条件：装备海贼王武器！--,！海賊王的協同指南！\n裝備近戰武器時.最終傷害提高1.5倍\n-觸發條件：裝備海賊王武器！--
+buff_idx_40321_name_key,! 레스토랑 시너지 안내 !\n마법 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 레스토랑 무기 장착! -,! Restaurant Synergy Guide !\n With magic weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with restaurant weaponry!,！餐厅协同效果指南！\n装备魔法武器时.最终伤害提高1.5倍\n-触发条件：装备餐厅武器！--,！餐廳協同效果指南！\n裝備魔法武器時.最終傷害提高1.5倍\n-觸發條件：裝備餐廳武器！--
+buff_idx_40421_name_key,! 스페이스 시너지 안내 !\n마법 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 스페이스 무기 장착! -,! Space Synergy Guide !\n With magic weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with space weaponry!,！太空的协同效果指南！\n配备魔法武器时.最终伤害提高1.5倍\n-触发条件：配备太空武器！--,！太空的協同效果指南！\n配備魔法武器時.最終傷害提高1.5倍\n-觸發條件：配備太空武器！--
+buff_idx_40521_name_key,! 경찰관 시너지 안내 !\n원거리 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 경찰관 무기 장착! -,! Police Synergy Guide !\n With long range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with police weaponry!,！警察的协同效果指南！\n配备远程武器时.最终伤害提高1.5倍\n-触发条件：装备警察武器！--,！員警的協同效果指南！\n配備遠程武器時.最終傷害提高1.5倍\n-觸發條件：裝備員警武器！--
+buff_idx_10111_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_10211_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_10311_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_10411_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_10511_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_20111_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_20211_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_20311_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_20411_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_20511_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_30111_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_30211_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_30311_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_30411_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_30511_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_40111_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_40211_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_40311_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_40411_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_40511_desc_key,장착시 공격력 증가,Increases attack power when installed,装备时增加攻击力,裝備時增加攻擊力
+buff_idx_10112_desc_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_10212_desc_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_10312_desc_key,기계 공격력 증가,Increases machine attack power,机械攻击力增加,機械攻擊力增加
+buff_idx_10412_desc_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_10512_desc_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_20112_desc_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_20212_desc_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_20312_desc_key,마법 공격력 증가,Increases magic attack power,魔法攻击力增加,魔法攻擊力增加
+buff_idx_20412_desc_key,기계 공격력 증가,Increases machine attack power,机械攻击力增加,機械攻擊力增加
+buff_idx_20512_desc_key,기계 공격력 증가,Increases machine attack power,机械攻击力增加,機械攻擊力增加
+buff_idx_30112_desc_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_30212_desc_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_30312_desc_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_30412_desc_key,기계 공격력 증가,Increases machine attack power,机械攻击力增加,機械攻擊力增加
+buff_idx_30512_desc_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_40112_desc_key,마법 공격력 증가,Increases magic attack power,魔法攻击力增加,魔法攻擊力增加
+buff_idx_40212_desc_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_40312_desc_key,마법 공격력 증가,Increases magic attack power,魔法攻击力增加,魔法攻擊力增加
+buff_idx_40412_desc_key,마법 공격력 증가,Increases magic attack power,魔法攻击力增加,魔法攻擊力增加
+buff_idx_40512_desc_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_10113_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_10213_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_10313_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_10413_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_10513_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_20113_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_20213_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_20313_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_20413_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_20513_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_30113_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_30213_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_30313_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_30413_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_30513_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_40113_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_40213_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_40313_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_40413_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_40513_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_10101_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_10201_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_10301_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_10401_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_10501_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_20101_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_20201_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_20301_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_20401_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_20501_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_30101_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_30201_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_30301_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_30401_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_30501_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_40101_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_40201_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_40301_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_40401_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_40501_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_10202_desc_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_10302_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_10402_desc_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_10502_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_20202_desc_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_20402_desc_key,기계 공격력 증가,Increases machine attack power,机械攻击力增加,機械攻擊力增加
+buff_idx_20502_desc_key,기계 공격력 증가,Increases machine attack power,机械攻击力增加,機械攻擊力增加
+buff_idx_30102_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_30302_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_30402_desc_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_30502_desc_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_40102_desc_key,마법 공격력 증가,Increases magic attack power,魔法攻击力增加,魔法攻擊力增加
+buff_idx_40202_desc_key,근접 공격력 증가,Increases close range attack power,近距离攻击力提高,近距離攻擊力提高
+buff_idx_40302_desc_key,마법 공격력 증가,Increases magic attack power,魔法攻击力增加,魔法攻擊力增加
+buff_idx_40402_desc_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_40502_desc_key,원거리 공격력 증가,Increases long range attack power,增加远程攻击力,增加遠程攻擊力
+buff_idx_10503_desc_key,무기 용병 업그레이드 할인,Armed soldier upgrade discount,武器佣兵升级的折扣,武器傭兵升級的折扣
+buff_idx_20203_desc_key,보물상자 확률 증가,Increase treasure chest probability,宝藏宝箱机率增加,寶藏寶箱機率增加
+buff_idx_20403_desc_key,크리티컬 확률 증가,Increases critical chances,暴击率增加,暴擊率增加
+buff_idx_30403_desc_key,모든 속성 피해량 증가,Increases damage done by all elements,所有属性伤害值增加,所有屬性傷害值增加
+buff_idx_40503_desc_key,재장전단계 증가,Increase reloading phase,装弹等级增加,裝彈等級增加
+buff_idx_10121_desc_key,! 서부시대 시너지 안내 !\n근접 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 서부시대 무기 장착! -,! Western-era Synergy Guide !\n With close range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with Western-era weaponry!,！西方时代的协同效果说明！\n装备近距离武器时.最终伤害提高1.5倍\n-触发条件：装备西方时代的武器！--,！西方時代的協同效果說明！\n裝備近距離武器時.最終傷害提高1.5倍\n-觸發條件：裝備西方時代的武器！--
+buff_idx_10221_desc_key,! 서부시대 시너지 안내 !\n원거리 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 서부시대 무기 장착! -,! Western-era Synergy Guide !\n With long range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with Western-era weaponry!,！西方时代的协同效果说明！\n配备远程武器时.最终伤害提高1.5倍\n-触发条件：装备西方时代的武器！--,！西方時代的協同效果說明！\n配備遠程武器時.最終傷害提高1.5倍\n-觸發條件：裝備西方時代的武器！--
+buff_idx_10321_desc_key,! 레스토랑 시너지 안내 !\n기계 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 레스토랑 무기 장착! -,! Restaurant Synergy Guide !\n With machine weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with restaurant weaponry!,！餐厅协同效果指南！\n装备机械武器时.最终伤害提高1.5倍\n-触发条件： 装备餐厅武器！--,！餐廳協同效果指南！\n裝備機械武器時.最終傷害提高1.5倍\n-觸發條件： 裝備餐廳武器！--
+buff_idx_10421_desc_key,! 스페이스 시너지 안내 !\n원거리 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 스페이스 무기 장착! -,! Space Synergy Guide !\n With long range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with space weaponry!,！太空协同效果说明！\n配备远程武器时.最终伤害提高1.5倍\n-触发条件：装备太空武器！--,！太空協同效果說明！\n配備遠程武器時.最終傷害提高1.5倍\n-觸發條件：裝備太空武器！--
+buff_idx_10521_desc_key,! 건설자 시너지 안내 !\n원거리 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 건설자 무기 장착! -,! Builder Synergy Guide !\n With long range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with builder weaponry!,！建筑师的协同指南！\n配备远程武器时.最终伤害提高1.5倍\n-触发条件：装备建筑师武器！--,！建築師的協同指南！\n配備遠程武器時.最終傷害提高1.5倍\n-觸發條件：裝備建築師武器！--
+buff_idx_20121_desc_key,! 판타지 시너지 안내 !\n원거리 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 판타지 무기 장착! -,! Fantasy Synergy Guide !\n With long range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with fantasy weaponry!,！幻想的协同效果指南！\n配备远程武器时.最终伤害提高1.5倍\n-触发条件。配备幻想武器！--,！幻想的協同效果指南！\n配備遠程武器時.最終傷害提高1.5倍\n-觸發條件。配備幻想武器！--
+buff_idx_20221_desc_key,! 해적왕 시너지 안내 !\n근접 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 해적왕 무기 장착! -,! Pirate King Synergy Guide !\n With close range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with pirate king weaponry!,！海贼王的协同指南！\n装备近战武器时.最终伤害提高1.5倍\n-触发条件：装备海贼王武器！--,！海賊王的協同指南！\n裝備近戰武器時.最終傷害提高1.5倍\n-觸發條件：裝備海賊王武器！--
+buff_idx_20321_desc_key,! 레스토랑 시너지 안내 !\n마법 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 레스토랑 무기 장착! -,! Restaurant Synergy Guide !\n With magic weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with restaurant weaponry!,！餐厅协同效果指南！\n装备魔法武器时.最终伤害提高1.5倍\n-触发条件：装备餐厅武器！--,！餐廳協同效果指南！\n裝備魔法武器時.最終傷害提高1.5倍\n-觸發條件：裝備餐廳武器！--
+buff_idx_20421_desc_key,! 우주 전사 시너지 안내 !\n기계 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 우주 전사 무기 장착! -,! Space Warrior Synergy Guide !\n With machine weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with space warrior weaponry!,！太空战士协同作战指南！\n装备机械武器时。最终伤害提高1.5倍\n-触发条件：装备太空战士武器！--,！太空戰士協同作戰指南！\n裝備機械武器時。最終傷害提高1.5倍\n-觸發條件：裝備太空戰士武器！--
+buff_idx_20521_desc_key,! 소방관 시너지 안내 !\n기계 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 소방관 무기 장착! -,! Firefighter Synergy Guide !\n With magic weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with firefighter weaponry!,！消防员的协同效果指南！\n装备机械武器时。最终伤害提高1.5倍\n-触发条件：装备消防员武器！--,！消防員的協同效果指南！\n裝備機械武器時。最終傷害提高1.5倍\n-觸發條件：裝備消防員武器！--
+buff_idx_30121_desc_key,! 판타지 시너지 안내 !\n근접 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 판타지 무기 장착! -,! Fantasy Synergy Guide !\n With close range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with fantasy weaponry!,！幻想的协同效果指南！\n装备近战武器时。最终伤害提高1.5倍\n-触发条件：装备幻想武器！--,！幻想的協同效果指南！\n裝備近戰武器時。最終傷害提高1.5倍\n-觸發條件：裝備幻想武器！--
+buff_idx_30221_desc_key,! 프로레슬러 시너지 안내 !\n근접 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 프로레슬러 무기 장착! -,! Pro Wrestler Synergy Guide !\n With close range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with pro wrestler weaponry!,！职业摔跤手的协同指南！\n装备近战武器时.最终伤害提高1.5倍\n-触发条件：装备职业摔跤手武器！--,！職業摔跤手的協同指南！\n裝備近戰武器時.最終傷害提高1.5倍\n-觸發條件：裝備職業摔跤手武器！--
+buff_idx_30321_desc_key,! 레스토랑 시너지 안내 !\n근접 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 레스토랑 무기 장착! -,! Restaurant Synergy Guide !\n With close range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with restaurant weaponry!,！餐厅协同效果指南！\n装备近战武器时.最终伤害提高1.5倍\n-触发条件：转呗餐厅武器！--,！餐廳協同效果指南！\n裝備近戰武器時.最終傷害提高1.5倍\n-觸發條件：轉唄餐廳武器！--
+buff_idx_30421_desc_key,! 우주 전사 시너지 안내 !\n기계 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 우주 전사 무기 장착! -,! Space Warrior Synergy Guide !\n With machine weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with space warrior weaponry!,！太空战士协同作战指南！\n装备机械武器时。最终伤害提高1.5倍\n-触发条件：装备太空战士武器！--,！太空戰士協同作戰指南！\n裝備機械武器時。最終傷害提高1.5倍\n-觸發條件：裝備太空戰士武器！--
+buff_idx_30521_desc_key,! 건설자 시너지 안내 !\n원거리 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 건설자 무기 장착! -,! Builder Synergy Guide !\n With long range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with builder weaponry!,！建筑师的协同指南！\n配备远程武器时.最终伤害提高1.5倍\n-触发条件：装备建筑师武器！--,！建築師的協同指南！\n配備遠程武器時.最終傷害提高1.5倍\n-觸發條件：裝備建築師武器！--
+buff_idx_40121_desc_key,! 판타지 시너지 안내 !\n마법 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 판타지 무기 장착! -,! Fantasy Synergy Guide !\n With magic weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with fantasy weaponry!,！幻想的协同效果指南！\n装备魔法武器时.最终伤害提高1.5倍\n-触发条件：装备幻想武器！--,！幻想的協同效果指南！\n裝備魔法武器時.最終傷害提高1.5倍\n-觸發條件：裝備幻想武器！--
+buff_idx_40221_desc_key,! 해적왕 시너지 안내 !\n근접 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 해적왕 무기 장착! -,! Pirate King Synergy Guide !\n With close range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with pirate king weaponry!,！海贼王的协同指南！\n装备近战武器时.最终伤害提高1.5倍\n-触发条件：装备海贼王武器！--,！海賊王的協同指南！\n裝備近戰武器時.最終傷害提高1.5倍\n-觸發條件：裝備海賊王武器！--
+buff_idx_40321_desc_key,! 레스토랑 시너지 안내 !\n마법 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 레스토랑 무기 장착! -,! Restaurant Synergy Guide !\n With magic weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with restaurant weaponry!,！餐厅协同效果指南！\n装备魔法武器时.最终伤害提高1.5倍\n-触发条件：装备餐厅武器！--,！餐廳協同效果指南！\n裝備魔法武器時.最終傷害提高1.5倍\n-觸發條件：裝備餐廳武器！--
+buff_idx_40421_desc_key,! 스페이스 시너지 안내 !\n마법 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 스페이스 무기 장착! -,! Space Synergy Guide !\n With magic weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with space weaponry!,！太空的协同效果指南！\n配备魔法武器时.最终伤害提高1.5倍\n-触发条件：配备太空武器！--,！太空的協同效果指南！\n配備魔法武器時.最終傷害提高1.5倍\n-觸發條件：配備太空武器！--
+buff_idx_40521_desc_key,! 경찰관 시너지 안내 !\n원거리 무기 장착 시. 최종 데미지 1.5배로 증가\n- 발동 조건. 경찰관 무기 장착! -,! Police Synergy Guide !\n With long range weapons. Increases final damage by 1.5x\n- Triggering condition. Armed with police weaponry!,！警察的协同效果指南！\n配备远程武器时.最终伤害提高1.5倍\n-触发条件：装备警察武器！--,！員警的協同效果指南！\n配備遠程武器時.最終傷害提高1.5倍\n-觸發條件：裝備員警武器！--
+possession_buff,보유 효과,Retention effect,保留效果,保留效果
+Fire,불속성,Fire,火属,火屬
+Water,물속성,Water,水属,水屬
+Earth,땅속성,Earth,土属,土屬
+Wind,바람속성,Wind,风属,风屬
+coming_soon,공사중!,Under construction!,建设中！,建設中！
+popup_equipment_info_title,장비 정보,Equipment information,服装信息,服裝信息
+enhancement,강화,Upgrade,强化,強化
+popup_apply_equipment_title,캐릭터 정보,Parter informaton,同伴信息,同伴資訊
+Magic,마법,Magic,魔法,魔法
+Melee,근접,Mecha,机,機
+popup_confirm_title,확인,Please confirm your line-up!,请确认下,請確認下
+popup_preset_dsec,동료들에게 코스튬을 입히면 더 강해질거야,Partners will get stronger with costumes and weapons.,同伴穿上武器和服装会变强！,同伴穿上武器和服裝會變強！
+popup_preset,파티 구성,line-up,组队配置,組隊配置
+buff_idx_1000011_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000111_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000211_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000311_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000411_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000511_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000611_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000711_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000811_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000911_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001011_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001111_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001211_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001311_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001411_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001511_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001611_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001711_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001811_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001911_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002011_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002111_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002211_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002311_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002411_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002511_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002611_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002711_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002811_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002911_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003011_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003111_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003211_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003311_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003411_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003511_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003611_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003711_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003811_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003911_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004011_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004111_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004211_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004311_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004411_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004511_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004611_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004711_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004811_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004911_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1005011_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1005111_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1005211_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1005311_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1005411_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1005511_name_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000012_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1000112_name_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1000212_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1000312_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1000412_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1000512_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1000612_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1000712_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1000812_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1000912_name_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1001012_name_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1001112_name_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1001212_name_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1001312_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1001412_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1001512_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1001612_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1001712_name_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1001812_name_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1001912_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1002012_name_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1002112_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1002212_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1002312_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1002412_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1002512_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1002612_name_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1002712_name_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1002812_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1002912_name_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1003012_name_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1003112_name_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1003212_name_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1003312_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1003412_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1003512_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1003612_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1003712_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1003812_name_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1003912_name_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1004012_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1004112_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1004212_name_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1004312_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1004412_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1004512_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1004612_name_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1004712_name_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1004812_name_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1004912_name_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1005012_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1005112_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1005212_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1005312_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1005412_name_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1005512_name_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1004113_name_key,용병 공격력 증가,Increase soldier attack,佣兵攻击力增加,傭兵攻擊力增加
+buff_idx_1004213_name_key,탭 공격력 증가,Tap Increase attack power,点击的攻击力增加,點擊的攻擊力增加
+buff_idx_1004313_name_key,탭 공격력 증가,Tap Increase attack power,点击的攻击力增加,點擊的攻擊力增加
+buff_idx_1004413_name_key,용병 공격력 증가,Increase soldier attack,佣兵攻击力增加,傭兵攻擊力增加
+buff_idx_1004513_name_key,일반 픽셀 피해량 증가,Increase regular pixel damage,普通砖块破坏力增加,普通磚塊破壞力增加
+buff_idx_1004613_name_key,일반 픽셀 피해량 증가,Increase regular pixel damage,普通砖块破坏力增加,普通磚塊破壞力增加
+buff_idx_1004713_name_key,탭 공격력 증가,Tap Increase attack power,点击的攻击力增加,點擊的攻擊力增加
+buff_idx_1004813_name_key,보스 픽셀 피해량 증가,Increase boss pixel damage,boss砖块伤害增加,boss磚塊傷害增加
+buff_idx_1004913_name_key,일반 픽셀 피해량 증가,Increase regular pixel damage,普通砖块破坏力增加,普通磚塊破壞力增加
+buff_idx_1005013_name_key,용병 공격력 증가,Increase soldier attack,佣兵攻击力增加,傭兵攻擊力增加
+buff_idx_1005113_name_key,일반 픽셀 피해량 증가,Increase regular pixel damage,普通砖块破坏力增加,普通磚塊破壞力增加
+buff_idx_1005213_name_key,보스 픽셀 피해량 증가,Increase boss pixel damage,boss砖块伤害增加,boss磚塊傷害增加
+buff_idx_1005313_name_key,탭 공격력 증가,Tap Increase attack power,点击的攻击力增加,點擊的攻擊力增加
+buff_idx_1005413_name_key,보스 픽셀 피해량 증가,Increase boss pixel damage,boss砖块伤害增加,boss磚塊傷害增加
+buff_idx_1005513_name_key,일반 픽셀 피해량 증가,Increase regular pixel damage,普通砖块破坏力增加,普通磚塊破壞力增加
+buff_idx_1000021_name_key,! 건설자 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同效果指南！\n穿着土系服装时.最终伤害提高50％\n-触发条件：配备施工服装！--,！建築師的協同效果指南！\n穿著土系服裝時.最終傷害提高50％\n-觸發條件：配備施工服裝！--
+buff_idx_1000121_name_key,! 건설자 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同效果指南！\n配备风系服装时.将最终伤害提高50％\n-触发条件:装备施工服装！--,！建築師的協同效果指南！\n配備風系服裝時.將最終傷害提高50％\n-觸發條件:裝備施工服裝！--
+buff_idx_1000221_name_key,! 건설자 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同效果指南！\n装备火系服装时.最终伤害提高50％\n-触发条件：配备施工服装！--,！建築師的協同效果指南！\n裝備火系服裝時.最終傷害提高50％\n-觸發條件：配備施工服裝！--
+buff_idx_1000321_name_key,! 건설자 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同效果指南！\n装备火系服装时.最终伤害提高50％\n-触发条件：配备施工服装！--,！建築師的協同效果指南！\n裝備火系服裝時.最終傷害提高50％\n-觸發條件：配備施工服裝！--
+buff_idx_1000421_name_key,! 경찰관 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 경찰관 의상 장착! -,! Police Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing police outfit!,！警察协同效果信息！\n穿着土系服装时。最终伤害提高50％\n-触发条件：装备警察服装！--,！員警協同效果資訊！\n穿著土系服裝時。最終傷害提高50％\n-觸發條件：裝備員警服裝！--
+buff_idx_1000521_name_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1000621_name_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1000721_name_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1000821_name_key,! 서부시대 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 서부시대 의상 장착! -,! Western-era Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing western-era outfit!,！有关西方时代协同效应的信息！\n穿着土地服装时。将最终伤害提高50％\n-触发条件。配备西方服装！--,！有關西方時代協同效應的資訊！\n穿著土地服裝時。將最終傷害提高50％\n-觸發條件。配備西方服裝！--
+buff_idx_1000921_name_key,! 소방관 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 소방관 의상 장착! -,! Firefighter Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing firefighter outfit!,！消防员的协同效果指南！\n穿着水系服装时.最终伤害提高50％\n-触发条件：装备消防员服装！--,！消防員的協同效果指南！\n穿著水系服裝時.最終傷害提高50％\n-觸發條件：裝備消防員服裝！--
+buff_idx_1001021_name_key,! 스페이스 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 스페이스 의상 장착! -,! Space Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing space outfit!,！太空的协同效果指南！\n装备水系服装时.最终伤害提高50％\n-触发条件：配备太空服！--,！太空的協同效果指南！\n裝備水系服裝時.最終傷害提高50％\n-觸發條件：配備太空服！--
+buff_idx_1001121_name_key,! 스페이스 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 스페이스 의상 장착! -,! Space Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing space outfit!,！太空协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：配备太空服！--,！太空協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：配備太空服！--
+buff_idx_1001221_name_key,! 우주 전사 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 우주 전사 의상 장착! -,! Space Warrior Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing space warrior outfit!,！宇宙勇士协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备太空战士服装！--,！宇宙勇士協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備太空戰士服裝！--
+buff_idx_1001321_name_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1001421_name_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1001521_name_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1001621_name_key,! 프로레슬러 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 프로레슬러 의상 장착! -,! Pro Wrestler Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing pro wrestler outfit!,！职业摔跤手的协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备专业摔跤服！--,！職業摔跤手的協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備專業摔跤服！--
+buff_idx_1001721_name_key,! 프로레슬러 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 프로레슬러 의상 장착! -,! Pro Wrestler Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing pro wrestler outfit!,！职业摔跤手协同效果指南！\n穿着水系服装时.最终伤害提高50％\n-触发条件。配备专业摔跤服！--,！職業摔跤手協同效果指南！\n穿著水系服裝時.最終傷害提高50％\n-觸發條件。配備專業摔跤服！--
+buff_idx_1001821_name_key,! 해적왕 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 해적왕 의상 장착! -,! Pirate King Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing pro pirate king outfit!,！海盗王协同效应指南！\n穿着戏水服装时。将最终伤害提高50％\n-触发条件。装备了海盗王装！--,！海盜王協同效應指南！\n穿著戲水服裝時。將最終傷害提高50％\n-觸發條件。裝備了海盜王裝！--
+buff_idx_1001921_name_key,! 건설자 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同效果指南！\n穿着土系服装时.最终伤害提高50％\n-触发条件：配备施工服装！--,！建築師的協同效果指南！\n穿著土系服裝時.最終傷害提高50％\n-觸發條件：配備施工服裝！--
+buff_idx_1002021_name_key,! 건설자 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同指南！\n装备水系服装时。将最终伤害提高50％\n-触发条件：装备施工服装！--,！建築師的協同指南！\n裝備水系服裝時。將最終傷害提高50％\n-觸發條件：裝備施工服裝！--
+buff_idx_1002121_name_key,! 경찰관 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 경찰관 의상 장착! -,! Police Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing police outfit!,！警察协同效果通知！\n穿着火系服装时.最终伤害提高50％\n-触发条件：配备警察服装！--,！員警協同效果通知！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：配備員警服裝！--
+buff_idx_1002221_name_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1002321_name_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1002421_name_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1002521_name_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1002621_name_key,! 서부시대 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 서부시대 의상 장착! -,! Western-era Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing western-era outfit!,！西方时代协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备西方服装！--,！西方時代協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備西方服裝！--
+buff_idx_1002721_name_key,! 서부시대 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 서부시대 의상 장착! -,! Western-era Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing western-era outfit!,！西方时代协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备西方服装！--,！西方時代協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備西方服裝！--
+buff_idx_1002821_name_key,! 소방관 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 소방관 의상 장착! -,! Firefighter Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing firefighter outfit!,！消防员协同效果指南！\n装备火系服装时.将最终伤害提高50％\n-触发条件：装备消防员服装！--,！消防員協同效果指南！\n裝備火系服裝時.將最終傷害提高50％\n-觸發條件：裝備消防員服裝！--
+buff_idx_1002921_name_key,! 스페이스 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 스페이스 의상 장착! -,! Space Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing space outfit!,！太空的协同效果指南！\n装备水系服装时.最终伤害提高50％\n-触发条件：配备太空服！--,！太空的協同效果指南！\n裝備水系服裝時.最終傷害提高50％\n-觸發條件：配備太空服！--
+buff_idx_1003021_name_key,! 스페이스 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 스페이스 의상 장착! -,! Space Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing space outfit!,！太空的协同效果指南！\n装备水系服装时.最终伤害提高50％\n-触发条件：配备太空服！--,！太空的協同效果指南！\n裝備水系服裝時.最終傷害提高50％\n-觸發條件：配備太空服！--
+buff_idx_1003121_name_key,! 우주 전사 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 우주 전사 의상 장착! -,! Space Warrior Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing space warrior outfit!,！宇宙勇士协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备太空战士服装！--,！宇宙勇士協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備太空戰士服裝！--
+buff_idx_1003221_name_key,! 우주 전사 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 우주 전사 의상 장착! -,! Space Warrior Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing space warrior outfit!,！宇宙勇士协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备太空战士服装！--,！宇宙勇士協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備太空戰士服裝！--
+buff_idx_1003321_name_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1003421_name_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1003521_name_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1003621_name_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1003721_name_key,! 판타지 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想的协同效果指南！\n装备火系服装时.最终伤害提高50％\n-触发条件：装备幻想服装！--,！幻想的協同效果指南！\n裝備火系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想服裝！--
+buff_idx_1003821_name_key,! 해적왕 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 해적왕 의상 장착! -,! Pirate King Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing pro pirate king outfit!,！海盗王协同效应指南！\n穿着戏水服装时。将最终伤害提高50％\n-触发条件。装备了海盗王装！--,！海盜王協同效應指南！\n穿著戲水服裝時。將最終傷害提高50％\n-觸發條件。裝備了海盜王裝！--
+buff_idx_1003921_name_key,! 해적왕 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 해적왕 의상 장착! -,! Pirate King Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing pro pirate king outfit!,！海盗王协同效应指南！\n穿着戏水服装时。将最终伤害提高50％\n-触发条件。装备了海盗王装！--,！海盜王協同效應指南！\n穿著戲水服裝時。將最終傷害提高50％\n-觸發條件。裝備了海盜王裝！--
+buff_idx_1004021_name_key,! 해적왕 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 해적왕 의상 장착! -,! Pirate King Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing pro pirate king outfit!,！海盗王协同指南！\n装备火系服装时.最终伤害提高50％\n-触发条件：装备海盗王装！--,！海盜王協同指南！\n裝備火系服裝時.最終傷害提高50％\n-觸發條件：裝備海盜王裝！--
+buff_idx_1004121_name_key,! 건설자 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同效果指南！\n穿着土系服装时.最终伤害提高50％\n-触发条件：配备施工服装！--,！建築師的協同效果指南！\n穿著土系服裝時.最終傷害提高50％\n-觸發條件：配備施工服裝！--
+buff_idx_1004221_name_key,! 건설자 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同效果指南！\n配备风系服装时.将最终伤害提高50％\n-触发条件:装备施工服装！--,！建築師的協同效果指南！\n配備風系服裝時.將最終傷害提高50％\n-觸發條件:裝備施工服裝！--
+buff_idx_1004321_name_key,! 경찰관 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 경찰관 의상 장착! -,! Police Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing police outfit!,！警察协同效果信息！\n穿着土系服装时。最终伤害提高50％\n-触发条件：装备警察服装！--,！員警協同效果資訊！\n穿著土系服裝時。最終傷害提高50％\n-觸發條件：裝備員警服裝！--
+buff_idx_1004421_name_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1004521_name_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1004621_name_key,! 서부시대 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 서부시대 의상 장착! -,! Western-era Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing western-era outfit!,！西方时代协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备西方服装！--,！西方時代協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備西方服裝！--
+buff_idx_1004721_name_key,! 서부시대 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 서부시대 의상 장착! -,! Western-era Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing western-era outfit!,！西方时代协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备西方服装！--,！西方時代協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備西方服裝！--
+buff_idx_1004821_name_key,! 소방관 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 소방관 의상 장착! -,! Firefighter Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing firefighter outfit!,！消防员协同效果指南！\n装备火系服装时.将最终伤害提高50％\n-触发条件：装备消防员服装！--,！消防員協同效果指南！\n裝備火系服裝時.將最終傷害提高50％\n-觸發條件：裝備消防員服裝！--
+buff_idx_1004921_name_key,! 우주 전사 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 우주 전사 의상 장착! -,! Space Warrior Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing space warrior outfit!,！宇宙勇士协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备太空战士服装！--,！宇宙勇士協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備太空戰士服裝！--
+buff_idx_1005021_name_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1005121_name_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1005221_name_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1005321_name_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1005421_name_key,! 프로레슬러 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 프로레슬러 의상 장착! -,! Pro Wrestler Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing pro wrestler outfit!,！职业摔跤手的协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备专业摔跤服！--,！職業摔跤手的協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備專業摔跤服！--
+buff_idx_1005521_name_key,! 해적왕 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 해적왕 의상 장착! -,! Pirate King Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing pro pirate king outfit!,！海盗王协同效应指南！\n穿着戏水服装时。将最终伤害提高50％\n-触发条件。装备了海盗王装！--,！海盜王協同效應指南！\n穿著戲水服裝時。將最終傷害提高50％\n-觸發條件。裝備了海盜王裝！--
+buff_idx_1000011_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000111_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000211_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000311_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000411_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000511_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000611_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000711_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000811_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000911_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001011_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001111_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001211_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001311_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001411_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001511_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001611_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001711_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001811_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1001911_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002011_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002111_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002211_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002311_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002411_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002511_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002611_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002711_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002811_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1002911_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003011_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003111_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003211_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003311_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003411_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003511_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003611_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003711_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003811_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1003911_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004011_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004111_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004211_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004311_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004411_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004511_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004611_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004711_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004811_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1004911_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1005011_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1005111_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1005211_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1005311_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1005411_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1005511_desc_key,공격력 증가,Increases attack power,攻击力增加,攻擊力增加
+buff_idx_1000012_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1000112_desc_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1000212_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1000312_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1000412_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1000512_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1000612_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1000712_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1000812_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1000912_desc_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1001012_desc_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1001112_desc_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1001212_desc_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1001312_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1001412_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1001512_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1001612_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1001712_desc_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1001812_desc_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1001912_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1002012_desc_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1002112_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1002212_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1002312_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1002412_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1002512_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1002612_desc_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1002712_desc_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1002812_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1002912_desc_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1003012_desc_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1003112_desc_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1003212_desc_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1003312_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1003412_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1003512_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1003612_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1003712_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1003812_desc_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1003912_desc_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1004012_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1004112_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1004212_desc_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1004312_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1004412_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1004512_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1004612_desc_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1004712_desc_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1004812_desc_key,불속성 피해량 증가,Increases fire damage,火属性伤害增加,火屬性傷害增加
+buff_idx_1004912_desc_key,바람속성 피해량 증가,Increases wind damage,风属性伤害增加,風屬性傷害增加
+buff_idx_1005012_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1005112_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1005212_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1005312_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1005412_desc_key,땅속성 피해량 증가,Increases land damage,土属性伤害增加,土屬性傷害增加
+buff_idx_1005512_desc_key,물속성 피해량 증가,Increases water damage,水属性伤害增加,水屬性傷害增加
+buff_idx_1004113_desc_key,용병 공격력 증가,Increase soldier attack,佣兵攻击力增加,傭兵攻擊力增加
+buff_idx_1004213_desc_key,탭 공격력 증가,Tap Increase attack power,点击的攻击力增加,點擊的攻擊力增加
+buff_idx_1004313_desc_key,탭 공격력 증가,Tap Increase attack power,点击的攻击力增加,點擊的攻擊力增加
+buff_idx_1004413_desc_key,용병 공격력 증가,Increase soldier attack,佣兵攻击力增加,傭兵攻擊力增加
+buff_idx_1004513_desc_key,일반 픽셀 피해량 증가,Increase regular pixel damage,普通砖块破坏力增加,普通磚塊破壞力增加
+buff_idx_1004613_desc_key,일반 픽셀 피해량 증가,Increase regular pixel damage,普通砖块破坏力增加,普通磚塊破壞力增加
+buff_idx_1004713_desc_key,탭 공격력 증가,Tap Increase attack power,点击的攻击力增加,點擊的攻擊力增加
+buff_idx_1004813_desc_key,보스 픽셀 피해량 증가,Increase boss pixel damage,boss砖块伤害增加,boss磚塊傷害增加
+buff_idx_1004913_desc_key,일반 픽셀 피해량 증가,Increase regular pixel damage,普通砖块破坏力增加,普通磚塊破壞力增加
+buff_idx_1005013_desc_key,용병 공격력 증가,Increase soldier attack,佣兵攻击力增加,傭兵攻擊力增加
+buff_idx_1005113_desc_key,일반 픽셀 피해량 증가,Increase regular pixel damage,普通砖块破坏力增加,普通磚塊破壞力增加
+buff_idx_1005213_desc_key,보스 픽셀 피해량 증가,Increase boss pixel damage,boss砖块伤害增加,boss磚塊傷害增加
+buff_idx_1005313_desc_key,탭 공격력 증가,Tap Increase attack power,点击的攻击力增加,點擊的攻擊力增加
+buff_idx_1005413_desc_key,보스 픽셀 피해량 증가,Increase boss pixel damage,boss砖块伤害增加,boss磚塊傷害增加
+buff_idx_1005513_desc_key,일반 픽셀 피해량 증가,Increase regular pixel damage,普通砖块破坏力增加,普通磚塊破壞力增加
+buff_idx_1000021_desc_key,! 건설자 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同效果指南！\n穿着土系服装时.最终伤害提高50％\n-触发条件：配备施工服装！--,！建築師的協同效果指南！\n穿著土系服裝時.最終傷害提高50％\n-觸發條件：配備施工服裝！--
+buff_idx_1000121_desc_key,! 건설자 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同效果指南！\n配备风系服装时.将最终伤害提高50％\n-触发条件:装备施工服装！--,！建築師的協同效果指南！\n配備風系服裝時.將最終傷害提高50％\n-觸發條件:裝備施工服裝！--
+buff_idx_1000221_desc_key,! 건설자 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同效果指南！\n装备火系服装时.最终伤害提高50％\n-触发条件：配备施工服装！--,！建築師的協同效果指南！\n裝備火系服裝時.最終傷害提高50％\n-觸發條件：配備施工服裝！--
+buff_idx_1000321_desc_key,! 건설자 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同效果指南！\n装备火系服装时.最终伤害提高50％\n-触发条件：配备施工服装！--,！建築師的協同效果指南！\n裝備火系服裝時.最終傷害提高50％\n-觸發條件：配備施工服裝！--
+buff_idx_1000421_desc_key,! 경찰관 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 경찰관 의상 장착! -,! Police Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing police outfit!,！警察协同效果信息！\n穿着土系服装时。最终伤害提高50％\n-触发条件：装备警察服装！--,！員警協同效果資訊！\n穿著土系服裝時。最終傷害提高50％\n-觸發條件：裝備員警服裝！--
+buff_idx_1000521_desc_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1000621_desc_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1000721_desc_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1000821_desc_key,! 서부시대 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 서부시대 의상 장착! -,! Western-era Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing western-era outfit!,！有关西方时代协同效应的信息！\n穿着土地服装时。将最终伤害提高50％\n-触发条件。配备西方服装！--,！有關西方時代協同效應的資訊！\n穿著土地服裝時。將最終傷害提高50％\n-觸發條件。配備西方服裝！--
+buff_idx_1000921_desc_key,! 소방관 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 소방관 의상 장착! -,! Firefighter Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing firefighter outfit!,！消防员的协同效果指南！\n穿着水系服装时.最终伤害提高50％\n-触发条件：装备消防员服装！--,！消防員的協同效果指南！\n穿著水系服裝時.最終傷害提高50％\n-觸發條件：裝備消防員服裝！--
+buff_idx_1001021_desc_key,! 스페이스 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 스페이스 의상 장착! -,! Space Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing space outfit!,！太空的协同效果指南！\n装备水系服装时.最终伤害提高50％\n-触发条件：配备太空服！--,！太空的協同效果指南！\n裝備水系服裝時.最終傷害提高50％\n-觸發條件：配備太空服！--
+buff_idx_1001121_desc_key,! 스페이스 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 스페이스 의상 장착! -,! Space Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing space outfit!,！太空协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：配备太空服！--,！太空協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：配備太空服！--
+buff_idx_1001221_desc_key,! 우주 전사 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 우주 전사 의상 장착! -,! Space Warrior Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing space warrior outfit!,！宇宙勇士协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备太空战士服装！--,！宇宙勇士協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備太空戰士服裝！--
+buff_idx_1001321_desc_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1001421_desc_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1001521_desc_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1001621_desc_key,! 프로레슬러 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 프로레슬러 의상 장착! -,! Pro Wrestler Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing pro wrestler outfit!,！职业摔跤手的协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备专业摔跤服！--,！職業摔跤手的協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備專業摔跤服！--
+buff_idx_1001721_desc_key,! 프로레슬러 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 프로레슬러 의상 장착! -,! Pro Wrestler Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing pro wrestler outfit!,！职业摔跤手协同效果指南！\n穿着水系服装时.最终伤害提高50％\n-触发条件。配备专业摔跤服！--,！職業摔跤手協同效果指南！\n穿著水系服裝時.最終傷害提高50％\n-觸發條件。配備專業摔跤服！--
+buff_idx_1001821_desc_key,! 해적왕 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 해적왕 의상 장착! -,! Pirate King Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing pro pirate king outfit!,！海盗王协同效应指南！\n穿着戏水服装时。将最终伤害提高50％\n-触发条件。装备了海盗王装！--,！海盜王協同效應指南！\n穿著戲水服裝時。將最終傷害提高50％\n-觸發條件。裝備了海盜王裝！--
+buff_idx_1001921_desc_key,! 건설자 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同效果指南！\n穿着土系服装时.最终伤害提高50％\n-触发条件：配备施工服装！--,！建築師的協同效果指南！\n穿著土系服裝時.最終傷害提高50％\n-觸發條件：配備施工服裝！--
+buff_idx_1002021_desc_key,! 건설자 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同指南！\n装备水系服装时。将最终伤害提高50％\n-触发条件：装备施工服装！--,！建築師的協同指南！\n裝備水系服裝時。將最終傷害提高50％\n-觸發條件：裝備施工服裝！--
+buff_idx_1002121_desc_key,! 경찰관 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 경찰관 의상 장착! -,! Police Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing police outfit!,！警察协同效果通知！\n穿着火系服装时.最终伤害提高50％\n-触发条件：配备警察服装！--,！員警協同效果通知！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：配備員警服裝！--
+buff_idx_1002221_desc_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1002321_desc_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1002421_desc_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1002521_desc_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1002621_desc_key,! 서부시대 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 서부시대 의상 장착! -,! Western-era Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing western-era outfit!,！西方时代协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备西方服装！--,！西方時代協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備西方服裝！--
+buff_idx_1002721_desc_key,! 서부시대 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 서부시대 의상 장착! -,! Western-era Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing western-era outfit!,！西方时代协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备西方服装！--,！西方時代協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備西方服裝！--
+buff_idx_1002821_desc_key,! 소방관 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 소방관 의상 장착! -,! Firefighter Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing firefighter outfit!,！消防员协同效果指南！\n装备火系服装时.将最终伤害提高50％\n-触发条件：装备消防员服装！--,！消防員協同效果指南！\n裝備火系服裝時.將最終傷害提高50％\n-觸發條件：裝備消防員服裝！--
+buff_idx_1002921_desc_key,! 스페이스 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 스페이스 의상 장착! -,! Space Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing space outfit!,！太空的协同效果指南！\n装备水系服装时.最终伤害提高50％\n-触发条件：配备太空服！--,！太空的協同效果指南！\n裝備水系服裝時.最終傷害提高50％\n-觸發條件：配備太空服！--
+buff_idx_1003021_desc_key,! 스페이스 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 스페이스 의상 장착! -,! Space Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing space outfit!,！太空的协同效果指南！\n装备水系服装时.最终伤害提高50％\n-触发条件：配备太空服！--,！太空的協同效果指南！\n裝備水系服裝時.最終傷害提高50％\n-觸發條件：配備太空服！--
+buff_idx_1003121_desc_key,! 우주 전사 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 우주 전사 의상 장착! -,! Space Warrior Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing space warrior outfit!,！宇宙勇士协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备太空战士服装！--,！宇宙勇士協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備太空戰士服裝！--
+buff_idx_1003221_desc_key,! 우주 전사 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 우주 전사 의상 장착! -,! Space Warrior Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing space warrior outfit!,！宇宙勇士协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备太空战士服装！--,！宇宙勇士協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備太空戰士服裝！--
+buff_idx_1003321_desc_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1003421_desc_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1003521_desc_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1003621_desc_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1003721_desc_key,! 판타지 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想的协同效果指南！\n装备火系服装时.最终伤害提高50％\n-触发条件：装备幻想服装！--,！幻想的協同效果指南！\n裝備火系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想服裝！--
+buff_idx_1003821_desc_key,! 해적왕 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 해적왕 의상 장착! -,! Pirate King Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing pro pirate king outfit!,！海盗王协同效应指南！\n穿着戏水服装时。将最终伤害提高50％\n-触发条件。装备了海盗王装！--,！海盜王協同效應指南！\n穿著戲水服裝時。將最終傷害提高50％\n-觸發條件。裝備了海盜王裝！--
+buff_idx_1003921_desc_key,! 해적왕 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 해적왕 의상 장착! -,! Pirate King Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing pro pirate king outfit!,！海盗王协同效应指南！\n穿着戏水服装时。将最终伤害提高50％\n-触发条件。装备了海盗王装！--,！海盜王協同效應指南！\n穿著戲水服裝時。將最終傷害提高50％\n-觸發條件。裝備了海盜王裝！--
+buff_idx_1004021_desc_key,! 해적왕 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 해적왕 의상 장착! -,! Pirate King Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing pro pirate king outfit!,！海盗王协同指南！\n装备火系服装时.最终伤害提高50％\n-触发条件：装备海盗王装！--,！海盜王協同指南！\n裝備火系服裝時.最終傷害提高50％\n-觸發條件：裝備海盜王裝！--
+buff_idx_1004121_desc_key,! 건설자 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同效果指南！\n穿着土系服装时.最终伤害提高50％\n-触发条件：配备施工服装！--,！建築師的協同效果指南！\n穿著土系服裝時.最終傷害提高50％\n-觸發條件：配備施工服裝！--
+buff_idx_1004221_desc_key,! 건설자 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 건설자 의상 장착! -,! Builder Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing builder outfit!,！建筑师的协同效果指南！\n配备风系服装时.将最终伤害提高50％\n-触发条件:装备施工服装！--,！建築師的協同效果指南！\n配備風系服裝時.將最終傷害提高50％\n-觸發條件:裝備施工服裝！--
+buff_idx_1004321_desc_key,! 경찰관 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 경찰관 의상 장착! -,! Police Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing police outfit!,！警察协同效果信息！\n穿着土系服装时。最终伤害提高50％\n-触发条件：装备警察服装！--,！員警協同效果資訊！\n穿著土系服裝時。最終傷害提高50％\n-觸發條件：裝備員警服裝！--
+buff_idx_1004421_desc_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1004521_desc_key,! 레스토랑 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 레스토랑 의상 장착! -,! Restaurant Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing restaurant outfit!,！餐厅协同效果信息！\n穿着火系服装时.最终伤害提高50％\n-触发条件：装备餐厅服饰！--,！餐廳協同效果資訊！\n穿著火系服裝時.最終傷害提高50％\n-觸發條件：裝備餐廳服飾！--
+buff_idx_1004621_desc_key,! 서부시대 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 서부시대 의상 장착! -,! Western-era Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing western-era outfit!,！西方时代协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备西方服装！--,！西方時代協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備西方服裝！--
+buff_idx_1004721_desc_key,! 서부시대 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 서부시대 의상 장착! -,! Western-era Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing western-era outfit!,！西方时代协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备西方服装！--,！西方時代協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備西方服裝！--
+buff_idx_1004821_desc_key,! 소방관 시너지 안내 !\n불 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 소방관 의상 장착! -,! Firefighter Synergy Guide !\n When using fire costume. Increases final damage by 50%\n- Triggering condition. Wearing firefighter outfit!,！消防员协同效果指南！\n装备火系服装时.将最终伤害提高50％\n-触发条件：装备消防员服装！--,！消防員協同效果指南！\n裝備火系服裝時.將最終傷害提高50％\n-觸發條件：裝備消防員服裝！--
+buff_idx_1004921_desc_key,! 우주 전사 시너지 안내 !\n바람 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 우주 전사 의상 장착! -,! Space Warrior Synergy Guide !\n When using wind costume. Increases final damage by 50%\n- Triggering condition. Wearing space warrior outfit!,！宇宙勇士协同效果指南！\n装备风系服装时.最终伤害提高50％\n-触发条件：装备太空战士服装！--,！宇宙勇士協同效果指南！\n裝備風系服裝時.最終傷害提高50％\n-觸發條件：裝備太空戰士服裝！--
+buff_idx_1005021_desc_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1005121_desc_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1005221_desc_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1005321_desc_key,! 판타지 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 판타지 의상 장착! -,! Fantasy Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing fantasy outfit!,！幻想协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备幻想的服装！--,！幻想協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備幻想的服裝！--
+buff_idx_1005421_desc_key,! 프로레슬러 시너지 안내 !\n땅 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 프로레슬러 의상 장착! -,! Pro Wrestler Synergy Guide !\n When using land costume. Increases final damage by 50%\n- Triggering condition. Wearing pro wrestler outfit!,！职业摔跤手的协同效果指南！\n装备土系服装时.最终伤害提高50％\n-触发条件：装备专业摔跤服！--,！職業摔跤手的協同效果指南！\n裝備土系服裝時.最終傷害提高50％\n-觸發條件：裝備專業摔跤服！--
+buff_idx_1005521_desc_key,! 해적왕 시너지 안내 !\n물 의상 장착 시. 최종 데미지 50% 증가\n- 발동 조건. 해적왕 의상 장착! -,! Pirate King Synergy Guide !\n When using water costume. Increases final damage by 50%\n- Triggering condition. Wearing pro pirate king outfit!,！海盗王协同效应指南！\n穿着戏水服装时。将最终伤害提高50％\n-触发条件。装备了海盗王装！--,！海盜王協同效應指南！\n穿著戲水服裝時。將最終傷害提高50％\n-觸發條件。裝備了海盜王裝！--
+projectile_idx_10000_name_key,도끼,ax,斧头,斧頭
+projectile_idx_10001_name_key,빠루,claw hammer,法鲁,法魯
+projectile_idx_10002_name_key,폭탄,bomb,炸弹,炸彈
+projectile_idx_10003_name_key,TNT,TNT,TNT,TNT
+projectile_idx_10004_name_key,총알,bullet,子弹,子彈
+projectile_idx_10005_name_key,토마토,Tomato,番茄,番茄
+projectile_idx_10006_name_key,포크,fork,叉子,叉子
+projectile_idx_10007_name_key,피자,pizza,比萨,比薩
+projectile_idx_10008_name_key,돌맹이,Stone,结石,結石
+projectile_idx_10009_name_key,삼지창,Trident,三叉戟,三叉戟
+projectile_idx_10010_name_key,야구공,baseball,棒球,棒球
+projectile_idx_10011_name_key,축구공,football,足球,足球
+projectile_idx_10012_name_key,검은 소형 봄,Black miniature spring,黑色微型弹簧,黑色微型彈簧
+projectile_idx_10013_name_key,화살,arrow,弓箭,弓箭
+projectile_idx_10014_name_key,파란 소형 볼,Blue miniature ball,蓝色微型球,藍色微型球
+projectile_idx_10015_name_key,하트,Heart,心,心
+projectile_idx_10016_name_key,럭비공,rugby ball,橄榄球,橄欖球
+projectile_idx_10017_name_key,농구공,Basketball,篮球,籃球
+projectile_idx_10018_name_key,뼈,bone,骨,骨
+projectile_idx_10019_name_key,장도리,Claw hammer,羊角锤,羊角錘
+projectile_idx_10020_name_key,스패너,spanner,扳手,扳手
+projectile_idx_10021_name_key,수류탄,hand grenade,手榴弹,手榴彈
+projectile_idx_10022_name_key,도넛,donut,甜甜圈,甜甜圈
+projectile_idx_10023_name_key,콜라,cola,可乐,可樂
+projectile_idx_10024_name_key,폭죽,Firecracker,鞭炮,鞭炮
+projectile_idx_10025_name_key,로스트 치킨,Roast chicken,烤鸡,烤雞
+projectile_idx_10026_name_key,곡괭이,pickax,挑,挑
+projectile_idx_10027_name_key,장총,Long gun,长枪,長槍
+projectile_idx_10028_name_key,빨간 도끼,Red Rabbit,红色兔子,紅色兔子
+projectile_idx_10029_name_key,파란빔,Blue Beam,蓝光束,藍光束
+projectile_idx_10030_name_key,삐슝빠슝,Beep beep,噗噗,噗噗
+projectile_idx_10031_name_key,방패,Shield,盾牌,盾牌
+projectile_idx_10032_name_key,미사일,Missile,导弹,導彈
+projectile_idx_10033_name_key,청룡도,Blue Dragon Island,青龙刀,青龍刀
+projectile_idx_10034_name_key,검,sword,剑,劍
+projectile_idx_10035_name_key,수리검,shuriken,手里剑,手裏劍
+projectile_idx_10036_name_key,얼음 결정,Ice Crystal,冰晶,冰晶
+projectile_idx_10037_name_key,불덩이,Fireball,火球,火球
+projectile_idx_10038_name_key,맥주 비어,Beer,啤酒啤酒,啤酒啤酒
+projectile_idx_10039_name_key,황동 닻,Brass Anchor,黄铜锚,黃銅錨
+projectile_idx_10040_name_key,불화살,Fire arrows,火箭,火箭
+projectile_idx_10041_name_key,드릴,Drill,钻头,鑽頭
+projectile_idx_10042_name_key,망치,hammer,锤子,錘子
+projectile_idx_10043_name_key,권총,Pistol,手枪,手槍
+projectile_idx_10044_name_key,당근,carrot,胡萝卜,胡蘿蔔
+projectile_idx_10045_name_key,후라이팬,frying pan,平底锅,平底鍋
+projectile_idx_10046_name_key,보안관 뱃지,Sheriff Badge,警长徽章,警長徽章
+projectile_idx_10047_name_key,선인장,Cactus,仙人掌,仙人掌
+projectile_idx_10048_name_key,소방용 도끼,Fire Axe,消防斧,消防斧
+projectile_idx_10049_name_key,래빗건,Rabbit Gun,兔子枪,兔子槍
+projectile_idx_10050_name_key,표창,dagger,飞镖,飛鏢
+projectile_idx_10051_name_key,토르 망치,thor hammer,雷神之锤,雷神之錘
+projectile_idx_10052_name_key,번개,Lightning,闪电,閃電
+projectile_idx_10053_name_key,슬레이어,Slayer,杀手,殺手
+projectile_idx_10054_name_key,접이식 의자,Foldable Chair,折叠椅,折疊椅
+projectile_idx_10055_name_key,파란 창,Blue Spear,蓝窗,藍窗
+projectile_idx_10000_desc_key,임시_도끼,-,-,-
+projectile_idx_10001_desc_key,임시_빠루,-,-,-
+projectile_idx_10002_desc_key,임시_폭탄,-,-,-
+projectile_idx_10003_desc_key,임시_TNT,-,-,-
+projectile_idx_10004_desc_key,임시_총알,-,-,-
+projectile_idx_10005_desc_key,임시_토마토,-,-,-
+projectile_idx_10006_desc_key,임시_포크,-,-,-
+projectile_idx_10007_desc_key,임시_피자,-,-,-
+projectile_idx_10008_desc_key,임시_돌맹이,-,-,-
+projectile_idx_10009_desc_key,임시_삼지창,-,-,-
+projectile_idx_10010_desc_key,임시_야구공,-,-,-
+projectile_idx_10011_desc_key,임시_축구공,-,-,-
+projectile_idx_10012_desc_key,임시_검은 소형 봄,-,-,-
+projectile_idx_10013_desc_key,임시_화살,-,-,-
+projectile_idx_10014_desc_key,임시_파란 소형 볼,-,-,-
+projectile_idx_10015_desc_key,임시_하트,-,-,-
+projectile_idx_10016_desc_key,임시_럭비공,-,-,-
+projectile_idx_10017_desc_key,임시_농구공,-,-,-
+projectile_idx_10018_desc_key,임시_뼈,-,-,-
+projectile_idx_10019_desc_key,임시_장도리,-,-,-
+projectile_idx_10020_desc_key,임시_스패너,-,-,-
+projectile_idx_10021_desc_key,임시_수류탄,-,-,-
+projectile_idx_10022_desc_key,임시_도넛,-,-,-
+projectile_idx_10023_desc_key,임시_콜라,-,-,-
+projectile_idx_10024_desc_key,임시_폭죽,-,-,-
+projectile_idx_10025_desc_key,임시_로스트 치킨,-,-,-
+projectile_idx_10026_desc_key,임시_곡괭이,-,-,-
+projectile_idx_10027_desc_key,임시_장총,-,-,-
+projectile_idx_10028_desc_key,임시_빨간 도끼,-,-,-
+projectile_idx_10029_desc_key,임시_파란빔,-,-,-
+projectile_idx_10030_desc_key,임시_삐슝빠슝,-,-,-
+projectile_idx_10031_desc_key,임시_방패,-,-,-
+projectile_idx_10032_desc_key,임시_미사일,-,-,-
+projectile_idx_10033_desc_key,임시_청룡도,-,-,-
+projectile_idx_10034_desc_key,임시_검,-,-,-
+projectile_idx_10035_desc_key,임시_수리검,-,-,-
+projectile_idx_10036_desc_key,임시_얼음 결정,-,-,-
+projectile_idx_10037_desc_key,임시_불덩이,-,-,-
+projectile_idx_10038_desc_key,임시_맥주 비어,-,-,-
+projectile_idx_10039_desc_key,임시_황동 닻,-,-,-
+projectile_idx_10040_desc_key,임시_불화살,-,-,-
+projectile_idx_10041_desc_key,임시_드릴,-,-,-
+projectile_idx_10042_desc_key,임시_망치,-,-,-
+projectile_idx_10043_desc_key,임시_권총,-,-,-
+projectile_idx_10044_desc_key,임시_당근,-,-,-
+projectile_idx_10045_desc_key,임시_후라이팬,-,-,-
+projectile_idx_10046_desc_key,임시_보안관 뱃지,-,-,-
+projectile_idx_10047_desc_key,임시_선인장,-,-,-
+projectile_idx_10048_desc_key,임시_소방용 도끼,-,-,-
+projectile_idx_10049_desc_key,임시_래빗건,-,-,-
+projectile_idx_10050_desc_key,임시_표창,-,-,-
+projectile_idx_10051_desc_key,임시_토르 망치,-,-,-
+projectile_idx_10052_desc_key,임시_번개,-,-,-
+projectile_idx_10053_desc_key,임시_슬레이어,-,-,-
+projectile_idx_10054_desc_key,임시_접이식 의자,-,-,-
+projectile_idx_10055_desc_key,임시_파란 창,-,-,-
+pak_name_1,STAGE,STAGE,关卡,關卡
+pak_name_2,STAGE,STAGE,关卡,關卡
+pak_name_3,STAGE,STAGE,关卡,關卡
+pak_name_4,STAGE,STAGE,关卡,關卡
+pak_name_5,STAGE,STAGE,关卡,關卡
+Korean,한국어,한국어,한국어,한국어
+English,English,English,English,English
+ChineseSimplified,简体中文,简体中文,简体中文,简体中文
+ChineseTraditional,繁体中文,繁体中文,繁体中文,繁体中文
+mercenary_idx_10_desc_key,첫 동료군요? 앞으로 많이 도와줄 친구입니다.\n가장 좋아하는 음식은 오렌지와 딸기입니다.\n- 원거리 공격을 잘 사용합니다 -,He's your first fellow worker. isn't he? He will hepl you a lot in future.\n His favorite foods are oranges and strawberries.\n- Good at long range attacks -,是第一个小伙伴吧?以后他会多多帮助你的。\n他最喜欢的食物是橘子和草莓\n- 擅长远距离攻击 -,是第一個小夥伴吧?以後他會多多幫助你的。\n他最喜歡的食物是橘子和草莓\n- 擅長遠距離攻擊 -
+mercenary_idx_11_desc_key,힘이라면 누구에게도 지지 않습니다.\n좋아하는 영화 장르는 로맨스와 멜로입니다.\n- 근접 공격의 달인입니다 -,He will never lose to anyone when it comes to strength.\n His favorite movie genres are romance and melodrama.\n - Master of close range attacks -,力气方面可不会输给任何人.\n最喜欢的电影类型是喜剧和爱情。\n- 近距离攻击小达人 -,力氣方面可不會輸給任何人.\n最喜歡的電影類型是喜劇和愛情。\n- 近距離攻擊小達人 -
+mercenary_idx_12_desc_key,생각보다 이해타산이 빠른 친구입니다.\n가장 행복한 순간은 보너스를 받을 때 입니다.\n- 기계 공격을 주로 사용합니다 -,He's more calculative than you think.\n His happiest moment is when he gets a bonus.\n- Mainly uses machine attacks -,他是个爱算计的家伙.\n最幸福的瞬间就是获得奖金的时候。\n- 主要使用机械攻击 -,他是個愛算計的傢伙.\n最幸福的瞬間就是獲得獎金的時候。\n- 主要使用機械攻擊 -
+mercenary_idx_13_desc_key,오랜 노력 끝에 마법을 쓰게된 친구입니다.\n최근 리듬게임과 애니메이션에 즐기고 있습니다.\n- 마법 공격의 장인입니다 -,He is a friend who managed to use magic after long efforts.\n He's been enjoying rhythm games and animations lately.\n - Master of magic attacks -,这位朋友在漫长的努力下终于学会使用魔法。.\n最近迷上了节奏音游和动漫.\n- 擅长魔法攻击 -,這位朋友在漫長的努力下終於學會使用魔法。.\n最近迷上了節奏音遊和動漫.\n- 擅長魔法攻擊 -
+Confirm,확인!,Confirm,确认,確認
+evolution,Evolution,Evolution,进化,進化
+evolution_desc,Evolution을 통해 더 강해질 수 있습니다.\n능력치가 2배로 증가하고 Level이 1로 초기화됩니다.\n- 몸에서 힘이 넘쳐흐른다! 난 더 강해질거야! -,The rating has gone up. Your stats has increased a lot!\nYou can develop all skills from the beginning from Lv.1.,等级上升了.能力值暴涨！\n将所有技能都从等级一开始培养吧！,等級上升了.能力值暴漲！\n將所有技能都從等級一開始培養吧！
+evolution_success,Evolution 성공!,Evolution Complete!,进化完成！,進化完成！
+weapon_name_0,장도리,hammer,锤子,錘子
+weapon_name_1,도끼,ax,斧头,斧頭
+weapon_name_2,화살,arrow,弓箭,弓箭
+weapon_name_3,야구공,baseball,棒球,棒球
+weapon_name_4,불 화살,Fire arrow,火焰箭,火焰箭
+weapon_name_5,당근 호출기,carrot,胡萝卜,胡蘿蔔
+weapon_name_6,수리검,shuriken,手里剑,手裏劍
+weapon_name_7,표창,dagger,飞镖,飛鏢
+weapon_name_8,수류탄,hand grenade,手榴弹,手榴彈
+weapon_name_9,포크,fork,叉子,叉子
+weapon_name_10,북유렵 망치,thor hammer,雷神之锤,雷神之錘
+weapon_name_11,토마토,Tomato,番茄,番茄
+weapon_name_12,폭탄,bomb,炸弹,炸彈
+weapon_name_13,미사일,missile,导弹,導彈
+weapon_name_14,빠루,claw hammer,法鲁,法魯
+weapon_name_15,기사의 검,sword,剑,劍
+weapon_name_16,축구공,football,足球,足球
+weapon_name_17,TNT,TNT,TNT,TNT
+weapon_name_18,뼈,bone,骨,骨
+weapon_name_19,방패,Tricolor Shield,三色盾,三色盾
+weapon_name_20,몽키 스패너,spanner,扳手,扳手
+weapon_name_21,손 망치,Hand Hammer,手锤,手錘
+weapon_name_22,곡괭이,pickax,挑,挑
+weapon_name_23,총알,bullet,子弹,子彈
+weapon_name_24,농구공,Basketball,篮球,籃球
+weapon_name_25,럭비공,rugby ball,橄榄球,橄欖球
+weapon_name_26,권총,Pistol,手枪,手槍
+weapon_name_27,샷건,rifle,步枪,步槍
+weapon_name_28,도넛,donut,甜甜圈,甜甜圈
+weapon_name_29,피자,pizza,比萨,比薩
+weapon_name_30,콜라,cola,可乐,可樂
+weapon_name_31,후라이팬,frying pan,平底锅,平底鍋
+weapon_name_32,불덩이,Fireball,火球,火球
+weapon_desc_0,가장 자주쓰는 작업도구입니다.\n가장 처음 쓰는 무기이기도 하죠.\n- 공격 타입. 근거리 -,This is the most frequently used work tool.\n And it's my first time using this weapon too.\n- Attack type. Close range -,这是他经常使用的道具.\n也是第一次使用的武器\n- 攻击类型 近距离 -,這是他經常使用的道具.\n也是第一次使用的武器\n- 攻擊類型 近距離 -
+weapon_desc_1,새로운 무기를 획득하셨군요?\n무기 5단계마다 새로운 무기를 사용합니다.\n- 공격 타입. 근거리 -,You've acquired a new weapon. haven't you?\n Use a new weapon every five stages of your weapon.\n- Attack type. Close range -,看来获得了新的武器呢。\n- 每过五个等级使用新武器吧！\n- 攻击类型. 近距离 -,看來獲得了新的武器呢。\n- 每過五個等級使用新武器吧！\n- 攻擊類型. 近距離 -
+weapon_desc_2,활도 없는데 어떻게 화살을 발사하냐고요?\n다 방법이 있습니다. 바로 손으로 던지면 됩니다.\n- 공격 타입. 원거리 -,How do I fire an arrow when I don't have a bow?\n There is a way. You can just throw it with your hands.\n- Attack type. Long range -,没有弓怎么射箭？\n我自有办法. 那就是用手直接投掷就可以了.\n- 攻击类型. 远距离 -,沒有弓怎麼射箭？\n我自有辦法. 那就是用手直接投擲就可以了.\n- 攻擊類型. 遠距離 -
+weapon_desc_3,이 야구공에 대해서 이야기하자면\n제가 LA에서 있었을 때의 이야기부터 하....\n- 공격 타입. 원거리 -,This is a ball autographed by a baseball player who played in LA.\n Hold it tight and throw it hard like a fastball.\n- Attack type. Long range -,这是活跃在LA的棒球选手的签名棒球.\n 紧紧的握住然后超强速的投掷就可以了.\n- 攻击类型. 远距离 -,這是活躍在LA的棒球選手的簽名棒球.\n 緊緊的握住然後超強速的投擲就可以了.\n- 攻擊類型. 遠距離 -
+weapon_desc_4,사실 불이 아니라 붉은 전구가 달려있습니다.\n이것도 손으로 던지면 됩니다. 활은 없어요.\n- 공격 타입. 기계 -,Actually. this is not fire. but a red lightbulb.\n You can throw this with your hands too. There's no bow.\n- Attack type. Machine -,其实这不是灯.而是红色的灯泡.\n这也是用手投掷就可以了.没有弓哦.\n- 攻击类型. 机械 -,其實這不是燈.而是紅色的燈泡.\n這也是用手投擲就可以了.沒有弓哦.\n- 攻擊類型. 機械 -
+weapon_desc_5,우사기의 고향친구에게 받은 호출기입니다.\n호출기를 누르면 달에서 당근을 투척해줍니다.\n- 공격 타입. 마법 -,This is a pager from Usagi's hometown friend.\n If you press it. carrots will come from the moon.\n- Attack type. Magic -,这是从兔兔的老乡那得到的传呼机.\n只要按住传呼机.从月亮上就会投射胡萝卜.\n- 攻击类型. 魔法 -,這是從兔兔的老鄉那得到的傳呼機.\n只要按住傳呼機.從月亮上就會投射胡蘿蔔.\n- 攻擊類型. 魔法 -
+weapon_desc_6,섬나라 닌자가 사용하는 무기입니다.\n마법의 힘이 담겨 빙글빙글 돌아갑니다.\n- 공격 타입. 마법 -,This is a weapon used by the island ninja.\n It's full and spinning with magic powers.\n- Attack type. Magic -,这是岛国忍者使用的武器。\n充满了魔法的力量.会来回旋转。\n- 攻击类型. 魔法 -,這是島國忍者使用的武器。\n充滿了魔法的力量.會來回旋轉。\n- 攻擊類型. 魔法 -
+weapon_desc_7,사실 이건 진짜 표창이 아닙니다.\n드래콩이 모아둔 장난감 중 하나입니다.\n- 공격 타입. 원거리 -,This is not a real dagger. actually.\n It's one of the toys that Dracong has collected.\n- Attack type. Long range -,其实这并不是真正的飞镖.\n这只是龙龙空收集的玩具之一。.\n- 攻击类型. 远距离 -,其實這並不是真正的飛鏢.\n這只是龍龍空收集的玩具之一。.\n- 攻擊類型. 遠距離 -
+weapon_desc_8,강철 민달팽이에서 사용하는 무기입니다.\n1명 당 10개씩 지급되는 귀중품입니다.\n- 공격 타입. 기계 -,This is a weapon used in steel slugs.\n It's a valuable item that is given 10 times per person.\n- Attack type. Machine -,钢铁蜗牛使用的武器.\n只发十个很珍贵哦.\n- 攻击类型. 机械 -,鋼鐵蝸牛使用的武器.\n只發十個很珍貴哦.\n- 攻擊類型. 機械 -
+weapon_desc_9,하늘에서 포크가 내리면?\n정답은 포크레인 입니다.\n- 공격 타입. 마법 -,What do you call a fork falling from the sky?\n A fork-rain.\n- Attack type. Magic -,饭店中儿童使用的叉子\n和一般的叉子不一样.它不太锋利很安全.\n- 攻击类型. 魔法 -,飯店中兒童使用的叉子\n和一般的叉子不一樣.它不太鋒利很安全.\n- 攻擊類型. 魔法 -
+weapon_desc_10,북유럽에서 사용하는 대장장이 망치입니다.\n천둥의 신과 아무런 연관성이 없습니다.\n- 공격 타입. 근거리 -,This is a blacksmith hammer used in Northern Europe.\n There is no connection to the thunder god.\n- Attack type. Close range -,这是北欧的铁匠之锤。.\n他和雷神可没关系.\n- 攻击类型. 近距离 -,這是北歐的鐵匠之錘。.\n他和雷神可沒關係.\n- 攻擊類型. 近距離 -
+weapon_desc_11,스페인에서 8월 25일에 토마티나 축제가 있습니다.\n이 토마토는 거기서 살짝 가져왔습니다.\n- 공격 타입. 원거리 -,There is a festival called La Tomatina in Spain on August 25th.\n I got this tomato from there.\n- Attack type. Long range -,西班牙8月25日有一个番茄节.\n这个番茄就是从那边悄悄带回来的.\n- 攻击类型. 远距离 -,西班牙8月25日有一個番茄節.\n這個番茄就是從那邊悄悄帶回來的.\n- 攻擊類型. 遠距離 -
+weapon_desc_12,사실 폭탄 모양을 한 라이터입니다.\n해골 문양은 샥크스가 그렸습니다.\n- 공격 타입. 기계 -,This is actually a lighter shaped like a bomb.\n The skull pattern was drawn by Sharks.\n- Attack type. Machine -,其实这只是个炸弹形状的打火机.\n骷髅的团是鲨克斯画的.\n- 攻击类型. 机械 -,其實這只是個炸彈形狀的打火機.\n骷髏的團是鯊克斯畫的.\n- 攻擊類型. 機械 -
+weapon_desc_13,우사기 집에서 가져온 미사일입니다.\n정말 폭발하는 물건이니 조심하세요.\n- 공격 타입. 기계 -,This is a missile from Usagi's house.\n It's really explosive. so be careful.\n- Attack type. Machine -,兔兔从家里带出来的导弹。.\n这真的是易燃物要小心.\n- 攻击类型. 机械 -,兔兔從家裏帶出來的導彈。.\n這真的是易燃物要小心.\n- 攻擊類型. 機械 -
+weapon_desc_14,전차도 헬기도 외계인도 모두 부시는 보구입니다.\n집 근처 철물점에서 3000원 주고 사왔습니다.\n- 공격 타입. 근거리 -,This is a tool that can destruct trams. helicopters. aliens and all.\n I bought it at a hardware store near my house for 3.000 won.\n- Attack type. Close range -,坦克,直升飞机还有外星人这些都是宝物.\n我在家附近的五金店花3000韩币买回来的.\n- 攻击类型. 近距离 -
+weapon_desc_15,기사 작위를 받을 때 하사받은 검입니다.\n월링턴집 장식대에 있던 물건입니다.\n- 공격 타입. 근거리 -,This is the sword that was given when I was knighted.\n It was on the display shelf at Wallington's house.\n- Attack type. Close range -,这是被授以骑士爵位时被赐予的剑。\n威灵顿家装饰台上放着。\n- 攻击类型. 近距离 -,這是被授以騎士爵位時被賜予的劍。\n威靈頓家裝飾臺上放著。\n- 攻擊類型. 近距離 -
+weapon_desc_16,닌자의 신비한 비술이 담긴 축구공입니다.\n마법의 힘이 담겨 빙글빙글 돌아갑니다.\n- 공격 타입. 마법 -,This is a soccer ball containing the mysterious secrets of the Ninja.\n It's full and spinning with magic powers.\n- Attack type. Magic -,这是蕴含忍者神秘秘术力量的足球。\n包含魔法的力量会来来回回的转。\n- 攻击类型. 魔法 -,這是蘊含忍者神秘秘術力量的足球。\n包含魔法的力量會來來回回的轉。\n- 攻擊類型. 魔法 -
+weapon_desc_17,TNT는 폭발성의 화학 물질.\nTrinitrotoluene의 약자입니다.\n- 공격 타입. 기계 -,TNT is an explosive chemical.\n It is the abbreviation of Trinitrotoluene.\n- Attack type. Machine -,TNT是易燃的化学物品。\n是单词Trinitrotoluene的缩写。\n- 攻击类型. 机械 -,TNT是易燃的化學物品。\n是單詞Trinitrotoluene的縮寫。\n- 攻擊類型. 機械 -
+weapon_desc_18,슈퍼 판타지 월드의 해골 뼈입니다.\n안정적인 그립감으로 유명합니다.\n- 공격 타입. 마법 -,This is a skeleton bone of the Super Fantasy World.\n It is famous for its stable grip.\n- Attack type. Magic -,超级幻想世界的骸骨。.\n它以稳定的手感出名.\n- 攻击类型. 魔法 -,超級幻想世界的骸骨。.\n它以穩定的手感出名.\n- 攻擊類型. 魔法 -
+weapon_desc_19,최강의 창을 막아내는 최강의 방패입니다.\n물론 최강의 창은 최강의 방패를 뚫습니다.\n- 공격 타입. 원거리 -,This is strongest shield that blocks the strongest spear.\n Of course. the strongest spear pierces the strongest shield.\n- Attack type. Long range -,能够抵挡最强之矛的最强盾。.\n当然最强的矛会穿透最强的盾牌。.\n- 攻击类型. 远距离 -,能夠抵擋最強之矛的最強盾。.\n當然最強的矛會穿透最強的盾牌。.\n- 攻擊類型. 遠距離 -
+weapon_desc_20,원숭이도 쓸 수 있는 쉬운 스패너입니다.\n나사를 조일 때 사용하는 필수적인 물건입니다.\n- 공격 타입. 근거리 -,This is an easy spanner that even monkeys can use.\n This is a necessity when tightening the screw.\n- Attack type. Close range -,连猴子都会使用的简单的扳手。\n是拧螺丝时使用的必需品。\n- 攻击类型. 近距离 -,連猴子都會使用的簡單的扳手。\n是擰螺絲時使用的必需品。\n- 攻擊類型. 近距離 -
+weapon_desc_21,원격 추적장치가 달린 망치입니다.\n손을 놓으면 적을 향해 달려 나갑니다.\n- 공격 타입. 기계 -,This is a hammer with a remote tracking device.\n It runs towards the enemy when you release your hand.\n- Attack type. Machine -,这是带远程跟踪装置的锤子.\n一松手就会飞往敌人。\n- 攻击类型. 机械 -,這是帶遠程跟蹤裝置的錘子.\n一鬆手就會飛往敵人。\n- 攻擊類型. 機械 -
+weapon_desc_22,광물을 채광하는데 주로 사용합니다.\n곡괭이와 관련된 전설적인 이야기가 전해집니다.\n- 공격 타입. 근거리 -,This is mainly used for mining minerals.\n There is legendary story they tell about the pickaxe.\n- Attack type. Close range -,用于采矿。\n一直流传着有关锹的传说。\n- 攻击类型. 近距离 -,用於採礦。\n一直流傳著有關鍬的傳說。\n- 攻擊類型. 近距離 -
+weapon_desc_23,총이 없다고요? 손으로 던지세요.\n하늘에서 정의가 빗발칩니다.\n- 공격 타입. 마법 -,You don't have a gun? Throw it with your hands.\n The sky is raining justice.\n- Attack type. Magic -,没有枪? 请用手扔。\n 漫天飞舞的是正义。\n- 攻击类型. 魔法 -,沒有槍? 請用手扔。\n 漫天飛舞的是正義。\n- 攻擊類型. 魔法 -
+weapon_desc_24,농구할 때 중요한건 오른손입니다.\n왼손은 거들 뿐 입니다.\n- 공격 타입. 마법 -,The right hand is important when playing basketball.\n The left hand only assists.\n- Attack type. Magic -,打篮球时最重要的右手。\n左手只是辅助。.\n- 攻击类型. 魔法 -,打籃球時最重要的右手。\n左手只是輔助。.\n- 攻擊類型. 魔法 -
+weapon_desc_25,월링턴이 대학시절에 사용하던 물건입니다.\n그는 당시 꽤 유명한 플레이어였습니다.\n- 공격 타입. 근거리 -,Wallington used this in his college days.\n He was a pretty famous player at that time.\n- Attack type. Close range -,威灵顿大学时期使用的物品。\n他当时时颇有名气的选手。\n- 攻击类型. 近距离 -,威靈頓大學時期使用的物品。\n他當時時頗有名氣的選手。\n- 攻擊類型. 近距離 -
+weapon_desc_26,권총? 이제 권총을 던지시면 됩니다.\n독수리처럼 적을 향해 날라갑니다.\n- 공격 타입. 원거리 -,A pistol? You can throw pistols now.\n Like an eagle. it flies toward the enemy.\n- Attack type. Long range -,手枪? 现在投掷手枪就可以了。\n它像鹰一样向着敌人飞去。\n- 攻击类型. 远距离 -,手槍? 現在投擲手槍就可以了。\n它像鷹一樣向著敵人飛去。\n- 攻擊類型. 遠距離 -
+weapon_desc_27,사실 샷건모양으로 제작된 암기입니다.\n동시에 5개를 던질 수 있습니다.\n- 공격 타입. 원거리 -,It's actually made in the shape of a shotgun.\n You can throw 5 at a time.\n- Attack type. Long range -,其实这只是短枪形状的暗器.\n可以一次扔五个。.\n- 攻击类型. 远距离 -,其實這只是短槍形狀的暗器.\n可以一次扔五個。.\n- 攻擊類型. 遠距離 -
+weapon_desc_28,손가락에 끼워서 던질 수 있습니다.\n배고프면 드셔되니 일석이조네요.\n- 공격 타입. 근거리 -,You can put it on your finger and throw it.\n If you're hungry. you can eat it so it's killing two birds with one stone.\n- Attack type. Close range -,夹在手指中来投掷。n肚子饿的话也可以吃了它充饥.\n- 攻击类型. 近距离 -,夾在手指中來投擲。n肚子餓的話也可以吃了它充饑.\n- 攻擊類型. 近距離 -
+weapon_desc_29,이 피자는 페퍼로니 피자입니다.\n드래콩이 사왔습니다. 맛있네요.\n- 공격 타입. 근거리 -,This is pepperoni pizza.\n Dracong bought it. How delicious.\n- Attack type. Close range -,这个披萨是必赢客家的pizza.\n是龙龙空买回来的.很好吃呢。\n- 攻击类型. 近距离 -,這個披薩是必贏客家的pizza.\n是龍龍空買回來的.很好吃呢。\n- 攻擊類型. 近距離 -
+weapon_desc_30,피자를 먹는데 콜라가 빠질 수 없죠.\n샥크스가 센스있게 가져왔네요.\n- 공격 타입. 원거리 -,We can't leave out coke while eating pizza.\n Sharks was clever and brought it along.\n- Attack type. Long range -,喝披萨怎么能少了可乐呢。\n鲨克斯很有sense的带回来的.\n- 攻击类型. 远距离 -,喝披薩怎麼能少了可樂呢。\n鯊克斯很有sense的帶回來的.\n- 攻擊類型. 遠距離 -
+weapon_desc_31,월링턴의 아침은 달걀 후라이와 시작합니다.\n잘 먹어야 건강합니다. 자고로 반숙입니다.\n- 공격 타입. 원거리 -,Wallington's breakfast begins with a sunny side up.\n You have to eat well to be healthy. It's always half done.\n- Attack type. Long range -,威灵顿的清晨以一个鸡蛋开始。\n好好吃饭才能变得健康呢.喜欢吃半熟的.\n- 攻击类型. 远距离 -,威靈頓的清晨以一個雞蛋開始。\n好好吃飯才能變得健康呢.喜歡吃半熟的.\n- 攻擊類型. 遠距離 -
+weapon_desc_32,윌링턴 집 가스버너에서 가져왔습니다.\n특기는 불 조절. 주식은 달걀 껍질입니다.\n- 공격 타입. 기계 -,I got it from the gas burner as Wallington's.\n It's specialty is fire control and it's staple food is eggshells.\n- Attack type. Machine -,威灵顿家煤气灶那拿回来的。\n特技是调节火候.主食是蛋清。.\n- 攻击类型. 机械 -,威靈頓家煤氣灶那拿回來的。\n特技是調節火候.主食是蛋清。.\n- 攻擊類型. 機械 -
+boss,Boss,Boss,Boss,Boss
+HP,HP,HP,HP,HP
+worker,Worker,Worker,Worker,Worker
+DPS,DPS,DPS,DPS,DPS
+Confirm,확인,Confirm,确认,確認
+NEW,NEW,NEW,NEW,NEW
+unit,Hero,unit,Hero,Hero
+temporarily_apply,적용하기,apply,应用,應用
+apply,적용하기,apply,应用,應用
+unapply,해제하기,Remove,卸除,卸除
+best,BEST,BEST,最好,最好
+hit,HIT,HIT,击中,擊中
+popup-mission-title,업적!,Achievement,成就,成就
+Collect,Collect,Collect,收集,收集
+Reward,Reward,reward,奖励,獎勵
+on,on,On,On,On
+off,off,Off,Off,Off
+Fire,불속성,Fire,火属,火屬
+Water,물속성,Water,水属,水屬
+Earth,땅속성,Earth,土属,土屬
+Wind,바람속성,Wind,风属,风屬
+unlock_buff,New Buff!,New Buff!,新效果！,新效果！
+quest_num_2000_title_key,샥크스의 Level 600 달성,Achieved Level 600 of Sharks,鲨克斯等级达到600,鯊克斯等級達到600
+quest_num_2001_title_key,월링턴의 Level 600 달성,Achieved Level 600 of Wallington,威灵顿达到等级600级,威靈頓達到等級600級
+quest_num_2002_title_key,우사기의 Level 600 달성,Achieved Level 600 of Usagi,兔斯奇达到600级,兔斯奇達到600級
+quest_num_2003_title_key,드래콩의 Level 600 달성,Achieved Level 600 of Dracong,龙龙空达到600级,龍龍空達到600級
+quest_num_2004_title_key,Worker의 Lv.56로 업그레이드,Upgrade to Lv.56 of Worker,将worker升级到Lv.56,將worker升級到Lv.56
+applied_equipment_set,{0} 효과 적용중 :),{0} Effect is being applied :),{0} 效果适用中 :),{0} 效果適用中 :)
+need_another_equipment_part,{0} 무기가 필요해 :I,{0} weapon is required :I,需要武器{0}  :I,需要武器{0}  :I
+not_applied_equipment_set,{0} 무기가 필요해 :I,{0} weapon is required :I,需要武器{0}  :I,需要武器{0}  :I
+applied_equipment_set,{0} 효과 적용중 :),{0} Effect is being applied :),{0} 效果适用中 :),{0} 效果適用中 :)
+not_applied_equipment_set,어울리는 옷을 골라줘 :(,Choose the right clothes :(,挑选合适的衣服吧 :(,挑選合適的衣服吧 :(
+popup_bomb_title,Super Bomb,Super Bomb,超级炸弹,超級炸彈
+bomb_auto_use_boss,보스에게 자동 사용하기,auto attack,自动向boss投掷,自動向boss投擲
+str_bomb_type_02_text_01,이런! 폭탄이 부족합니다.,Oh, no! We don't have enough bombs.,怎么办!炸弹不够了.,怎麼辦!炸彈不夠了.
+str_bomb_type_02_text_02,광고를 시청 하시겠습니까?,Would you like to watch an ad?,来观看个广告么？,來觀看個廣告麼？
+bomb_system_message_01,폭탄은 최대 3개까지 사용할 수 있습니다.,You can use 3 bombs at most,最多可以使用三个炸弹。,最多可以使用三個炸彈。
+bomb_system_message_02,보유한 폭탄이 부족합니다.,Bombs are not enough,持有的炸弹不足,持有的炸彈不足
+bomb_system_message_03,재사용 시간에는 사용할 수 없습니다.,Not available during use,投掷炸弹期间无法操作,投擲炸彈期間無法操作
+skip-ad,광고스킵,skip ads,跳过广告,跳過廣告
+buy,구매하기,purchase,购买,購買
+fight,전투하기,battle,战斗,戰鬥
+name_key_add_on_idx_1,소환! 2P,Summon! 2P,召唤吧! 影分身,召喚吧! 影分身
+desc_key_add_on_idx_1,2P를 소환합니다.\n일꾼의 40% 만큼의 피해량을 입힙니다.,Summons 2P.\nDamage as much as 40% of workers.,召唤了影分身.\n打工人的伤害值的40% ,召喚了影分身.\n打工人的傷害值的40% 
+name_key_add_on_idx_2,출격! 용용이,Go!Draco,出战吧! 龙傲天,出戰吧! 龍傲天
+desc_key_add_on_idx_2,용용이가 등장합니다\n모든 용병의 150%에 해당하는 피해량을 입힙니다.,Draco appears\nDamage:150% of all mercenaries,龙傲天闪亮登场\n伤害值是所有佣兵的 150%,龍傲天閃亮登場\n傷害值是所有傭兵的 150%
+a_day,일일,Daily,每日,每日
+help_ad_reward_freegem,무료 보석. 확률 안내!\n\n보석 +1000 : 0.01%\n보석 +500 : 0.1%\n보석 +100 : 1.0%\n보석 +50 : 4.0%\n보석 +30 : 10.0%\n보석 +20 : 15.0%\n보석 +10 : 69.89%,Free gem. Guide of probability!\n\nGem +1000: 0.01%\nGem +500: 0.1%\nGem+100: 1.0%\nGem +50: 4.0%\nGem +30: 10.0%\nGem +20: 15.0%\nGem +10: 69.89%,免费宝石的概率说明!\n\n宝石 +1000 : 0.01%\n宝石 +500 : 0.1%\n宝石 +100 : 1.0%\n宝石 +50 : 4.0%\n宝石 +30 : 10.0%\n宝石 +20 : 15.0%\n宝石 +10 : 69.89%,免費寶石的概率說明!\n\n寶石 +1000 : 0.01%\n寶石 +500 : 0.1%\n寶石 +100 : 1.0%\n寶石 +50 : 4.0%\n寶石 +30 : 10.0%\n寶石 +20 : 15.0%\n寶石 +10 : 69.89%
+popup_ad_reward_freegem_title,무료 보석,Free gem,免费宝石,免費寶石
+popup_ad_reward_freegem_desc,보석을 랜덤으로 획득합니다.\n( 10 ~ 1000 ),Acquire jewelry randomly.\n( 10 ~ 1000 ),可以随机获得宝石.\n( 10 ~ 1000 ),可以隨機獲得寶石.\n( 10 ~ 1000 )
+popup_ad_reward_freegem_received_all,오늘 시청은 끝났습니다!\n내일 또 봐요!,Today's viewing is over!\nSee you tomorrow!,今天的观看已经结束啦!\n明天见!,今天的觀看已經結束啦!\n明天見!
+system_non_consumable_text_01,구매하신 상품이 복구되었습니다!,Your purchase has been restored!,所购买的商品已经恢复了！,所購買的商品已經恢復了！
+ad_free_func_idx_0_condition_desc_key,STAGE.3,,STAGE.3,STAGE.3
+ad_free_func_idx_1_condition_desc_key,STAGE.4,,STAGE.4,STAGE.4
+ad_free_func_idx_2_condition_desc_key,STAGE.5,,STAGE.5,STAGE.5
+popup_high_score_title,하이스코어 보너스!,,,
+high_score_level,하이스코어 레벨,,,
+next_high_score_level_stage,다음 레벨 도달 스테이지,,,
+high_score_bonus,하이스코어 보너스,,,
+buff_idx_0_name_key,모든 데미지 증가,,,
+buff_idx_1_name_key,골드 획득량 증가,,,
+buff_idx_2_name_key,환생 시 메달 획득량 증가,,,
+buff_idx_0_desc_key,모든 데미지 증가,,,
+buff_idx_1_desc_key,골드 획득량 증가,,,
+buff_idx_2_desc_key,환생 시 메달 획득량 증가,,,
+bomb_system_message_04,이런! 100개 이상 보유 시\n광고 시청을 할 수 없습니다.,,,
+popup_high_score_desc,하이스코어 버프,,,
+str_win,100% Win!,,,
+open_function_stage_idx_defult,STAGE.{0},,,
+help_ad_reward_bomb,보스 전투에서 Super Bomb으로 공격할 수 있습니다!\n사용 시 최대 체력에 비례한 랜덤한 데미지를 입힐 수 있습니다.\n(몬스터 최대 체력 5~10%),,,

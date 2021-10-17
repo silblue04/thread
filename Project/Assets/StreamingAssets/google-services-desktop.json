@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "585027512158-h6hkom9voike72sgi9vmeu2lccg3l1r2.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtT3yPlM9rYesXkBxCqXxB5PNxgf_93dA"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:585027512158:ios:3cf9f6ab11d846807d91cf", 
+        "android_client_info": {
+          "package_name": "com.maf.PixelPainter"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "super-retro-world-60613898.appspot.com", 
+    "project_id": "super-retro-world-60613898", 
+    "firebase_url": "https://super-retro-world-60613898.firebaseio.com", 
+    "project_number": "585027512158"
+  }
+}

@@ -1,0 +1,103 @@
+{
+"skeleton": { "hash": "PmLcYafILW6ey+UL6Qm624Qjq7Q", "spine": "3.8.81", "images": "", "audio": "E:/PixelPainter_작업장/Mercenary" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "mercenary_2002_1", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"mercenary_2002_1": {
+				"mercenary_2002_1": { "name": "mercenary_03_1", "y": 13.5, "width": 38, "height": 37 },
+				"mercenary_2002_2": { "name": "mercenary_03_2", "y": 13.5, "width": 38, "height": 37 },
+				"mercenary_2002_3": { "name": "mercenary_03_3", "y": 13.5, "width": 38, "height": 37 },
+				"mercenary_03_4": { "y": 13.5, "width": 38, "height": 37 }
+			}
+		}
+	},
+	{
+		"name": "costume_1",
+		"attachments": {
+			"mercenary_2002_1": {
+				"mercenary_2002_1": { "name": "mercenary_03_1", "y": 13.5, "width": 38, "height": 37 },
+				"mercenary_2002_2": { "name": "mercenary_03_2", "y": 13.5, "width": 38, "height": 37 },
+				"mercenary_2002_3": { "name": "mercenary_03_3", "y": 13.5, "width": 38, "height": 37 },
+				"mercenary_03_4": { "y": 13.5, "width": 38, "height": 37 }
+			}
+		}
+	},
+	{
+		"name": "costume_201",
+		"attachments": {
+			"mercenary_2002_1": {
+				"mercenary_03_4": { "name": "mercenary_03_c1_1", "y": 13.5, "width": 60, "height": 57 },
+				"mercenary_2002_1": { "name": "mercenary_03_c1_2", "y": 13.5, "width": 60, "height": 57 },
+				"mercenary_2002_2": { "name": "mercenary_03_c1_3", "y": 13.5, "width": 60, "height": 57 },
+				"mercenary_2002_3": { "name": "mercenary_03_c1_4", "y": 13.5, "width": 60, "height": 57 }
+			}
+		}
+	},
+	{
+		"name": "costume_202",
+		"attachments": {
+			"mercenary_2002_1": {
+				"mercenary_03_4": { "name": "mercenary_03_c2_1", "y": 13.5, "width": 60, "height": 57 },
+				"mercenary_2002_1": { "name": "mercenary_03_c2_2", "y": 13.5, "width": 60, "height": 57 },
+				"mercenary_2002_2": { "name": "mercenary_03_c2_3", "y": 13.5, "width": 60, "height": 57 },
+				"mercenary_2002_3": { "name": "mercenary_03_c2_4", "y": 13.5, "width": 60, "height": 57 }
+			}
+		}
+	},
+	{
+		"name": "costume_203",
+		"attachments": {
+			"mercenary_2002_1": {
+				"mercenary_03_4": { "name": "mercenary_03_c3_1", "y": 13.5, "width": 60, "height": 57 },
+				"mercenary_2002_1": { "name": "mercenary_03_c3_2", "y": 13.5, "width": 60, "height": 57 },
+				"mercenary_2002_2": { "name": "mercenary_03_c3_3", "y": 13.5, "width": 60, "height": 57 },
+				"mercenary_2002_3": { "name": "mercenary_03_c3_4", "y": 13.5, "width": 60, "height": 57 }
+			}
+		}
+	},
+	{
+		"name": "costume_204",
+		"attachments": {
+			"mercenary_2002_1": {
+				"mercenary_03_4": { "name": "mercenary_03_c4_1", "y": 13.5, "width": 60, "height": 57 },
+				"mercenary_2002_1": { "name": "mercenary_03_c4_2", "y": 13.5, "width": 60, "height": 57 },
+				"mercenary_2002_2": { "name": "mercenary_03_c4_3", "y": 13.5, "width": 60, "height": 57 },
+				"mercenary_2002_3": { "name": "mercenary_03_c4_4", "y": 13.5, "width": 60, "height": 57 }
+			}
+		}
+	},
+	{
+		"name": "costume_205",
+		"attachments": {
+			"mercenary_2002_1": {
+				"mercenary_03_4": { "name": "mercenary_03_c5_1", "y": 13.5, "width": 60, "height": 57 },
+				"mercenary_2002_1": { "name": "mercenary_03_c5_2", "y": 13.5, "width": 60, "height": 57 },
+				"mercenary_2002_2": { "name": "mercenary_03_c5_3", "y": 13.5, "width": 60, "height": 57 },
+				"mercenary_2002_3": { "name": "mercenary_03_c5_4", "y": 13.5, "width": 60, "height": 57 }
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {
+		"slots": {
+			"mercenary_2002_1": {
+				"attachment": [
+					{ "name": "mercenary_2002_1" },
+					{ "time": 0.1667, "name": "mercenary_2002_2" },
+					{ "time": 0.3333, "name": "mercenary_2002_3" },
+					{ "time": 0.5, "name": "mercenary_03_4" },
+					{ "time": 0.6667, "name": "mercenary_2002_1" }
+				]
+			}
+		}
+	}
+}
+}

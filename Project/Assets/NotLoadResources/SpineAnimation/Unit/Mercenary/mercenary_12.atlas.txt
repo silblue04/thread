@@ -1,0 +1,174 @@
+
+mercenary_12.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mercenary_03_1
+  rotate: false
+  xy: 247, 2
+  size: 28, 27
+  orig: 38, 37
+  offset: 5, 5
+  index: -1
+mercenary_03_2
+  rotate: false
+  xy: 307, 3
+  size: 28, 26
+  orig: 38, 37
+  offset: 5, 5
+  index: -1
+mercenary_03_3
+  rotate: false
+  xy: 184, 2
+  size: 28, 25
+  orig: 38, 37
+  offset: 5, 5
+  index: -1
+mercenary_03_4
+  rotate: true
+  xy: 347, 34
+  size: 28, 26
+  orig: 38, 37
+  offset: 5, 5
+  index: -1
+mercenary_03_c1_1
+  rotate: false
+  xy: 277, 2
+  size: 28, 27
+  orig: 60, 57
+  offset: 16, 15
+  index: -1
+mercenary_03_c1_2
+  rotate: true
+  xy: 368, 4
+  size: 28, 26
+  orig: 60, 57
+  offset: 16, 15
+  index: -1
+mercenary_03_c1_3
+  rotate: true
+  xy: 396, 4
+  size: 28, 25
+  orig: 60, 57
+  offset: 16, 15
+  index: -1
+mercenary_03_c1_4
+  rotate: true
+  xy: 375, 34
+  size: 28, 26
+  orig: 60, 57
+  offset: 16, 15
+  index: -1
+mercenary_03_c2_1
+  rotate: true
+  xy: 59, 26
+  size: 36, 27
+  orig: 60, 57
+  offset: 15, 15
+  index: -1
+mercenary_03_c2_2
+  rotate: true
+  xy: 88, 26
+  size: 36, 26
+  orig: 60, 57
+  offset: 15, 15
+  index: -1
+mercenary_03_c2_3
+  rotate: true
+  xy: 32, 25
+  size: 37, 25
+  orig: 60, 57
+  offset: 15, 15
+  index: -1
+mercenary_03_c2_4
+  rotate: true
+  xy: 2, 25
+  size: 37, 28
+  orig: 60, 57
+  offset: 15, 15
+  index: -1
+mercenary_03_c3_1
+  rotate: false
+  xy: 201, 31
+  size: 28, 31
+  orig: 60, 57
+  offset: 16, 15
+  index: -1
+mercenary_03_c3_2
+  rotate: false
+  xy: 317, 32
+  size: 28, 30
+  orig: 60, 57
+  offset: 16, 15
+  index: -1
+mercenary_03_c3_3
+  rotate: true
+  xy: 337, 2
+  size: 28, 29
+  orig: 60, 57
+  offset: 16, 15
+  index: -1
+mercenary_03_c3_4
+  rotate: false
+  xy: 231, 31
+  size: 28, 31
+  orig: 60, 57
+  offset: 16, 15
+  index: -1
+mercenary_03_c4_1
+  rotate: false
+  xy: 214, 2
+  size: 31, 27
+  orig: 60, 57
+  offset: 15, 15
+  index: -1
+mercenary_03_c4_2
+  rotate: true
+  xy: 261, 31
+  size: 31, 26
+  orig: 60, 57
+  offset: 15, 15
+  index: -1
+mercenary_03_c4_3
+  rotate: false
+  xy: 151, 2
+  size: 31, 25
+  orig: 60, 57
+  offset: 15, 15
+  index: -1
+mercenary_03_c4_4
+  rotate: true
+  xy: 289, 31
+  size: 31, 26
+  orig: 60, 57
+  offset: 15, 15
+  index: -1
+mercenary_03_c5_1
+  rotate: true
+  xy: 116, 29
+  size: 33, 27
+  orig: 60, 57
+  offset: 13, 15
+  index: -1
+mercenary_03_c5_2
+  rotate: true
+  xy: 173, 29
+  size: 33, 26
+  orig: 60, 57
+  offset: 13, 15
+  index: -1
+mercenary_03_c5_3
+  rotate: false
+  xy: 116, 2
+  size: 33, 25
+  orig: 60, 57
+  offset: 13, 15
+  index: -1
+mercenary_03_c5_4
+  rotate: true
+  xy: 145, 29
+  size: 33, 26
+  orig: 60, 57
+  offset: 13, 15
+  index: -1

@@ -1,0 +1,2866 @@
+{
+"skeleton": { "hash": "cDj93jnCTHqqJV5f6mTLuTQJqHo", "spine": "3.8.81", "images": "", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 1.5, "y": 3.45 }
+],
+"slots": [
+	{ "name": "devil_6", "bone": "bone" },
+	{ "name": "apple_1", "bone": "root" },
+	{ "name": "box", "bone": "root" },
+	{ "name": "crow_1", "bone": "root" },
+	{ "name": "devil_1", "bone": "root" },
+	{ "name": "dog_1", "bone": "root" },
+	{ "name": "flower_1", "bone": "root" },
+	{ "name": "heart", "bone": "root" },
+	{ "name": "knight_1", "bone": "root" },
+	{ "name": "potion_1", "bone": "root" },
+	{ "name": "princess_1", "bone": "root" },
+	{ "name": "skull", "bone": "root" },
+	{ "name": "slime_1", "bone": "root" },
+	{ "name": "tree_1", "bone": "root" },
+	{ "name": "key", "bone": "root" },
+	{ "name": "meat", "bone": "root" },
+	{ "name": "mini_slime", "bone": "root" },
+	{ "name": "mushroom_1", "bone": "root" },
+	{ "name": "clover_1", "bone": "root" },
+	{ "name": "skullsoldier_1", "bone": "root" },
+	{ "name": "unicorn_1", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"apple_1": {
+				"apple_1": { "x": 0.5, "width": 61, "height": 58 },
+				"apple_2": { "x": 0.5, "width": 61, "height": 58 },
+				"apple_3": { "x": 0.5, "width": 61, "height": 58 },
+				"apple_4": { "x": 0.5, "width": 61, "height": 58 }
+			},
+			"box": {
+				"box_1": { "x": -1.6, "y": 2.5, "width": 47, "height": 47 },
+				"box_2": { "x": -1.6, "y": 2.5, "width": 47, "height": 47 },
+				"box_3": { "x": -1.6, "y": 2.5, "width": 47, "height": 47 },
+				"box_4": { "x": -1.6, "y": 2.5, "width": 47, "height": 47 }
+			},
+			"clover_1": {
+				"clover_1": { "x": 0.52, "y": 0.48, "width": 55, "height": 45 },
+				"clover_2": { "x": 0.52, "y": 0.48, "width": 55, "height": 45 },
+				"clover_3": { "x": 0.52, "y": 0.48, "width": 55, "height": 45 },
+				"clover_4": { "x": 0.52, "y": 0.48, "width": 55, "height": 45 }
+			},
+			"crow_1": {
+				"crow_1": { "x": -0.05, "y": 0.5, "width": 40, "height": 45 },
+				"crow_2": { "x": -0.05, "y": 0.5, "width": 40, "height": 45 },
+				"crow_3": { "x": -0.05, "y": 0.5, "width": 40, "height": 45 },
+				"crow_4": { "x": -0.05, "y": 0.5, "width": 40, "height": 45 },
+				"crow_5": { "x": -0.05, "y": 0.5, "width": 40, "height": 45 },
+				"crow_6": { "x": -0.05, "y": 0.5, "width": 40, "height": 45 }
+			},
+			"devil_1": {
+				"devil_1": { "x": 0.1, "y": -4.05, "width": 76, "height": 50 },
+				"devil_2": { "x": 0.1, "y": -4.05, "width": 76, "height": 50 },
+				"devil_3": { "x": 0.1, "y": -4.05, "width": 76, "height": 50 },
+				"devil_4": { "x": 0.1, "y": -4.05, "width": 76, "height": 50 }
+			},
+			"devil_6": {
+				"devil_6": { "width": 75, "height": 67 }
+			},
+			"dog_1": {
+				"dog_1": { "x": 0.5, "y": 0.5, "width": 49, "height": 41 },
+				"dog_2": { "x": 0.5, "y": 0.5, "width": 49, "height": 41 },
+				"dog_3": { "x": 0.5, "y": 0.5, "width": 49, "height": 41 }
+			},
+			"flower_1": {
+				"flower_1": { "width": 42, "height": 34 },
+				"flower_2": { "width": 42, "height": 34 },
+				"flower_3": { "width": 42, "height": 34 },
+				"flower_4": { "width": 42, "height": 34 }
+			},
+			"heart": {
+				"heart": { "width": 14, "height": 12 }
+			},
+			"key": {
+				"key": { "x": 0.5, "y": -0.04, "width": 39, "height": 36 },
+				"key_2": { "x": 0.5, "y": -0.04, "width": 39, "height": 36 },
+				"key_3": { "x": 0.5, "y": -0.04, "width": 39, "height": 36 },
+				"key_4": { "x": 0.5, "y": -0.04, "width": 39, "height": 36 }
+			},
+			"knight_1": {
+				"knight_1": { "x": -0.03, "y": 0.47, "width": 58, "height": 63 },
+				"knight_2": { "x": -0.03, "y": 0.47, "width": 58, "height": 63 },
+				"knight_3": { "x": -0.03, "y": 0.47, "width": 58, "height": 63 },
+				"knight_4": { "x": -0.03, "y": 0.47, "width": 58, "height": 63 },
+				"knight_5": { "x": -0.03, "y": 0.47, "width": 58, "height": 63 },
+				"knight_6": { "x": -0.03, "y": 0.47, "width": 58, "height": 63 }
+			},
+			"meat": {
+				"meat_1": { "x": 0.5, "width": 49, "height": 40 },
+				"meat_2": { "x": 0.5, "width": 49, "height": 40 },
+				"meat_3": { "x": 0.5, "width": 49, "height": 40 },
+				"meat_4": { "x": 0.5, "width": 49, "height": 40 }
+			},
+			"mini_slime": {
+				"mini_slime_1": { "x": 0.5, "y": 0.5, "width": 33, "height": 33 },
+				"mini_slime_2": { "x": 0.5, "y": 0.5, "width": 33, "height": 33 },
+				"mini_slime_3": { "x": 0.5, "y": 0.5, "width": 33, "height": 33 },
+				"mini_slime_4": { "x": 0.5, "y": 0.5, "width": 33, "height": 33 }
+			},
+			"mushroom_1": {
+				"mushroom_1": { "x": 0.5, "width": 61, "height": 46 },
+				"mushroom_2": { "x": 0.5, "width": 61, "height": 46 },
+				"mushroom_3": { "x": 0.5, "width": 61, "height": 46 },
+				"mushroom_4": { "x": 0.5, "width": 61, "height": 46 }
+			},
+			"potion_1": {
+				"potion_1": { "y": 0.46, "width": 54, "height": 41 },
+				"potion_2": { "y": 0.46, "width": 54, "height": 41 },
+				"potion_3": { "y": 0.46, "width": 54, "height": 41 },
+				"potion_4": { "y": 0.46, "width": 54, "height": 41 }
+			},
+			"princess_1": {
+				"princess_1": { "x": 0.5, "width": 49, "height": 50 },
+				"princess_2": { "x": 0.5, "width": 49, "height": 50 },
+				"princess_3": { "x": 0.5, "width": 49, "height": 50 },
+				"princess_4": { "x": 0.5, "width": 49, "height": 50 }
+			},
+			"skull": {
+				"skull_1": { "x": 0.48, "y": 0.5, "width": 55, "height": 43 },
+				"skull_2": { "x": 0.48, "y": 0.5, "width": 55, "height": 43 },
+				"skull_3": { "x": 0.48, "y": 0.5, "width": 55, "height": 43 },
+				"skull_4": { "x": 0.48, "y": 0.5, "width": 55, "height": 43 }
+			},
+			"skullsoldier_1": {
+				"skullsoldier_1": { "y": 1.98, "width": 72, "height": 74 },
+				"skullsoldier_2": { "y": 1.98, "width": 72, "height": 74 },
+				"skullsoldier_3": { "y": 1.98, "width": 72, "height": 74 },
+				"skullsoldier_4": { "y": 1.98, "width": 72, "height": 74 }
+			},
+			"slime_1": {
+				"slime_1": { "y": 0.5, "width": 42, "height": 45 },
+				"slime_2": { "y": 0.5, "width": 42, "height": 45 },
+				"slime_3": { "y": 0.5, "width": 42, "height": 45 },
+				"slime_4": { "y": 0.5, "width": 42, "height": 45 }
+			},
+			"tree_1": {
+				"tree_1": { "x": 0.5, "y": 0.5, "width": 49, "height": 55 },
+				"tree_2": { "x": 0.5, "y": 0.5, "width": 49, "height": 55 },
+				"tree_3": { "x": 0.5, "y": 0.5, "width": 49, "height": 55 },
+				"tree_4": { "x": 0.5, "y": 0.5, "width": 49, "height": 55 }
+			},
+			"unicorn_1": {
+				"unicorn_1": { "width": 56, "height": 54 },
+				"unicorn_2": { "width": 56, "height": 54 },
+				"unicorn_3": { "width": 56, "height": 54 },
+				"unicorn_4": { "width": 56, "height": 54 }
+			}
+		}
+	}
+],
+"animations": {
+	"apple": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": "apple_1" },
+					{ "time": 0.1667, "name": "apple_2" },
+					{ "time": 0.3333, "name": "apple_3" },
+					{ "time": 0.5, "name": "apple_4" },
+					{ "time": 0.6667, "name": "apple_1" }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		}
+	},
+	"box": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": "box_1" },
+					{ "time": 0.1667, "name": "box_2" },
+					{ "time": 0.3333, "name": "box_3" },
+					{ "time": 0.5, "name": "box_4" },
+					{ "time": 0.6667, "name": "box_1" }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		}
+	},
+	"clover": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": "clover_1" },
+					{ "time": 0.1667, "name": "clover_2" },
+					{ "time": 0.3333, "name": "clover_3" },
+					{ "time": 0.5, "name": "clover_4" },
+					{ "time": 0.6667, "name": "clover_1" }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		}
+	},
+	"crow": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": "crow_1" },
+					{ "time": 0.1667, "name": "crow_2" },
+					{ "time": 0.3333, "name": "crow_3" },
+					{ "time": 0.5, "name": "crow_4" },
+					{ "time": 0.6667, "name": "crow_1" },
+					{ "time": 0.8333, "name": "crow_2" },
+					{ "time": 1, "name": "crow_3" },
+					{ "time": 1.1667, "name": "crow_4" },
+					{ "time": 1.3333, "name": "crow_1" },
+					{ "time": 1.5, "name": "crow_2" },
+					{ "time": 1.6667, "name": "crow_3" },
+					{ "time": 1.8333, "name": "crow_4" },
+					{ "time": 2, "name": "crow_5" },
+					{ "time": 2.0667, "name": "crow_6" },
+					{ "time": 2.4333, "name": "crow_5" },
+					{ "time": 2.5, "name": "crow_1" }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2.5, "name": null }
+				]
+			}
+		}
+	},
+	"devil": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": "devil_1" },
+					{ "time": 0.3, "name": "devil_2" },
+					{ "time": 0.6, "name": "devil_3" },
+					{ "time": 0.9, "name": "devil_4" },
+					{ "time": 1, "name": "devil_1" }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": "devil_6" },
+					{ "time": 1, "name": "devil_6" }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{},
+					{ "time": 0.5, "angle": -178.66 },
+					{ "time": 1, "angle": 1.43 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.5, "x": 0.821 },
+					{ "time": 1 }
+				],
+				"shear": [
+					{},
+					{ "time": 0.5, "y": -6.08 },
+					{ "time": 1 }
+				]
+			}
+		}
+	},
+	"dog": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": "dog_1" },
+					{ "time": 0.1667, "name": "dog_2" },
+					{ "time": 0.3333, "name": "dog_3" },
+					{ "time": 0.5, "name": "dog_1" }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			}
+		}
+	},
+	"flower": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": "flower_1" },
+					{ "time": 0.2, "name": "flower_2" },
+					{ "time": 0.4333, "name": "flower_3" },
+					{ "time": 0.6333, "name": "flower_4" },
+					{ "time": 0.8333, "name": "flower_1" }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			}
+		}
+	},
+	"heart": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": "heart" },
+					{ "time": 0.6667, "name": "heart" }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"scale": [
+					{},
+					{ "time": 0.3333, "x": 1.1, "y": 1.1 },
+					{ "time": 0.6667 }
+				]
+			}
+		}
+	},
+	"key": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": "key" },
+					{ "time": 0.2667, "name": "key_2" },
+					{ "time": 0.5, "name": "key_3" },
+					{ "time": 0.7667, "name": "key_4" },
+					{ "time": 1, "name": "key" }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			}
+		}
+	},
+	"knight": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": "knight_1" },
+					{ "time": 0.2, "name": "knight_2" },
+					{ "time": 0.4333, "name": "knight_3" },
+					{ "time": 0.6333, "name": "knight_4" },
+					{ "time": 0.8333, "name": "knight_1" },
+					{ "time": 1.0333, "name": "knight_2" },
+					{ "time": 1.2667, "name": "knight_3" },
+					{ "time": 1.4667, "name": "knight_4" },
+					{ "time": 1.6667, "name": "knight_1" },
+					{ "time": 1.8667, "name": "knight_2" },
+					{ "time": 2.1, "name": "knight_3" },
+					{ "time": 2.3, "name": "knight_4" },
+					{ "time": 2.5, "name": "knight_1" },
+					{ "time": 2.6667, "name": "knight_5" },
+					{ "time": 2.9, "name": "knight_6" },
+					{ "time": 3.1667, "name": "knight_5" }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.1667, "name": null }
+				]
+			}
+		}
+	},
+	"meat": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": "meat_1" },
+					{ "time": 0.1667, "name": "meat_2" },
+					{ "time": 0.3333, "name": "meat_3" },
+					{ "time": 0.5, "name": "meat_4" },
+					{ "time": 0.6667, "name": "meat_1" }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		}
+	},
+	"mushroom": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": "mushroom_1" },
+					{ "time": 0.1667, "name": "mushroom_2" },
+					{ "time": 0.3333, "name": "mushroom_3" },
+					{ "time": 0.5, "name": "mushroom_4" },
+					{ "time": 0.6667, "name": "mushroom_1" }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		}
+	},
+	"potion": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": "potion_1" },
+					{ "time": 0.2333, "name": "potion_2" },
+					{ "time": 0.4333, "name": "potion_3" },
+					{ "time": 0.6333, "name": "potion_4" },
+					{ "time": 0.8333, "name": "potion_1" }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			}
+		}
+	},
+	"princess": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": "princess_1" },
+					{ "time": 0.2333, "name": "princess_2" },
+					{ "time": 0.4, "name": "princess_3" },
+					{ "time": 0.6333, "name": "princess_4" },
+					{ "time": 0.8333, "name": "princess_1" }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			}
+		}
+	},
+	"skull": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": "skull_1" },
+					{ "time": 0.1667, "name": "skull_2" },
+					{ "time": 0.3333, "name": "skull_3" },
+					{ "time": 0.5, "name": "skull_4" },
+					{ "time": 0.6667, "name": "skull_1" }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		}
+	},
+	"skullsoldier": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": "skullsoldier_1" },
+					{ "time": 0.1667, "name": "skullsoldier_2" },
+					{ "time": 0.3333, "name": "skullsoldier_3" },
+					{ "time": 0.5, "name": "skullsoldier_4" },
+					{ "time": 0.6667, "name": "skullsoldier_1" }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		}
+	},
+	"slime": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": "slime_1" },
+					{ "time": 0.2333, "name": "slime_2" },
+					{ "time": 0.4333, "name": "slime_3" },
+					{ "time": 0.6333, "name": "slime_4" },
+					{ "time": 0.8333, "name": "slime_1" }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			}
+		}
+	},
+	"slimeking": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": "mini_slime_1" },
+					{ "time": 0.1667, "name": "mini_slime_2" },
+					{ "time": 0.3333, "name": "mini_slime_3" },
+					{ "time": 0.5, "name": "mini_slime_4" },
+					{ "time": 0.6667, "name": "mini_slime_1" }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		}
+	},
+	"tree": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": "tree_1" },
+					{ "time": 0.2333, "name": "tree_2" },
+					{ "time": 0.4333, "name": "tree_3" },
+					{ "time": 0.6333, "name": "tree_4" },
+					{ "time": 0.8333, "name": "tree_1" }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			}
+		}
+	},
+	"unicorn": {
+		"slots": {
+			"apple_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"box": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"clover_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"crow_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"devil_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"dog_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"flower_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"heart": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"key": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"knight_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"meat": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mini_slime": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"mushroom_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"potion_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"princess_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skull": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"skullsoldier_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"slime_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"tree_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"unicorn_1": {
+				"attachment": [
+					{ "name": "unicorn_1" },
+					{ "time": 0.1667, "name": "unicorn_2" },
+					{ "time": 0.3333, "name": "unicorn_3" },
+					{ "time": 0.5, "name": "unicorn_4" },
+					{ "time": 0.6667, "name": "unicorn_1" }
+				]
+			}
+		}
+	}
+}
+}

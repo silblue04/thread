@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>585027512158-h6hkom9voike72sgi9vmeu2lccg3l1r2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.585027512158-h6hkom9voike72sgi9vmeu2lccg3l1r2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>585027512158-0u2rhlhaa10357bchp7vp0epqlsn96ah.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDtT3yPlM9rYesXkBxCqXxB5PNxgf_93dA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>585027512158</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.maf.PixelPainter</string>
+	<key>PROJECT_ID</key>
+	<string>super-retro-world-60613898</string>
+	<key>STORAGE_BUCKET</key>
+	<string>super-retro-world-60613898.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:585027512158:ios:3cf9f6ab11d846807d91cf</string>
+	<key>DATABASE_URL</key>
+	<string>https://super-retro-world-60613898.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,2967 @@
+{
+"skeleton": { "hash": "6zlOq89N/VdemZ88rfxrHPxI/oY", "spine": "3.8.81", "images": "", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "quest_fx", "parent": "root" },
+	{ "name": "quest_fx2", "parent": "root", "x": 0.65, "y": 0.73 },
+	{ "name": "quest_fx3", "parent": "root", "x": -0.5, "y": 0.73 },
+	{ "name": "quest_fx4", "parent": "root", "x": -0.5, "y": 0.73 },
+	{ "name": "quest_fx5", "parent": "root", "x": -0.5, "y": 0.73 },
+	{ "name": "quest_fx6", "parent": "root", "x": -0.5, "y": 0.73 },
+	{ "name": "gacha_machine", "parent": "root", "y": 38.46 },
+	{ "name": "gacha_machine2", "parent": "gacha_machine", "x": -41.64, "y": -46.11 },
+	{ "name": "gacha_machine3", "parent": "gacha_machine2", "length": 21.21, "rotation": 107.35, "x": -6.58, "y": 1.26 },
+	{ "name": "gacha_machine4", "parent": "gacha_machine3", "x": 25.75, "y": 0.97 },
+	{ "name": "bone", "parent": "gacha_machine", "y": -86.46 },
+	{ "name": "gacha_1", "parent": "gacha_machine", "x": -24.94, "y": -28.15 },
+	{ "name": "gacha_2", "parent": "gacha_machine", "x": -12.79, "y": -28.15 },
+	{ "name": "gacha_3", "parent": "gacha_machine", "x": -12.79, "y": -13.98 },
+	{ "name": "gacha_4", "parent": "gacha_machine", "x": 12.76, "y": -31.94 },
+	{ "name": "gacha_5", "parent": "gacha_machine", "x": 1.88, "y": -28.15 },
+	{ "name": "gacha_6", "parent": "gacha_machine", "x": 12.51, "y": -13.98 },
+	{ "name": "gacha_7", "parent": "gacha_machine", "rotation": 90, "x": 3.14, "y": -1.08 },
+	{ "name": "gacha_8", "parent": "gacha_machine", "x": -0.14, "y": -12.46 },
+	{ "name": "gacha_9", "parent": "gacha_machine", "rotation": -90, "x": -12.54, "y": -0.07 },
+	{ "name": "gacha_10", "parent": "gacha_machine", "x": -22.91, "y": -8.42 },
+	{ "name": "gacha_11", "parent": "gacha_machine", "rotation": 90, "x": 21.87, "y": -26.63 },
+	{ "name": "gacha_12", "parent": "gacha_machine", "x": 26.42, "y": -9.43 },
+	{ "name": "gacha_13", "parent": "gacha_machine", "rotation": -90, "x": 17.06, "y": -4.62 },
+	{ "name": "bone2", "parent": "bone", "y": 48.5 },
+	{ "name": "capsule_1", "parent": "root", "y": -4.72 },
+	{ "name": "capsule_2", "parent": "capsule_1", "y": -10 },
+	{ "name": "capsule_3", "parent": "capsule_2" },
+	{ "name": "gacha_open_fx", "parent": "root", "y": 11.28 },
+	{ "name": "bone5", "parent": "bone2", "x": 1.13, "y": 26 },
+	{ "name": "Lvup", "parent": "root" },
+	{ "name": "Lvup2", "parent": "Lvup" },
+	{ "name": "Lvup3", "parent": "Lvup" },
+	{ "name": "weapon_change", "parent": "root" },
+	{ "name": "ui_fx", "parent": "root" },
+	{ "name": "ui_fx2", "parent": "root", "x": -140.88, "y": -61.13 },
+	{ "name": "ui_fx3", "parent": "root", "x": -63.11, "y": -139.83 },
+	{ "name": "ui_fx4", "parent": "root", "x": 127.1, "y": -33.95 },
+	{ "name": "ui_fx5", "parent": "root", "x": 108.36, "y": 121.59 },
+	{ "name": "ui_fx6", "parent": "root", "x": 131.91, "y": 45.78 },
+	{ "name": "ui_fx7", "parent": "root", "x": -29.38, "y": 136.58 },
+	{ "name": "ui_fx8", "parent": "root", "x": 34.33, "y": 141.27 },
+	{ "name": "ui_fx9", "parent": "root", "x": 89.41, "y": -127.12 },
+	{ "name": "ui_fx10", "parent": "root", "x": -119.79, "y": 84.14 },
+	{ "name": "ui_fx11", "parent": "root", "x": -129.65, "y": 18.38 },
+	{ "name": "ui_fx12", "parent": "root", "x": -129.65, "y": 18.38, "scaleX": 0.3555, "scaleY": 0.2045 },
+	{ "name": "tutorial_finger_1", "parent": "root", "x": -2.54, "y": 12.55 },
+	{ "name": "tutorial_finger_2", "parent": "root" },
+	{ "name": "tutorial_finger_3", "parent": "root" },
+	{ "name": "gacha_machine7", "parent": "root", "rotation": 15.2, "x": -47.64, "y": -7.01 },
+	{ "name": "gacha_lv", "parent": "root" },
+	{ "name": "change_fx", "parent": "root" },
+	{ "name": "brick_speed", "parent": "root", "y": 54.29 },
+	{ "name": "speed_mercenary_1", "parent": "root", "x": -54.52, "y": 14.74 },
+	{ "name": "speed_mercenary_2", "parent": "root", "x": -16.85, "y": 0.34 },
+	{ "name": "speed_mercenary_3", "parent": "root", "x": 23.59, "y": -1.32 },
+	{ "name": "speed_mercenary_4", "parent": "root", "x": 55.17, "y": 18.62 },
+	{ "name": "brick_speed2", "parent": "root", "y": 54.29 },
+	{ "name": "brick_speed3", "parent": "root", "y": 54.29, "scaleX": 1.0036, "scaleY": 1.0036 },
+	{ "name": "brick_speed4", "parent": "root", "y": 54.29, "scaleX": 1.0036, "scaleY": 1.0036 },
+	{ "name": "finish", "parent": "root" }
+],
+"slots": [
+	{ "name": "quest_fx", "bone": "quest_fx", "blend": "additive" },
+	{ "name": "clear_a", "bone": "quest_fx5" },
+	{ "name": "clear_c", "bone": "quest_fx2" },
+	{ "name": "clear_e", "bone": "quest_fx4" },
+	{ "name": "clear_l", "bone": "quest_fx3" },
+	{ "name": "clear_r", "bone": "quest_fx6" },
+	{ "name": "clear_a1", "bone": "quest_fx5" },
+	{ "name": "clear_c1", "bone": "quest_fx2" },
+	{ "name": "clear_e1", "bone": "quest_fx4" },
+	{ "name": "clear_l1", "bone": "quest_fx3" },
+	{ "name": "clear_r1", "bone": "quest_fx6" },
+	{ "name": "gacha_machine_costume_1", "bone": "gacha_machine" },
+	{ "name": "gacha_machine_costume_3", "bone": "gacha_machine2" },
+	{ "name": "gacha_machine_costume_4", "bone": "gacha_machine3" },
+	{ "name": "gacha_machine_costume_5", "bone": "gacha_machine4" },
+	{ "name": "gacha_10", "bone": "gacha_8" },
+	{ "name": "gacha_11", "bone": "gacha_9" },
+	{ "name": "gacha_14", "bone": "gacha_13" },
+	{ "name": "gacha_5", "bone": "gacha_2" },
+	{ "name": "gacha_9", "bone": "gacha_7" },
+	{ "name": "gacha_12", "bone": "gacha_10" },
+	{ "name": "gacha_1", "bone": "gacha_1" },
+	{ "name": "gacha_3", "bone": "gacha_12" },
+	{ "name": "gacha_6", "bone": "gacha_3" },
+	{ "name": "gacha_7", "bone": "gacha_4" },
+	{ "name": "gacha_13", "bone": "gacha_11" },
+	{ "name": "gacha_8", "bone": "gacha_6" },
+	{ "name": "gacha_2", "bone": "gacha_5" },
+	{ "name": "bone", "bone": "bone2", "color": "ffffff4d", "blend": "additive" },
+	{ "name": "gacha_machine_costume_2", "bone": "bone" },
+	{ "name": "gacha_machine_costume_6", "bone": "bone" },
+	{ "name": "brick_fx12", "bone": "ui_fx12", "color": "00000067" },
+	{ "name": "gacha_open_9", "bone": "capsule_3" },
+	{ "name": "gacha_open_1", "bone": "capsule_1" },
+	{ "name": "gacha_open_5", "bone": "capsule_2" },
+	{ "name": "gacha_open_fx_1", "bone": "gacha_open_fx" },
+	{ "name": "gacha_fx", "bone": "bone5", "blend": "additive" },
+	{ "name": "lvup_01", "bone": "Lvup" },
+	{ "name": "lvup_07", "bone": "Lvup2", "blend": "additive" },
+	{ "name": "lvup_7", "bone": "Lvup3", "blend": "additive" },
+	{ "name": "weapon_change_1", "bone": "weapon_change", "blend": "additive" },
+	{ "name": "brick_fx1", "bone": "ui_fx", "blend": "additive" },
+	{ "name": "brick_fx2", "bone": "ui_fx2", "blend": "additive" },
+	{ "name": "brick_fx3", "bone": "ui_fx3", "blend": "additive" },
+	{ "name": "brick_fx4", "bone": "ui_fx4", "blend": "additive" },
+	{ "name": "brick_fx5", "bone": "ui_fx5", "blend": "additive" },
+	{ "name": "brick_fx6", "bone": "ui_fx6", "blend": "additive" },
+	{ "name": "brick_fx7", "bone": "ui_fx7", "blend": "additive" },
+	{ "name": "brick_fx8", "bone": "ui_fx8", "blend": "additive" },
+	{ "name": "brick_fx9", "bone": "ui_fx9", "blend": "additive" },
+	{ "name": "brick_fx10", "bone": "ui_fx10", "blend": "additive" },
+	{ "name": "brick_fx11", "bone": "ui_fx11", "blend": "additive" },
+	{ "name": "tutorial_finger_0_1", "bone": "tutorial_finger_2", "blend": "additive" },
+	{ "name": "tutorial_finger_0_2", "bone": "tutorial_finger_3", "blend": "additive" },
+	{ "name": "tutorial_finger_1", "bone": "tutorial_finger_1" },
+	{ "name": "gacha_machine_costume_fx", "bone": "gacha_machine7", "blend": "additive" },
+	{ "name": "gacha_lv_fx", "bone": "gacha_lv", "blend": "additive" },
+	{ "name": "change_fx_1", "bone": "change_fx", "blend": "additive" },
+	{ "name": "brick_speed", "bone": "brick_speed" },
+	{ "name": "brick_speed2", "bone": "brick_speed2" },
+	{ "name": "brick_speed3", "bone": "brick_speed3" },
+	{ "name": "brick_speed4", "bone": "brick_speed4" },
+	{ "name": "speed_mercenary_1", "bone": "speed_mercenary_1" },
+	{ "name": "speed_mercenary_2", "bone": "speed_mercenary_2" },
+	{ "name": "speed_mercenary_3", "bone": "speed_mercenary_3" },
+	{ "name": "speed_mercenary_4", "bone": "speed_mercenary_4" },
+	{ "name": "finish", "bone": "finish" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bone": {
+				"gacha_machine_costume_1_2": { "x": 0.59, "y": 28.6, "width": 72, "height": 57 },
+				"gacha_machine_costume_1_3": { "x": 0.59, "y": 28.6, "width": 72, "height": 57 },
+				"gacha_machine_costume_1_4": { "x": 0.59, "y": 28.6, "width": 72, "height": 57 }
+			},
+			"brick_fx1": {
+				"brick_fx1": { "y": 0.5, "scaleX": 4, "scaleY": 4, "width": 54, "height": 61 }
+			},
+			"brick_fx10": {
+				"brick_fx2": { "x": 0.5, "width": 11, "height": 12 }
+			},
+			"brick_fx11": {
+				"brick_fx2": { "x": 0.5, "width": 11, "height": 12 }
+			},
+			"brick_fx12": {
+				"brick_fx2": { "x": 600.5, "y": -825, "scaleX": 312.135, "scaleY": 754.8005, "width": 11, "height": 12 }
+			},
+			"brick_fx2": {
+				"brick_fx2": { "x": 0.5, "width": 11, "height": 12 }
+			},
+			"brick_fx3": {
+				"brick_fx2": { "x": 0.5, "width": 11, "height": 12 }
+			},
+			"brick_fx4": {
+				"brick_fx2": { "x": 0.5, "width": 11, "height": 12 }
+			},
+			"brick_fx5": {
+				"brick_fx2": { "x": 0.5, "width": 11, "height": 12 }
+			},
+			"brick_fx6": {
+				"brick_fx2": { "x": 0.5, "width": 11, "height": 12 }
+			},
+			"brick_fx7": {
+				"brick_fx2": { "x": 0.5, "width": 11, "height": 12 }
+			},
+			"brick_fx8": {
+				"brick_fx2": { "x": 0.5, "width": 11, "height": 12 }
+			},
+			"brick_fx9": {
+				"brick_fx2": { "x": 0.5, "width": 11, "height": 12 }
+			},
+			"brick_speed": {
+				"brick_speed": { "width": 63, "height": 51 }
+			},
+			"brick_speed2": {
+				"dust_1": { "x": 0.5, "y": 0.5, "width": 77, "height": 71 }
+			},
+			"brick_speed3": {
+				"dust_1": { "x": 0.5, "y": 0.5, "width": 77, "height": 71 }
+			},
+			"brick_speed4": {
+				"dust_1": { "x": 0.5, "y": 0.5, "width": 77, "height": 71 }
+			},
+			"change_fx_1": {
+				"change_fx_1": { "y": 0.5, "width": 38, "height": 39 },
+				"change_fx_2": { "y": 0.5, "width": 38, "height": 39 },
+				"change_fx_3": { "y": 0.5, "width": 38, "height": 39 },
+				"change_fx_4": { "y": 0.5, "width": 38, "height": 39 },
+				"change_fx_5": { "y": 0.5, "width": 38, "height": 39 },
+				"change_fx_6": { "y": 0.5, "width": 38, "height": 39 }
+			},
+			"clear_a": {
+				"clear_a": { "x": 1.64, "y": 0.5, "width": 45, "height": 49 }
+			},
+			"clear_a1": {
+				"clear_a1": { "x": 1.64, "y": 0.5, "width": 45, "height": 49 }
+			},
+			"clear_c": {
+				"clear_c": { "x": 0.5, "y": 5.1, "width": 45, "height": 59 }
+			},
+			"clear_c1": {
+				"clear_c1": { "x": 0.5, "y": 4.96, "width": 45, "height": 59 }
+			},
+			"clear_e": {
+				"clear_e": { "x": 1.64, "y": 0.5, "width": 45, "height": 49 }
+			},
+			"clear_e1": {
+				"clear_e1": { "x": 1.64, "y": 0.5, "width": 45, "height": 49 }
+			},
+			"clear_l": {
+				"clear_l": { "x": 1.64, "y": 5.15, "width": 25, "height": 59 }
+			},
+			"clear_l1": {
+				"clear_l1": { "x": 1.64, "y": 4.95, "width": 25, "height": 59 }
+			},
+			"clear_r": {
+				"clear_r": { "x": 1.14, "y": 0.5, "width": 40, "height": 49 }
+			},
+			"clear_r1": {
+				"clear_r1": { "x": 1.14, "y": 0.5, "width": 40, "height": 49 }
+			},
+			"finish": {
+				"finish": { "width": 154, "height": 63 }
+			},
+			"gacha_1": {
+				"gacha_1": { "x": 0.14, "y": 0.83, "width": 22, "height": 22 }
+			},
+			"gacha_10": {
+				"gacha_4": { "x": -0.11, "y": -0.19, "width": 22, "height": 22 }
+			},
+			"gacha_11": {
+				"gacha_4": { "x": -0.11, "y": -0.19, "width": 22, "height": 22 }
+			},
+			"gacha_12": {
+				"gacha_3": { "x": -1.12, "y": 0.07, "width": 22, "height": 22 }
+			},
+			"gacha_13": {
+				"gacha_3": { "x": -1.12, "y": -2.21, "rotation": -90, "width": 22, "height": 22 }
+			},
+			"gacha_14": {
+				"gacha_2": { "x": 1.41, "y": -0.44, "width": 22, "height": 22 }
+			},
+			"gacha_2": {
+				"gacha_1": { "x": -1.88, "y": 0.83, "rotation": -90, "width": 22, "height": 22 }
+			},
+			"gacha_3": {
+				"gacha_1": { "x": -1.88, "y": 0.83, "width": 22, "height": 22 }
+			},
+			"gacha_5": {
+				"gacha_3": { "x": -1.12, "y": 0.07, "width": 22, "height": 22 }
+			},
+			"gacha_6": {
+				"gacha_2": { "x": -0.87, "y": 1.08, "width": 22, "height": 22 }
+			},
+			"gacha_7": {
+				"gacha_4": { "x": -0.11, "y": -0.19, "width": 22, "height": 22 }
+			},
+			"gacha_8": {
+				"gacha_2": { "x": -2.64, "y": -4.99, "width": 22, "height": 22 }
+			},
+			"gacha_9": {
+				"gacha_3": { "x": -1.12, "y": 0.07, "width": 22, "height": 22 }
+			},
+			"gacha_fx": {
+				"gacha_fx": { "scaleX": 0.8478, "scaleY": 0.8478, "width": 118, "height": 104 }
+			},
+			"gacha_lv_fx": {
+				"gacha_lv_fx": { "x": 0.5, "y": 0.5, "width": 213, "height": 27 }
+			},
+			"gacha_machine_costume_3": {
+				"gacha_machine_costume_3": { "x": -7.06, "y": -3.51, "width": 15, "height": 23 }
+			},
+			"gacha_machine_costume_4": {
+				"gacha_machine_costume_4": { "x": 11.3, "y": 0.41, "rotation": -107.35, "width": 14, "height": 26 }
+			},
+			"gacha_machine_costume_5": {
+				"gacha_machine_costume_5": { "x": -0.53, "y": -0.13, "rotation": -107.35, "width": 14, "height": 13 }
+			},
+			"gacha_machine_costume_6": {
+				"gacha_machine_costume_6": { "x": 0.65, "y": 41.9, "width": 6, "height": 5 }
+			},
+			"gacha_machine_costume_fx": {
+				"gacha_machine_costume_fx": { "y": 0.5, "width": 40, "height": 71 }
+			},
+			"gacha_open_1": {
+				"gacha_open_1": { "y": 8.75, "width": 22, "height": 14 }
+			},
+			"gacha_open_5": {
+				"gacha_open_2": { "y": 9.25, "width": 22, "height": 11 }
+			},
+			"gacha_open_9": {
+				"gacha_open_3": { "y": 14.98, "width": 22, "height": 12 }
+			},
+			"gacha_open_fx_1": {
+				"gacha_open_fx_1": { "scaleX": 2, "scaleY": 2, "width": 32, "height": 15 },
+				"gacha_open_fx_2": { "scaleX": 2, "scaleY": 2, "width": 34, "height": 27 },
+				"gacha_open_fx_3": { "scaleX": 2, "scaleY": 2, "width": 68, "height": 68 },
+				"gacha_open_fx_4": { "scaleX": 2, "scaleY": 2, "width": 82, "height": 79 },
+				"gacha_open_fx_5": { "scaleX": 2, "scaleY": 2, "width": 93, "height": 88 },
+				"gacha_open_fx_6": { "scaleX": 2, "scaleY": 2, "width": 93, "height": 88 }
+			},
+			"lvup_01": {
+				"lvup_01": { "x": 0.5, "width": 67, "height": 78 },
+				"lvup_02": { "x": 0.5, "width": 67, "height": 78 },
+				"lvup_03": { "x": 0.5, "width": 67, "height": 78 },
+				"lvup_04": { "x": 0.5, "width": 67, "height": 78 },
+				"lvup_05": { "x": 0.5, "width": 67, "height": 78 },
+				"lvup_06": { "x": 0.5, "width": 67, "height": 78 }
+			},
+			"lvup_07": {
+				"lvup_07": { "x": 0.5, "width": 67, "height": 78 }
+			},
+			"lvup_7": {
+				"lvup_07": { "x": 0.5, "width": 67, "height": 78 }
+			},
+			"quest_fx": {
+				"quest_fx": { "y": 0.5, "scaleX": 0.0284, "width": 96, "height": 11 },
+				"quest_fx2": { "scaleX": 0.0284, "width": 96, "height": 90 }
+			},
+			"speed_mercenary_1": {
+				"speed_mercenary_1": { "x": 0.5, "width": 45, "height": 38 },
+				"speed_mercenary_1_1": { "x": 0.5, "width": 19, "height": 18 }
+			},
+			"speed_mercenary_2": {
+				"speed_mercenary_2": { "y": 0.5, "width": 28, "height": 27 },
+				"speed_mercenary_2_1": { "y": 0.5, "width": 22, "height": 20 }
+			},
+			"speed_mercenary_3": {
+				"speed_mercenary_3": { "y": 0.5, "width": 44, "height": 29 },
+				"speed_mercenary_3_1": { "y": 0.5, "width": 18, "height": 17 }
+			},
+			"speed_mercenary_4": {
+				"speed_mercenary_4": { "x": 0.5, "width": 35, "height": 28 },
+				"speed_mercenary_4_1": { "x": 0.5, "width": 27, "height": 19 }
+			},
+			"tutorial_finger_0_1": {
+				"tutorial_finger_0_1": { "y": 0.5, "width": 30, "height": 30 },
+				"tutorial_finger_0_2": { "y": 0.5, "width": 30, "height": 30 },
+				"tutorial_finger_0_3": { "y": 0.5, "width": 30, "height": 30 },
+				"tutorial_finger_0_4": { "y": 0.5, "width": 30, "height": 30 },
+				"tutorial_finger_0_5": { "y": 0.5, "width": 30, "height": 30 }
+			},
+			"tutorial_finger_0_2": {
+				"tutorial_finger_0_1": { "y": 0.5, "width": 30, "height": 30 },
+				"tutorial_finger_0_2": { "y": 0.5, "width": 30, "height": 30 },
+				"tutorial_finger_0_3": { "y": 0.5, "width": 30, "height": 30 },
+				"tutorial_finger_0_4": { "y": 0.5, "width": 30, "height": 30 },
+				"tutorial_finger_0_5": { "y": 0.5, "width": 30, "height": 30 }
+			},
+			"tutorial_finger_1": {
+				"tutorial_finger_1": { "x": -15.63, "y": 8.12, "width": 37, "height": 27 }
+			},
+			"weapon_change_1": {
+				"weapon_change_1": { "width": 105, "height": 110 },
+				"weapon_change_2": { "width": 105, "height": 110 },
+				"weapon_change_3": { "width": 105, "height": 110 },
+				"weapon_change_4": { "width": 105, "height": 110 },
+				"weapon_change_5": { "width": 105, "height": 110 },
+				"weapon_change_6": { "width": 105, "height": 110 },
+				"weapon_change_7": { "width": 105, "height": 110 },
+				"weapon_change_8": { "width": 105, "height": 110 }
+			}
+		}
+	},
+	{
+		"name": "gacha_costume",
+		"attachments": {
+			"gacha_machine_costume_1": {
+				"gacha_machine_costume_2": { "name": "gacha_machine_costume_1", "x": 0.65, "y": 0.22, "width": 90, "height": 77 }
+			},
+			"gacha_machine_costume_2": {
+				"gacha_machine_costume_3": { "name": "gacha_machine_costume_2", "x": 0.65, "y": 21.91, "width": 94, "height": 53 }
+			}
+		}
+	},
+	{
+		"name": "gacha_weapon",
+		"attachments": {
+			"gacha_machine_costume_1": {
+				"gacha_machine_costume_2": { "name": "gacha_machine_weapon_1", "x": 0.65, "y": 0.22, "width": 90, "height": 77 }
+			},
+			"gacha_machine_costume_2": {
+				"gacha_machine_costume_3": { "name": "gacha_machine_weapon_2", "x": 0.65, "y": 21.91, "width": 94, "height": 53 }
+			}
+		}
+	}
+],
+"events": {
+	"hit": {}
+},
+"animations": {
+	"change_fx": {
+		"slots": {
+			"change_fx_1": {
+				"color": [
+					{ "time": 0.4, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "change_fx_1" },
+					{ "time": 0.1, "name": "change_fx_2" },
+					{ "time": 0.2, "name": "change_fx_3" },
+					{ "time": 0.3, "name": "change_fx_4" },
+					{ "time": 0.3667, "name": "change_fx_5" },
+					{ "time": 0.4, "name": "change_fx_6" },
+					{ "time": 0.8333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"change_fx": {
+				"scale": [
+					{ "time": 0.4 },
+					{ "time": 0.8333, "x": 1.585, "y": 1.585 }
+				]
+			}
+		}
+	},
+	"combination": {
+		"slots": {
+			"brick_fx1": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffffff", "curve": 0, "c2": 0.63, "c3": 0.285, "c4": 0.88 },
+					{ "time": 1.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "brick_fx1" }
+				]
+			},
+			"brick_fx8": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"brick_fx12": {
+				"color": [
+					{ "color": "00000000" },
+					{ "time": 0.1667, "color": "00000067", "curve": "stepped" },
+					{ "time": 1.5, "color": "00000067" },
+					{ "time": 1.6667, "color": "00000000" }
+				],
+				"attachment": [
+					{ "name": "brick_fx2" }
+				]
+			}
+		},
+		"bones": {
+			"ui_fx12": {
+				"translate": [
+					{ "x": 89.5, "y": -70.53 }
+				]
+			},
+			"ui_fx": {
+				"translate": [
+					{ "x": -0.22, "curve": "stepped" },
+					{ "time": 0.8333, "x": -0.22, "curve": 0.25, "c4": 0 },
+					{ "time": 1.1, "x": 220.83, "curve": 0, "c2": 0.82, "c3": 0.75 },
+					{ "time": 1.3333, "x": 384.99 }
+				],
+				"scale": [
+					{ "x": 0.367, "y": 0.367, "curve": 0, "c2": 0.52, "c3": 0.128, "c4": 0.95 },
+					{ "time": 0.3333, "x": 0.924, "y": 0.924 },
+					{ "time": 0.8333, "x": 1.021, "y": 1.021, "curve": 0.25, "c3": 0.954, "c4": 0.08 },
+					{ "time": 1.1, "x": 2.715, "y": 1.021, "curve": 0, "c2": 0.82, "c3": 0.75 },
+					{ "time": 1.3333 },
+					{ "time": 1.6667, "x": 1.662, "y": 1.662 }
+				]
+			}
+		},
+		"drawOrder": [
+			{}
+		]
+	},
+	"gacha_capsule_1": {
+		"slots": {
+			"bone": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"brick_fx12": {
+				"color": [
+					{ "time": 0.6667, "color": "00000000" },
+					{ "time": 1, "color": "0000008f" }
+				],
+				"attachment": [
+					{ "time": 0.6667, "name": "brick_fx2" },
+					{ "time": 1, "name": "brick_fx2" }
+				]
+			},
+			"gacha_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_3": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_5": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_7": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_8": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_9": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_10": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_11": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_12": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_13": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_14": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_machine_costume_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_machine_costume_2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_machine_costume_3": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_machine_costume_4": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_machine_costume_5": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_machine_costume_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_open_1": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.5333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3333, "name": "gacha_open_1" },
+					{ "time": 1, "name": "gacha_open_1" }
+				]
+			},
+			"gacha_open_5": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.5333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3333, "name": "gacha_open_2" },
+					{ "time": 1, "name": "gacha_open_2" }
+				]
+			},
+			"gacha_open_9": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.5333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3333, "name": "gacha_open_3" },
+					{ "time": 1, "name": "gacha_open_3" }
+				]
+			},
+			"gacha_open_fx_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"capsule_1": {
+				"translate": [
+					{ "x": 0.91, "y": -33.82 },
+					{ "time": 0.5333, "x": 0.91, "y": -33.78, "curve": 0.25, "c3": 0.854, "c4": 0.11 },
+					{ "time": 0.7667, "x": 0.91, "y": -19.59, "curve": 0, "c2": 0.96, "c3": 0.75 },
+					{ "time": 1, "x": 0.91, "y": 10.78 }
+				],
+				"scale": [
+					{ "time": 0.3333, "x": 0.508, "y": 0.508 },
+					{ "time": 0.5333 },
+					{ "time": 1, "x": 2, "y": 2 }
+				]
+			},
+			"ui_fx12": {
+				"scale": [
+					{ "time": 0.6667, "x": 1.361 }
+				]
+			}
+		}
+	},
+	"gacha_capsule_2": {
+		"slots": {
+			"bone": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"brick_fx12": {
+				"color": [
+					{ "color": "0000008f", "curve": "stepped" },
+					{ "time": 1.8333, "color": "0000008f" },
+					{ "time": 2, "color": "00000000" }
+				],
+				"attachment": [
+					{ "name": "brick_fx2" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_3": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_5": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_7": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_8": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_9": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_10": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_11": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_12": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_13": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_14": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_machine_costume_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_machine_costume_2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_machine_costume_3": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_machine_costume_4": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_machine_costume_5": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_machine_costume_6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_open_1": {
+				"color": [
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 1.4667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "gacha_open_1" },
+					{ "time": 1.4667, "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_open_5": {
+				"color": [
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 1.4667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "gacha_open_2" },
+					{ "time": 1.4667, "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_open_9": {
+				"color": [
+					{ "time": 1.2667, "color": "ffffffff" },
+					{ "time": 1.4667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "gacha_open_3" },
+					{ "time": 1.4667, "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"gacha_open_fx_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1.0667, "name": "gacha_open_fx_1" },
+					{ "time": 1.3333, "name": "gacha_open_fx_2" },
+					{ "time": 1.4, "name": "gacha_open_fx_3" },
+					{ "time": 1.5333, "name": "gacha_open_fx_4" },
+					{ "time": 1.7333, "name": "gacha_open_fx_5" },
+					{ "time": 1.8667, "name": "gacha_open_fx_6" },
+					{ "time": 2, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"capsule_1": {
+				"rotate": [
+					{},
+					{ "time": 0.1333, "angle": 13.36 },
+					{ "time": 0.2667 },
+					{ "time": 0.4, "angle": -14.18 },
+					{ "time": 0.5333 },
+					{ "time": 0.6, "angle": 13.36 },
+					{ "time": 0.6667 },
+					{ "time": 0.7333, "angle": -14.18 },
+					{ "time": 0.8 },
+					{ "time": 0.8667, "angle": 32.28 },
+					{ "time": 0.9333 },
+					{ "time": 1, "angle": -14.18 },
+					{ "time": 1.0667 }
+				],
+				"translate": [
+					{ "x": 0.91, "y": 10.78, "curve": "stepped" },
+					{ "time": 1.0667, "x": 0.91, "y": 10.78 },
+					{ "time": 1.2667, "y": 15.43, "curve": 0.102, "c2": 0.73, "c3": 0.75 },
+					{ "time": 1.4667, "y": 92.34 }
+				],
+				"scale": [
+					{ "x": 2, "y": 2, "curve": "stepped" },
+					{ "time": 0.2667, "x": 2, "y": 2, "curve": "stepped" },
+					{ "time": 0.3333, "x": 2, "y": 2 },
+					{ "time": 0.5333, "x": 2, "y": 1.87 },
+					{ "time": 0.6, "x": 2, "y": 2.235 },
+					{ "time": 0.6667, "x": 1.986, "y": 1.927 },
+					{ "time": 0.7333, "x": 2, "y": 2.408 },
+					{ "time": 0.8, "x": 2.161, "y": 1.683 },
+					{ "time": 0.8667, "x": 2, "y": 2.396 },
+					{ "time": 0.9333, "x": 2.222, "y": 1.407 },
+					{ "time": 1, "x": 2, "y": 2.347 },
+					{ "time": 1.0667, "x": 2, "y": 2.258 },
+					{ "time": 1.2667, "x": 2, "y": 2.851 },
+					{ "time": 1.3333, "x": 2, "y": 2 }
+				]
+			},
+			"capsule_2": {
+				"translate": [
+					{ "time": 1.0667 },
+					{ "time": 1.2667, "y": -2.25, "curve": 0.19, "c2": 0.67, "c3": 0.75 },
+					{ "time": 1.4667, "y": -89.85 }
+				]
+			},
+			"gacha_open_fx": {
+				"translate": [
+					{ "time": 1.0667 },
+					{ "time": 1.2667, "y": 4.08 }
+				],
+				"scale": [
+					{ "time": 1.0667 },
+					{ "time": 1.2667, "y": 1.296 },
+					{ "time": 1.3333 }
+				]
+			},
+			"ui_fx12": {
+				"scale": [
+					{ "x": 1.361 }
+				]
+			}
+		}
+	},
+	"gacha_idle": {
+		"slots": {
+			"bone": {
+				"attachment": [
+					{ "name": "gacha_machine_costume_1_2" },
+					{ "time": 3.3333, "name": "gacha_machine_costume_1_2" }
+				]
+			},
+			"gacha_1": {
+				"attachment": [
+					{ "name": "gacha_1" },
+					{ "time": 3.3333, "name": "gacha_1" }
+				]
+			},
+			"gacha_2": {
+				"attachment": [
+					{ "name": "gacha_1" },
+					{ "time": 3.3333, "name": "gacha_1" }
+				]
+			},
+			"gacha_3": {
+				"attachment": [
+					{ "name": "gacha_1" },
+					{ "time": 3.3333, "name": "gacha_1" }
+				]
+			},
+			"gacha_5": {
+				"attachment": [
+					{ "name": "gacha_3" },
+					{ "time": 3.3333, "name": "gacha_3" }
+				]
+			},
+			"gacha_6": {
+				"attachment": [
+					{ "name": "gacha_2" },
+					{ "time": 3.3333, "name": "gacha_2" }
+				]
+			},
+			"gacha_7": {
+				"attachment": [
+					{ "name": "gacha_4" },
+					{ "time": 3.3333, "name": "gacha_4" }
+				]
+			},
+			"gacha_8": {
+				"attachment": [
+					{ "name": "gacha_2" },
+					{ "time": 3.3333, "name": "gacha_2" }
+				]
+			},
+			"gacha_9": {
+				"attachment": [
+					{ "name": "gacha_3" },
+					{ "time": 3.3333, "name": "gacha_3" }
+				]
+			},
+			"gacha_10": {
+				"attachment": [
+					{ "name": "gacha_4" },
+					{ "time": 3.3333, "name": "gacha_4" }
+				]
+			},
+			"gacha_11": {
+				"attachment": [
+					{ "name": "gacha_4" },
+					{ "time": 3.3333, "name": "gacha_4" }
+				]
+			},
+			"gacha_12": {
+				"attachment": [
+					{ "name": "gacha_3" },
+					{ "time": 3.3333, "name": "gacha_3" }
+				]
+			},
+			"gacha_13": {
+				"attachment": [
+					{ "name": "gacha_3" },
+					{ "time": 3.3333, "name": "gacha_3" }
+				]
+			},
+			"gacha_14": {
+				"attachment": [
+					{ "name": "gacha_2" },
+					{ "time": 3.3333, "name": "gacha_2" }
+				]
+			},
+			"gacha_machine_costume_1": {
+				"attachment": [
+					{ "name": "gacha_machine_costume_2" },
+					{ "time": 1.6667, "name": "gacha_machine_costume_2" },
+					{ "time": 3.3333, "name": "gacha_machine_costume_2" }
+				]
+			},
+			"gacha_machine_costume_2": {
+				"attachment": [
+					{ "name": "gacha_machine_costume_3" },
+					{ "time": 3.3333, "name": "gacha_machine_costume_3" }
+				]
+			},
+			"gacha_machine_costume_3": {
+				"attachment": [
+					{ "name": "gacha_machine_costume_3" },
+					{ "time": 3.3333, "name": "gacha_machine_costume_3" }
+				]
+			},
+			"gacha_machine_costume_4": {
+				"attachment": [
+					{ "name": "gacha_machine_costume_4" },
+					{ "time": 2.2333, "name": "gacha_machine_costume_4" },
+					{ "time": 3.3333, "name": "gacha_machine_costume_4" }
+				]
+			},
+			"gacha_machine_costume_5": {
+				"attachment": [
+					{ "name": "gacha_machine_costume_5" },
+					{ "time": 3.3333, "name": "gacha_machine_costume_5" }
+				]
+			},
+			"gacha_machine_costume_6": {
+				"attachment": [
+					{ "name": "gacha_machine_costume_6" },
+					{ "time": 3.3333, "name": "gacha_machine_costume_6" }
+				]
+			},
+			"gacha_open_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.3333, "name": null }
+				]
+			},
+			"gacha_open_5": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.3333, "name": null }
+				]
+			},
+			"gacha_open_9": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3.3333, "name": null }
+				]
+			},
+			"tutorial_finger_1": {
+				"color": [
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 3, "color": "ffffffff" },
+					{ "time": 3.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "tutorial_finger_1" },
+					{ "time": 1.1667, "name": "tutorial_finger_1" },
+					{ "time": 2.1667, "name": "tutorial_finger_1" },
+					{ "time": 3.3333, "name": null }
+				]
+			},
+			"tutorial_finger_0_1": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" },
+					{ "time": 1.5, "color": "ffffffff" },
+					{ "time": 1.8333, "color": "ffffff00" },
+					{ "time": 2.5, "color": "ffffffff" },
+					{ "time": 2.8333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "tutorial_finger_0_3" },
+					{ "time": 0.3333, "name": "tutorial_finger_0_4" },
+					{ "time": 0.5, "name": "tutorial_finger_0_5" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 1.3333, "name": "tutorial_finger_0_3" },
+					{ "time": 1.5, "name": "tutorial_finger_0_4" },
+					{ "time": 1.6667, "name": "tutorial_finger_0_5" },
+					{ "time": 1.8333, "name": null },
+					{ "time": 2.3333, "name": "tutorial_finger_0_3" },
+					{ "time": 2.5, "name": "tutorial_finger_0_4" },
+					{ "time": 2.6667, "name": "tutorial_finger_0_5" },
+					{ "time": 2.8333, "name": null },
+					{ "time": 3.3333, "name": null }
+				]
+			},
+			"tutorial_finger_0_2": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.8333, "color": "ffffffff" },
+					{ "time": 2.1667, "color": "ffffff00" },
+					{ "time": 2.8333, "color": "ffffffff" },
+					{ "time": 3.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": "tutorial_finger_0_3" },
+					{ "time": 0.6667, "name": "tutorial_finger_0_4" },
+					{ "time": 0.8333, "name": "tutorial_finger_0_5" },
+					{ "time": 1, "name": null },
+					{ "time": 1.6667, "name": "tutorial_finger_0_3" },
+					{ "time": 1.8333, "name": "tutorial_finger_0_4" },
+					{ "time": 2, "name": "tutorial_finger_0_5" },
+					{ "time": 2.1667, "name": null },
+					{ "time": 2.6667, "name": "tutorial_finger_0_3" },
+					{ "time": 2.8333, "name": "tutorial_finger_0_4" },
+					{ "time": 3, "name": "tutorial_finger_0_5" },
+					{ "time": 3.1667, "name": null },
+					{ "time": 3.3333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"gacha_machine4": {
+				"scale": [
+					{},
+					{ "time": 0.5667, "x": 1.249 },
+					{ "time": 1.1 },
+					{ "time": 1.7, "x": 1.249 },
+					{ "time": 2.2333 },
+					{ "time": 2.8, "x": 1.249 },
+					{ "time": 3.3333 }
+				]
+			},
+			"gacha_machine3": {
+				"rotate": [
+					{},
+					{ "time": 0.5667, "angle": 17.53 },
+					{ "time": 1.1 },
+					{ "time": 1.7, "angle": 17.53 },
+					{ "time": 2.2333 },
+					{ "time": 2.8, "angle": 17.53 },
+					{ "time": 3.3333 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.5667, "x": 0.07, "y": -2.28 },
+					{ "time": 1.1 },
+					{ "time": 1.7, "x": 0.07, "y": -2.28 },
+					{ "time": 2.2333 },
+					{ "time": 2.8, "x": 0.07, "y": -2.28 },
+					{ "time": 3.3333 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.5667, "x": 0.829 },
+					{ "time": 1.1 },
+					{ "time": 1.7, "x": 0.829 },
+					{ "time": 2.2333 },
+					{ "time": 2.8, "x": 0.829 },
+					{ "time": 3.3333 }
+				]
+			},
+			"gacha_13": {
+				"translate": [
+					{ "time": 0.2333 },
+					{ "time": 0.4667, "y": 6.78 },
+					{ "time": 0.6333, "y": -0.23 },
+					{ "time": 0.7667, "curve": "stepped" },
+					{ "time": 1.3 },
+					{ "time": 1.5, "y": 6.78 },
+					{ "time": 1.6333, "y": -0.23 },
+					{ "time": 1.7667, "curve": "stepped" },
+					{ "time": 2.4667 },
+					{ "time": 2.6667, "y": 6.78 },
+					{ "time": 2.8, "y": -0.23 },
+					{ "time": 2.9333 }
+				]
+			},
+			"gacha_12": {
+				"translate": [
+					{ "time": 0.3 },
+					{ "time": 0.4667, "y": 5.7 },
+					{ "time": 0.6667, "y": -5.46 },
+					{ "time": 0.7667, "curve": "stepped" },
+					{ "time": 1.3 },
+					{ "time": 1.5, "y": 5.7 },
+					{ "time": 1.7, "y": -5.46 },
+					{ "time": 1.7667, "curve": "stepped" },
+					{ "time": 2.4667 },
+					{ "time": 2.6667, "y": 5.7 },
+					{ "time": 2.8667, "y": -5.46 },
+					{ "time": 2.9333 }
+				]
+			},
+			"gacha_11": {
+				"translate": [
+					{ "time": 0.2333 },
+					{ "time": 0.4333, "y": 3.97 },
+					{ "time": 0.6333, "y": -4.71 },
+					{ "time": 0.7, "curve": "stepped" },
+					{ "time": 1.3 },
+					{ "time": 1.4667, "y": 3.97 },
+					{ "time": 1.6333, "y": -4.71 },
+					{ "time": 1.7333, "curve": "stepped" },
+					{ "time": 2.4667 },
+					{ "time": 2.6333, "y": 3.97 },
+					{ "time": 2.8, "y": -4.71 },
+					{ "time": 2.9 }
+				]
+			},
+			"gacha_10": {
+				"translate": [
+					{ "time": 0.3333 },
+					{ "time": 0.4667, "y": 4.07 },
+					{ "time": 0.6333, "y": -2.26 },
+					{ "time": 0.7, "curve": "stepped" },
+					{ "time": 1.3667 },
+					{ "time": 1.5, "y": 4.07 },
+					{ "time": 1.6333, "y": -2.26 },
+					{ "time": 1.7333, "curve": "stepped" },
+					{ "time": 2.5333 },
+					{ "time": 2.6667, "y": 4.07 },
+					{ "time": 2.8, "y": -2.26 },
+					{ "time": 2.9 }
+				]
+			},
+			"gacha_9": {
+				"translate": [
+					{ "time": 0.3 },
+					{ "time": 0.4333, "y": 4.52 },
+					{ "time": 0.5667, "y": -2.03 },
+					{ "time": 0.6667, "curve": "stepped" },
+					{ "time": 1.3 },
+					{ "time": 1.4667, "y": 4.52 },
+					{ "time": 1.6333, "y": -2.03 },
+					{ "time": 1.7, "curve": "stepped" },
+					{ "time": 2.4667 },
+					{ "time": 2.6333, "y": 4.52 },
+					{ "time": 2.8, "y": -2.03 },
+					{ "time": 2.8667 }
+				]
+			},
+			"gacha_7": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.2333 },
+					{ "time": 0.4333, "y": 8.71 },
+					{ "time": 0.5667, "y": -1.98 },
+					{ "time": 0.7667, "curve": "stepped" },
+					{ "time": 1.3 },
+					{ "time": 1.4667, "y": 8.71 },
+					{ "time": 1.5667, "y": -1.98 },
+					{ "time": 1.7667, "curve": "stepped" },
+					{ "time": 2.4667 },
+					{ "time": 2.6333, "y": 8.71 },
+					{ "time": 2.7333, "y": -1.98 },
+					{ "time": 2.9333 }
+				]
+			},
+			"gacha_5": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.2333 },
+					{ "time": 0.5333, "y": 7.28 },
+					{ "time": 0.6667, "y": -3.9 },
+					{ "time": 0.7667, "curve": "stepped" },
+					{ "time": 1.3 },
+					{ "time": 1.5333, "y": 7.28 },
+					{ "time": 1.7, "y": -3.9 },
+					{ "time": 1.7667, "curve": "stepped" },
+					{ "time": 2.4667 },
+					{ "time": 2.7, "y": 7.28 },
+					{ "time": 2.8667, "y": -3.9 },
+					{ "time": 2.9333 }
+				]
+			},
+			"gacha_6": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.2333 },
+					{ "time": 0.4667, "y": 6.5 },
+					{ "time": 0.6333, "y": -1.82 },
+					{ "time": 0.7, "curve": "stepped" },
+					{ "time": 1.3 },
+					{ "time": 1.5, "y": 6.5 },
+					{ "time": 1.6333, "y": -1.82 },
+					{ "time": 1.7333, "curve": "stepped" },
+					{ "time": 2.4667 },
+					{ "time": 2.6667, "y": 6.5 },
+					{ "time": 2.8, "y": -1.82 },
+					{ "time": 2.9 }
+				]
+			},
+			"gacha_4": {
+				"translate": [
+					{ "time": 0.3 },
+					{ "time": 0.4333, "y": 2.94 },
+					{ "time": 0.5667, "y": -3.62 },
+					{ "time": 0.6667, "curve": "stepped" },
+					{ "time": 1.3 },
+					{ "time": 1.4667, "y": 2.94 },
+					{ "time": 1.6333, "y": -3.62 },
+					{ "time": 1.7, "curve": "stepped" },
+					{ "time": 2.4667 },
+					{ "time": 2.6333, "y": 2.94 },
+					{ "time": 2.8, "y": -3.62 },
+					{ "time": 2.8667 }
+				]
+			},
+			"gacha_3": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.2333 },
+					{ "time": 0.4667, "y": 10.66 },
+					{ "time": 0.6333, "y": -3.12 },
+					{ "time": 0.7, "curve": "stepped" },
+					{ "time": 1.3 },
+					{ "time": 1.5, "y": 10.66 },
+					{ "time": 1.6333, "y": -3.12 },
+					{ "time": 1.7333, "curve": "stepped" },
+					{ "time": 2.4667 },
+					{ "time": 2.6667, "y": 10.66 },
+					{ "time": 2.8, "y": -3.12 },
+					{ "time": 2.9 }
+				]
+			},
+			"gacha_2": {
+				"translate": [
+					{ "time": 0.3 },
+					{ "time": 0.4333, "y": 2.94 },
+					{ "time": 0.5667, "y": -2.26 },
+					{ "time": 0.7, "curve": "stepped" },
+					{ "time": 1.3 },
+					{ "time": 1.4667, "y": 2.94 },
+					{ "time": 1.6333, "y": -2.26 },
+					{ "time": 1.7333, "curve": "stepped" },
+					{ "time": 2.4667 },
+					{ "time": 2.6333, "y": 2.94 },
+					{ "time": 2.8, "y": -2.26 },
+					{ "time": 2.9 }
+				]
+			},
+			"gacha_1": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.2333 },
+					{ "time": 0.4333, "y": 5.72 },
+					{ "time": 0.5333, "y": -4.42 },
+					{ "time": 0.5667, "curve": "stepped" },
+					{ "time": 1.3 },
+					{ "time": 1.4333, "y": 5.72 },
+					{ "time": 1.5333, "y": -4.42 },
+					{ "time": 1.5667, "curve": "stepped" },
+					{ "time": 2.4667 },
+					{ "time": 2.6, "y": 5.72 },
+					{ "time": 2.7, "y": -4.42 },
+					{ "time": 2.7333 }
+				]
+			},
+			"bone": {
+				"scale": [
+					{ "time": 3.3333 }
+				]
+			},
+			"gacha_machine": {
+				"translate": [
+					{},
+					{ "time": 0.4, "y": -1.34 },
+					{ "time": 0.8333 },
+					{ "time": 1.2333, "y": -1.34 },
+					{ "time": 1.6667 },
+					{ "time": 2.0667, "y": -1.34 },
+					{ "time": 2.5 },
+					{ "time": 2.9, "y": -1.34 },
+					{ "time": 3.3333 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.4, "y": 0.987 },
+					{ "time": 0.8333 },
+					{ "time": 1.2333, "y": 0.987 },
+					{ "time": 1.6667 },
+					{ "time": 2.0667, "y": 0.987 },
+					{ "time": 2.5 },
+					{ "time": 2.9, "y": 0.987 },
+					{ "time": 3.3333 }
+				]
+			},
+			"bone2": {
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 1.6667, "curve": "stepped" },
+					{ "time": 3.3333 }
+				]
+			},
+			"tutorial_finger_2": {
+				"scale": [
+					{ "time": 0.1667 },
+					{ "time": 0.6667, "x": 2.5, "y": 2.5 },
+					{ "time": 1.3333 },
+					{ "time": 1.8333, "x": 2.5, "y": 2.5 },
+					{ "time": 2.3333 },
+					{ "time": 2.8333, "x": 2.5, "y": 2.5 }
+				]
+			},
+			"tutorial_finger_3": {
+				"scale": [
+					{ "time": 0.5 },
+					{ "time": 1, "x": 2.5, "y": 2.5 },
+					{ "time": 1.6667 },
+					{ "time": 2.1667, "x": 2.5, "y": 2.5 },
+					{ "time": 2.6667 },
+					{ "time": 3.1667, "x": 2.5, "y": 2.5 }
+				]
+			},
+			"tutorial_finger_1": {
+				"rotate": [
+					{ "time": 0.1667 },
+					{ "time": 0.3333, "angle": -28.79, "curve": "stepped" },
+					{ "time": 0.5, "angle": -28.79 },
+					{ "time": 1.1667 },
+					{ "time": 1.3333, "angle": -28.79, "curve": "stepped" },
+					{ "time": 1.5, "angle": -28.79 },
+					{ "time": 2.1667 },
+					{ "time": 2.3333, "angle": -28.79, "curve": "stepped" },
+					{ "time": 2.5, "angle": -28.79 },
+					{ "time": 3.1667 }
+				],
+				"translate": [
+					{ "time": 0.1667, "y": 4.28, "curve": 0.25, "c3": 0.963, "c4": 0 },
+					{ "time": 0.3333, "x": 2.77, "y": -12.1, "curve": 0, "c2": 1, "c3": 0.75 },
+					{ "time": 0.5, "x": 2.77, "y": -13.36 },
+					{ "time": 1.1667, "y": 4.28, "curve": 0.25, "c3": 0.963, "c4": 0 },
+					{ "time": 1.3333, "x": 2.77, "y": -12.1, "curve": 0, "c2": 1, "c3": 0.75 },
+					{ "time": 1.5, "x": 2.77, "y": -13.36 },
+					{ "time": 2.1667, "y": 4.28, "curve": 0.25, "c3": 0.963, "c4": 0 },
+					{ "time": 2.3333, "x": 2.77, "y": -12.1, "curve": 0, "c2": 1, "c3": 0.75 },
+					{ "time": 2.5, "x": 2.77, "y": -13.36 },
+					{ "time": 3.1667, "y": 4.28 }
+				],
+				"scale": [
+					{ "time": 0.1667, "curve": "stepped" },
+					{ "time": 0.3333, "curve": 0, "c2": 0.99, "c3": 0.75 },
+					{ "time": 0.5, "y": 0.582 },
+					{ "time": 0.6, "curve": "stepped" },
+					{ "time": 1.1667, "curve": "stepped" },
+					{ "time": 1.3333, "curve": 0, "c2": 0.99, "c3": 0.75 },
+					{ "time": 1.5, "y": 0.582 },
+					{ "time": 1.6, "curve": "stepped" },
+					{ "time": 2.1667, "curve": "stepped" },
+					{ "time": 2.3333, "curve": 0, "c2": 0.99, "c3": 0.75 },
+					{ "time": 2.5, "y": 0.582 },
+					{ "time": 2.6, "curve": "stepped" },
+					{ "time": 3.1667 }
+				],
+				"shear": [
+					{ "time": 0.1667, "curve": "stepped" },
+					{ "time": 0.3333, "curve": 0, "c2": 1, "c3": 0.75 },
+					{ "time": 0.5, "y": -36.5 },
+					{ "time": 0.6, "curve": "stepped" },
+					{ "time": 1.1667, "curve": "stepped" },
+					{ "time": 1.3333, "curve": 0, "c2": 1, "c3": 0.75 },
+					{ "time": 1.5, "y": -36.5 },
+					{ "time": 1.6, "curve": "stepped" },
+					{ "time": 2.1667, "curve": "stepped" },
+					{ "time": 2.3333, "curve": 0, "c2": 1, "c3": 0.75 },
+					{ "time": 2.5, "y": -36.5 },
+					{ "time": 2.6, "curve": "stepped" },
+					{ "time": 3.1667 }
+				]
+			}
+		}
+	},
+	"gacha_level_fx": {
+		"slots": {
+			"gacha_lv_fx": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.765, "c2": 0.05, "c3": 0.994, "c4": 0.34 },
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.5, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "gacha_lv_fx" },
+					{ "time": 1.5, "name": null }
+				]
+			}
+		}
+	},
+	"gacha_lever": {
+		"slots": {
+			"bone": {
+				"attachment": [
+					{ "name": "gacha_machine_costume_1_3" },
+					{ "time": 0.1333, "name": "gacha_machine_costume_1_4" },
+					{ "time": 0.2, "name": "gacha_machine_costume_1_2" },
+					{ "time": 0.2667, "name": "gacha_machine_costume_1_3" },
+					{ "time": 0.3333, "name": "gacha_machine_costume_1_4" },
+					{ "time": 0.4, "name": "gacha_machine_costume_1_2" },
+					{ "time": 1, "name": "gacha_machine_costume_1_2" }
+				]
+			},
+			"gacha_1": {
+				"attachment": [
+					{ "name": "gacha_1" },
+					{ "time": 1, "name": "gacha_1" }
+				]
+			},
+			"gacha_2": {
+				"attachment": [
+					{ "name": "gacha_1" },
+					{ "time": 1, "name": "gacha_1" }
+				]
+			},
+			"gacha_3": {
+				"attachment": [
+					{ "name": "gacha_1" },
+					{ "time": 1, "name": "gacha_1" }
+				]
+			},
+			"gacha_5": {
+				"attachment": [
+					{ "name": "gacha_3" },
+					{ "time": 1, "name": "gacha_3" }
+				]
+			},
+			"gacha_6": {
+				"attachment": [
+					{ "name": "gacha_2" },
+					{ "time": 1, "name": "gacha_2" }
+				]
+			},
+			"gacha_7": {
+				"attachment": [
+					{ "name": "gacha_4" },
+					{ "time": 1, "name": "gacha_4" }
+				]
+			},
+			"gacha_8": {
+				"attachment": [
+					{ "name": "gacha_2" },
+					{ "time": 1, "name": "gacha_2" }
+				]
+			},
+			"gacha_9": {
+				"attachment": [
+					{ "name": "gacha_3" },
+					{ "time": 1, "name": "gacha_3" }
+				]
+			},
+			"gacha_10": {
+				"attachment": [
+					{ "name": "gacha_4" },
+					{ "time": 1, "name": "gacha_4" }
+				]
+			},
+			"gacha_11": {
+				"attachment": [
+					{ "name": "gacha_4" },
+					{ "time": 1, "name": "gacha_4" }
+				]
+			},
+			"gacha_12": {
+				"attachment": [
+					{ "name": "gacha_3" },
+					{ "time": 1, "name": "gacha_3" }
+				]
+			},
+			"gacha_13": {
+				"attachment": [
+					{ "name": "gacha_3" },
+					{ "time": 1, "name": "gacha_3" }
+				]
+			},
+			"gacha_14": {
+				"attachment": [
+					{ "name": "gacha_2" },
+					{ "time": 1, "name": "gacha_2" }
+				]
+			},
+			"gacha_fx": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffa7" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "gacha_fx" },
+					{ "time": 0.3333, "name": "gacha_fx" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"gacha_machine_costume_1": {
+				"attachment": [
+					{ "name": "gacha_machine_costume_2" },
+					{ "time": 1, "name": "gacha_machine_costume_2" }
+				]
+			},
+			"gacha_machine_costume_2": {
+				"attachment": [
+					{ "name": "gacha_machine_costume_3" },
+					{ "time": 1, "name": "gacha_machine_costume_3" }
+				]
+			},
+			"gacha_machine_costume_3": {
+				"attachment": [
+					{ "name": "gacha_machine_costume_3" },
+					{ "time": 1, "name": "gacha_machine_costume_3" }
+				]
+			},
+			"gacha_machine_costume_4": {
+				"attachment": [
+					{ "name": "gacha_machine_costume_4" },
+					{ "time": 1, "name": "gacha_machine_costume_4" }
+				]
+			},
+			"gacha_machine_costume_5": {
+				"attachment": [
+					{ "name": "gacha_machine_costume_5" },
+					{ "time": 1, "name": "gacha_machine_costume_5" }
+				]
+			},
+			"gacha_machine_costume_6": {
+				"attachment": [
+					{ "name": "gacha_machine_costume_6" },
+					{ "time": 1, "name": "gacha_machine_costume_6" }
+				]
+			},
+			"gacha_machine_costume_fx": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.92, "c4": 0 },
+					{ "time": 0.1667, "color": "ffffffff" },
+					{ "time": 0.2333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "gacha_machine_costume_fx" },
+					{ "time": 0.1667, "name": "gacha_machine_costume_fx" }
+				]
+			},
+			"gacha_open_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_open_5": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gacha_open_9": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"tutorial_finger_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"tutorial_finger_0_1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"tutorial_finger_0_2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"gacha_machine4": {
+				"translate": [
+					{},
+					{ "time": 0.1667, "x": -2.62, "y": 0.19 },
+					{ "time": 1 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.1667, "x": 1.842 },
+					{ "time": 1 }
+				]
+			},
+			"gacha_machine3": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": 112.83 },
+					{ "time": 1 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.1667, "x": 2.51, "y": -9.71 },
+					{ "time": 1 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.1667, "x": 0.539 },
+					{ "time": 1 }
+				]
+			},
+			"gacha_13": {
+				"translate": [
+					{ "time": 0.1667 },
+					{ "time": 0.4, "y": 6.78 },
+					{ "time": 0.5667, "y": -0.23 },
+					{ "time": 0.6667 }
+				]
+			},
+			"gacha_12": {
+				"translate": [
+					{ "time": 0.2 },
+					{ "time": 0.4, "y": 5.7 },
+					{ "time": 0.6, "y": -5.46 },
+					{ "time": 0.7 }
+				]
+			},
+			"gacha_11": {
+				"translate": [
+					{ "time": 0.1667 },
+					{ "time": 0.3333, "y": 3.97 },
+					{ "time": 0.5667, "y": -4.71 },
+					{ "time": 0.6333 }
+				]
+			},
+			"gacha_10": {
+				"translate": [
+					{ "time": 0.2333 },
+					{ "time": 0.4, "y": 4.07 },
+					{ "time": 0.5667, "y": -2.26 },
+					{ "time": 0.6333 }
+				]
+			},
+			"gacha_9": {
+				"translate": [
+					{ "time": 0.2 },
+					{ "time": 0.3667, "y": 4.52 },
+					{ "time": 0.5333, "y": -2.03 },
+					{ "time": 0.6 }
+				]
+			},
+			"gacha_7": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.1667 },
+					{ "time": 0.3333, "y": 8.71 },
+					{ "time": 0.5, "y": -1.98 },
+					{ "time": 0.6667 }
+				]
+			},
+			"gacha_5": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.1667 },
+					{ "time": 0.4333, "y": 7.28 },
+					{ "time": 0.6, "y": -3.9 },
+					{ "time": 0.7 }
+				]
+			},
+			"gacha_6": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.1667 },
+					{ "time": 0.4, "y": 6.5 },
+					{ "time": 0.5667, "y": -1.82 },
+					{ "time": 0.6333 }
+				]
+			},
+			"gacha_4": {
+				"translate": [
+					{ "time": 0.2 },
+					{ "time": 0.3667, "y": 2.94 },
+					{ "time": 0.5333, "y": -3.62 },
+					{ "time": 0.6 }
+				]
+			},
+			"gacha_3": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.1667 },
+					{ "time": 0.4, "y": 10.66 },
+					{ "time": 0.5667, "y": -3.12 },
+					{ "time": 0.6333 }
+				]
+			},
+			"gacha_2": {
+				"translate": [
+					{ "time": 0.2 },
+					{ "time": 0.3667, "y": 2.94 },
+					{ "time": 0.5333, "y": -2.26 },
+					{ "time": 0.6333 }
+				]
+			},
+			"gacha_1": {
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.1667 },
+					{ "time": 0.3, "y": 5.72 },
+					{ "time": 0.4333, "y": -4.42 },
+					{ "time": 0.5 }
+				]
+			},
+			"bone": {
+				"scale": [
+					{},
+					{ "time": 0.1667, "y": 1.042 },
+					{ "time": 0.3333, "curve": "stepped" },
+					{ "time": 1 }
+				]
+			},
+			"gacha_machine": {
+				"translate": [
+					{},
+					{ "time": 0.1667, "y": -8.01 },
+					{ "time": 0.3333, "curve": "stepped" },
+					{ "time": 1 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.1667, "y": 0.909 },
+					{ "time": 0.3333, "curve": "stepped" },
+					{ "time": 1 }
+				]
+			},
+			"bone2": {
+				"scale": [
+					{},
+					{ "time": 0.1667, "y": 0.923 },
+					{ "time": 0.3333, "curve": "stepped" },
+					{ "time": 1 }
+				]
+			},
+			"gacha_machine7": {
+				"rotate": [
+					{ "angle": -50.66, "curve": 0.25, "c3": 0.945, "c4": 0.48 },
+					{ "time": 0.1667, "angle": 9.43 },
+					{ "time": 0.2333, "angle": 9.34 }
+				],
+				"translate": [
+					{ "x": -6.32, "y": 7.3, "curve": 0.336, "c3": 0.929, "c4": 0 },
+					{ "time": 0.1667, "x": -3.88, "y": 0.48 },
+					{ "time": 0.2333, "x": -4.95, "y": -9.94 }
+				],
+				"scale": [
+					{ "y": 0.51, "curve": 0.25, "c3": 0.994, "c4": 0 },
+					{ "time": 0.1667, "x": 0.718, "y": 0.708 },
+					{ "time": 0.2333, "x": 0.764, "y": 0.426 }
+				],
+				"shear": [
+					{ "y": 37.19, "curve": 0.25, "c4": 0.14 },
+					{ "time": 0.1667, "y": -7.55 }
+				]
+			}
+		}
+	},
+	"levelup": {
+		"slots": {
+			"lvup_01": {
+				"attachment": [
+					{ "name": "lvup_01" },
+					{ "time": 0.1333, "name": "lvup_02" },
+					{ "time": 0.2333, "name": "lvup_03" },
+					{ "time": 0.4, "name": "lvup_04" },
+					{ "time": 0.5, "name": "lvup_05" },
+					{ "time": 0.6333, "name": "lvup_06" },
+					{ "time": 0.7333, "name": null }
+				]
+			},
+			"lvup_07": {
+				"color": [
+					{ "time": 0.1333, "color": "ffffffff" },
+					{ "time": 0.7333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "lvup_07" },
+					{ "time": 0.7333, "name": null }
+				]
+			},
+			"lvup_7": {
+				"color": [
+					{ "time": 0.1333, "color": "ffffffff" },
+					{ "time": 0.7333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "lvup_07" },
+					{ "time": 0.7333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Lvup2": {
+				"scale": [
+					{ "x": 0.594, "y": 0.594 },
+					{ "time": 0.7333, "x": 1.735, "y": 1.735 }
+				]
+			},
+			"Lvup3": {
+				"scale": [
+					{ "x": 0.594, "y": 0.594 },
+					{ "time": 0.7333, "x": 0.122, "y": 0.122 }
+				]
+			}
+		}
+	},
+	"quest_clear_fx": {
+		"slots": {
+			"quest_fx": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffffff", "curve": 0.969, "c3": 0.997, "c4": 0.53 },
+					{ "time": 1.5, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "quest_fx2" }
+				]
+			}
+		},
+		"bones": {
+			"quest_fx": {
+				"scale": [
+					{ "y": 0.8, "curve": 0, "c2": 0.75, "c3": 0.537, "c4": 0.95 },
+					{ "time": 0.3333, "x": 225.757, "y": 0.8 }
+				]
+			}
+		}
+	},
+	"quest_clear_text": {
+		"slots": {
+			"clear_a": {
+				"color": [
+					{ "time": 0.0333, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.6667, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.0333, "name": "clear_a" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"clear_a1": {
+				"color": [
+					{ "time": 0.4333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.4333, "name": "clear_a1" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"clear_c": {
+				"color": [
+					{ "time": 0.0333, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.6667, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.0333, "name": "clear_c" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"clear_c1": {
+				"color": [
+					{ "time": 0.4333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.4333, "name": "clear_c1" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"clear_e": {
+				"color": [
+					{ "time": 0.0333, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.6667, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.0333, "name": "clear_e" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"clear_e1": {
+				"color": [
+					{ "time": 0.4333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.4333, "name": "clear_e1" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"clear_l": {
+				"color": [
+					{ "time": 0.0333, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.6667, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.0333, "name": "clear_l" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"clear_l1": {
+				"color": [
+					{ "time": 0.4333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.4333, "name": "clear_l1" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"clear_r": {
+				"color": [
+					{ "time": 0.0333, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.6667, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.0333, "name": "clear_r" },
+					{ "time": 2, "name": null }
+				]
+			},
+			"clear_r1": {
+				"color": [
+					{ "time": 0.4333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.4333, "name": "clear_r1" },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"quest_fx6": {
+				"translate": [
+					{ "time": 0.0333, "curve": 0, "c2": 0.9, "c3": 0.75 },
+					{ "time": 0.3333, "x": 161.16, "curve": 1, "c3": 0.991, "c4": 0.71 },
+					{ "time": 0.4333, "x": 58.06 },
+					{ "time": 0.5, "x": 88.01 }
+				]
+			},
+			"quest_fx5": {
+				"translate": [
+					{ "time": 0.0333, "curve": 0, "c2": 0.87, "c3": 0.75 },
+					{ "time": 0.3333, "x": 78.87, "curve": 1, "c3": 0.956, "c4": 0.64 },
+					{ "time": 0.4333, "x": 27.8 },
+					{ "time": 0.5, "x": 44.58 }
+				]
+			},
+			"quest_fx3": {
+				"translate": [
+					{ "time": 0.0333, "curve": 0, "c2": 0.87, "c3": 0.75 },
+					{ "time": 0.3333, "x": -61.72, "curve": 1, "c4": 0.51 },
+					{ "time": 0.4333, "x": -17.99 },
+					{ "time": 0.5, "x": -35.43 }
+				]
+			},
+			"quest_fx2": {
+				"translate": [
+					{ "time": 0.0333, "curve": 0, "c2": 0.86, "c3": 0.75 },
+					{ "time": 0.3333, "x": -133.73, "curve": 0.945, "c2": -0.05, "c3": 0.927, "c4": 0.73 },
+					{ "time": 0.4333, "x": -47.05 },
+					{ "time": 0.5, "x": -68.58 }
+				]
+			}
+		}
+	},
+	"quest_fx": {
+		"slots": {
+			"quest_fx": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffffff", "curve": 0.975, "c4": 0.47 },
+					{ "time": 1.5, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "quest_fx" }
+				]
+			}
+		},
+		"bones": {
+			"quest_fx": {
+				"scale": [
+					{ "curve": 0, "c2": 0.75, "c3": 0.136, "c4": 0.91 },
+					{ "time": 0.3333, "x": 225.757, "curve": "stepped" },
+					{ "time": 1.5, "x": 225.757 }
+				]
+			}
+		}
+	},
+	"speed_battle_Loop": {
+		"slots": {
+			"brick_speed": {
+				"attachment": [
+					{ "name": "brick_speed" }
+				]
+			},
+			"brick_speed2": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "dust_1" }
+				]
+			},
+			"brick_speed3": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffff00" },
+					{ "time": 1, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.1667, "color": "ffffffff" },
+					{ "time": 2.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.6667, "name": "dust_1" }
+				]
+			},
+			"brick_speed4": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.6667, "color": "ffffff00" },
+					{ "time": 2.1667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": "dust_1" },
+					{ "time": 1.6667, "name": "dust_1" }
+				]
+			},
+			"speed_mercenary_1": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.4333, "color": "ffffff8e", "curve": "stepped" },
+					{ "time": 0.5667, "color": "ffffff8e" },
+					{ "time": 0.6667, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.1, "color": "ffffff98", "curve": "stepped" },
+					{ "time": 2.2667, "color": "ffffff98" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.3333, "name": "speed_mercenary_1_1" }
+				]
+			},
+			"speed_mercenary_2": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 0.9333, "color": "ffffff87", "curve": "stepped" },
+					{ "time": 1.1, "color": "ffffff87" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.8333, "name": "speed_mercenary_2_1" }
+				]
+			},
+			"speed_mercenary_3": {
+				"color": [
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.2667, "color": "ffffffa0", "curve": "stepped" },
+					{ "time": 0.4333, "color": "ffffffa0" },
+					{ "time": 0.5, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.5, "color": "ffffff00" },
+					{ "time": 1.6, "color": "ffffff9a", "curve": "stepped" },
+					{ "time": 1.7667, "color": "ffffff9a" },
+					{ "time": 1.8333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1667, "name": "speed_mercenary_3_1" },
+					{ "time": 0.5, "name": "speed_mercenary_3_1" },
+					{ "time": 1.5, "name": "speed_mercenary_3_1" }
+				]
+			},
+			"speed_mercenary_4": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffff00" },
+					{ "time": 0.7667, "color": "ffffff9f", "curve": "stepped" },
+					{ "time": 0.9333, "color": "ffffff9f" },
+					{ "time": 1, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2.2667, "color": "ffffff00" },
+					{ "time": 2.3667, "color": "ffffff9f", "curve": "stepped" },
+					{ "time": 2.5333, "color": "ffffff9f" },
+					{ "time": 2.6, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.6667, "name": "speed_mercenary_4_1" },
+					{ "time": 2.2667, "name": "speed_mercenary_4_1" }
+				]
+			}
+		},
+		"bones": {
+			"brick_speed": {
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 1.174, "y": 1.174 },
+					{ "time": 1.3333 }
+				]
+			},
+			"brick_speed2": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": 178.9 },
+					{ "time": 2, "angle": -51.07 }
+				],
+				"scale": [
+					{ "x": 0.761, "y": 0.761 },
+					{ "time": 1.3333 },
+					{ "time": 2, "x": 1.516, "y": 1.516 }
+				]
+			},
+			"brick_speed3": {
+				"rotate": [
+					{ "time": 0.6667 },
+					{ "time": 1.6667, "angle": 180 },
+					{ "time": 2.6667, "angle": -0.9 }
+				],
+				"scale": [
+					{ "time": 0.6667, "x": 0.745, "y": 0.745 },
+					{ "time": 1.3333, "x": 0.875, "y": 0.875 },
+					{ "time": 2.1667, "x": 0.996, "y": 0.996 },
+					{ "time": 2.6667, "x": 1.619, "y": 1.619 }
+				]
+			},
+			"brick_speed4": {
+				"rotate": [
+					{ "angle": 154.32 },
+					{ "time": 1, "angle": -28.36 },
+					{ "time": 1.6667 },
+					{ "time": 2.6667, "angle": 154.32 }
+				],
+				"scale": [
+					{ "x": 0.916, "y": 0.916 },
+					{ "time": 0.5, "x": 1.131, "y": 1.131 },
+					{ "time": 1, "x": 1.495, "y": 1.495 },
+					{ "time": 1.6667, "x": 0.586, "y": 0.586 },
+					{ "time": 2.1667, "x": 0.738, "y": 0.738 },
+					{ "time": 2.6667, "x": 0.916, "y": 0.916 }
+				]
+			},
+			"speed_mercenary_1": {
+				"rotate": [
+					{ "time": 2, "angle": -86.18 }
+				],
+				"translate": [
+					{ "time": 0.3333, "x": 77.12, "y": 50.13 },
+					{ "time": 0.6667, "x": 78.64, "y": 54.24 },
+					{ "time": 2, "x": 52.57, "y": 18.61 },
+					{ "time": 2.3333, "x": 52.86, "y": 12.5 }
+				],
+				"scale": [
+					{ "time": 2, "x": 0.857, "y": 0.857 }
+				]
+			},
+			"speed_mercenary_4": {
+				"rotate": [
+					{ "time": 0.6667, "angle": -137.05, "curve": "stepped" },
+					{ "time": 1, "angle": -137.05 },
+					{ "time": 2.2667, "angle": 15.27, "curve": "stepped" },
+					{ "time": 2.6, "angle": 15.27 }
+				],
+				"translate": [
+					{ "time": 0.6667, "x": -38.32, "y": 21.84 },
+					{ "time": 1, "x": -34.61, "y": 17.72 },
+					{ "time": 2.2667, "x": -66.54, "y": 49.61 },
+					{ "time": 2.6, "x": -69.68, "y": 55.88 }
+				],
+				"scale": [
+					{ "time": 0.6667, "x": 0.749, "y": 0.749 },
+					{ "time": 1, "x": 0.889, "y": 0.889 },
+					{ "time": 2.2667, "x": 0.749, "y": 0.749 },
+					{ "time": 2.6, "x": 0.889, "y": 0.889 }
+				]
+			},
+			"speed_mercenary_3": {
+				"rotate": [
+					{ "time": 1.5, "angle": 81.69 }
+				],
+				"translate": [
+					{ "time": 0.1667, "x": -17.02, "y": 72.58 },
+					{ "time": 0.5, "x": -26.43, "y": 81.54 },
+					{ "time": 1.5, "x": -39.59, "y": 38.52 },
+					{ "time": 1.8333, "x": -47.08, "y": 34.24 }
+				],
+				"scale": [
+					{ "time": 1.5 },
+					{ "time": 1.8333, "x": 1.185, "y": 1.185 }
+				]
+			},
+			"speed_mercenary_2": {
+				"rotate": [
+					{ "time": 0.8333, "angle": 35.16 }
+				],
+				"translate": [
+					{ "time": 0.8333, "x": 4.3, "y": 65.25 },
+					{ "time": 1.1667, "x": -1.43, "y": 72.42 }
+				]
+			}
+		}
+	},
+	"speed_battle_finish": {
+		"slots": {
+			"brick_speed": {
+				"color": [
+					{ "color": "a8a8a8ff" }
+				],
+				"attachment": [
+					{ "name": "brick_speed" }
+				]
+			},
+			"finish": {
+				"attachment": [
+					{ "name": "finish" },
+					{ "time": 1.3333, "name": "finish" }
+				]
+			},
+			"speed_mercenary_1": {
+				"color": [
+					{ "color": "8a8989ff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "8a8989ff" }
+				],
+				"attachment": [
+					{ "name": "speed_mercenary_1" },
+					{ "time": 0.6667, "name": "speed_mercenary_1" }
+				]
+			},
+			"speed_mercenary_2": {
+				"color": [
+					{ "color": "8e8e8eff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "8e8e8eff" }
+				],
+				"attachment": [
+					{ "name": "speed_mercenary_2" },
+					{ "time": 0.6667, "name": "speed_mercenary_2" }
+				]
+			},
+			"speed_mercenary_3": {
+				"color": [
+					{ "color": "828282ff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "828282ff" }
+				],
+				"attachment": [
+					{ "name": "speed_mercenary_3" },
+					{ "time": 0.6667, "name": "speed_mercenary_3" },
+					{ "time": 1.3333, "name": "speed_mercenary_3" }
+				]
+			},
+			"speed_mercenary_4": {
+				"color": [
+					{ "color": "707070ff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "707070ff" }
+				],
+				"attachment": [
+					{ "name": "speed_mercenary_4" },
+					{ "time": 0.6667, "name": "speed_mercenary_4" },
+					{ "time": 1.3333, "name": "speed_mercenary_4" }
+				]
+			}
+		},
+		"bones": {
+			"brick_speed": {
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 1.174, "y": 1.174 },
+					{ "time": 1.3333 }
+				]
+			},
+			"speed_mercenary_4": {
+				"translate": [
+					{ "y": 3.58 },
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "y": 3.58 },
+					{ "time": 1 },
+					{ "time": 1.3333, "y": 3.58 }
+				],
+				"scale": [
+					{ "y": 1.246 },
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "y": 1.246 },
+					{ "time": 1 },
+					{ "time": 1.3333, "y": 1.246 }
+				]
+			},
+			"speed_mercenary_3": {
+				"translate": [
+					{},
+					{ "time": 0.3333, "y": 2.05 },
+					{ "time": 0.6667 },
+					{ "time": 1, "y": 2.05 },
+					{ "time": 1.3333 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.3333, "y": 1.148 },
+					{ "time": 0.6667 },
+					{ "time": 1, "y": 1.148 },
+					{ "time": 1.3333 }
+				]
+			},
+			"speed_mercenary_2": {
+				"translate": [
+					{ "y": 1.78 },
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "y": 1.78 },
+					{ "time": 1 },
+					{ "time": 1.3333, "y": 1.78 }
+				],
+				"scale": [
+					{ "y": 1.11 },
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "y": 1.11 },
+					{ "time": 1 },
+					{ "time": 1.3333, "y": 1.11 }
+				]
+			},
+			"speed_mercenary_1": {
+				"translate": [
+					{},
+					{ "time": 0.3333, "y": 3.53 },
+					{ "time": 0.6667 },
+					{ "time": 1, "y": 3.53 },
+					{ "time": 1.3333 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.3333, "y": 1.116 },
+					{ "time": 0.6667 },
+					{ "time": 1, "y": 1.116 },
+					{ "time": 1.3333 }
+				]
+			},
+			"finish": {
+				"translate": [
+					{ "y": 41.15, "curve": "stepped" },
+					{ "time": 1.3333, "y": 41.15 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 1.068, "y": 1.068 },
+					{ "time": 1.3333 }
+				]
+			}
+		}
+	},
+	"speed_battle_idle": {
+		"slots": {
+			"brick_speed": {
+				"attachment": [
+					{ "name": "brick_speed" }
+				]
+			},
+			"speed_mercenary_1": {
+				"attachment": [
+					{ "name": "speed_mercenary_1" },
+					{ "time": 0.6667, "name": "speed_mercenary_1" }
+				]
+			},
+			"speed_mercenary_2": {
+				"attachment": [
+					{ "name": "speed_mercenary_2" },
+					{ "time": 0.6667, "name": "speed_mercenary_2" }
+				]
+			},
+			"speed_mercenary_3": {
+				"attachment": [
+					{ "name": "speed_mercenary_3" },
+					{ "time": 0.6667, "name": "speed_mercenary_3" },
+					{ "time": 1.3333, "name": "speed_mercenary_3" }
+				]
+			},
+			"speed_mercenary_4": {
+				"attachment": [
+					{ "name": "speed_mercenary_4" },
+					{ "time": 0.6667, "name": "speed_mercenary_4" },
+					{ "time": 1.3333, "name": "speed_mercenary_4" }
+				]
+			}
+		},
+		"bones": {
+			"brick_speed": {
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 1.174, "y": 1.174 },
+					{ "time": 1.3333 }
+				]
+			},
+			"speed_mercenary_4": {
+				"translate": [
+					{ "y": 3.58 },
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "y": 3.58 },
+					{ "time": 1 },
+					{ "time": 1.3333, "y": 3.58 }
+				],
+				"scale": [
+					{ "y": 1.246 },
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "y": 1.246 },
+					{ "time": 1 },
+					{ "time": 1.3333, "y": 1.246 }
+				]
+			},
+			"speed_mercenary_3": {
+				"translate": [
+					{},
+					{ "time": 0.3333, "y": 2.05 },
+					{ "time": 0.6667 },
+					{ "time": 1, "y": 2.05 },
+					{ "time": 1.3333 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.3333, "y": 1.148 },
+					{ "time": 0.6667 },
+					{ "time": 1, "y": 1.148 },
+					{ "time": 1.3333 }
+				]
+			},
+			"speed_mercenary_2": {
+				"translate": [
+					{ "y": 1.78 },
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "y": 1.78 },
+					{ "time": 1 },
+					{ "time": 1.3333, "y": 1.78 }
+				],
+				"scale": [
+					{ "y": 1.11 },
+					{ "time": 0.3333 },
+					{ "time": 0.6667, "y": 1.11 },
+					{ "time": 1 },
+					{ "time": 1.3333, "y": 1.11 }
+				]
+			},
+			"speed_mercenary_1": {
+				"translate": [
+					{},
+					{ "time": 0.3333, "y": 3.53 },
+					{ "time": 0.6667 },
+					{ "time": 1, "y": 3.53 },
+					{ "time": 1.3333 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.3333, "y": 1.116 },
+					{ "time": 0.6667 },
+					{ "time": 1, "y": 1.116 },
+					{ "time": 1.3333 }
+				]
+			}
+		}
+	},
+	"tutorial_finger": {
+		"slots": {
+			"tutorial_finger_1": {
+				"attachment": [
+					{ "name": "tutorial_finger_1" }
+				]
+			},
+			"tutorial_finger_0_1": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1667, "name": "tutorial_finger_0_3" },
+					{ "time": 0.3333, "name": "tutorial_finger_0_4" },
+					{ "time": 0.5, "name": "tutorial_finger_0_5" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"tutorial_finger_0_2": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.5, "name": "tutorial_finger_0_3" },
+					{ "time": 0.6667, "name": "tutorial_finger_0_4" },
+					{ "time": 0.8333, "name": "tutorial_finger_0_5" },
+					{ "time": 1, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"tutorial_finger_1": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": -28.79, "curve": "stepped" },
+					{ "time": 0.3333, "angle": -28.79 },
+					{ "time": 1 }
+				],
+				"translate": [
+					{ "y": 4.28, "curve": 0.25, "c3": 0.963, "c4": 0 },
+					{ "time": 0.1667, "x": 2.77, "y": -12.1, "curve": 0, "c2": 1, "c3": 0.75 },
+					{ "time": 0.3333, "x": 2.77, "y": -13.36 },
+					{ "time": 1, "y": 4.28 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.1667, "curve": 0, "c2": 0.99, "c3": 0.75 },
+					{ "time": 0.3333, "y": 0.582 },
+					{ "time": 0.4333, "curve": "stepped" },
+					{ "time": 1 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 0.1667, "curve": 0, "c2": 1, "c3": 0.75 },
+					{ "time": 0.3333, "y": -36.5 },
+					{ "time": 0.4333, "curve": "stepped" },
+					{ "time": 1 }
+				]
+			},
+			"tutorial_finger_2": {
+				"scale": [
+					{ "time": 0.1667 },
+					{ "time": 0.6667, "x": 2.5, "y": 2.5 }
+				]
+			},
+			"tutorial_finger_3": {
+				"scale": [
+					{ "time": 0.5 },
+					{ "time": 1, "x": 2.5, "y": 2.5 }
+				]
+			}
+		}
+	},
+	"upgrade": {
+		"slots": {
+			"brick_fx1": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.6, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.7667, "color": "ffffffff", "curve": 0, "c2": 0.25, "c3": 0.129, "c4": 0.94 },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.3333, "name": "brick_fx1" },
+					{ "time": 0.6, "name": "brick_fx1" }
+				]
+			},
+			"brick_fx2": {
+				"color": [
+					{ "time": 0.8, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1, "name": "brick_fx2" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.7667, "name": "brick_fx2" }
+				]
+			},
+			"brick_fx3": {
+				"color": [
+					{ "time": 0.8, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.0333, "name": "brick_fx2" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.7667, "name": "brick_fx2" }
+				]
+			},
+			"brick_fx4": {
+				"color": [
+					{ "time": 0.8, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1, "name": "brick_fx2" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.7667, "name": "brick_fx2" }
+				]
+			},
+			"brick_fx5": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.0667, "name": "brick_fx2" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.7667, "name": "brick_fx2" }
+				]
+			},
+			"brick_fx6": {
+				"color": [
+					{ "time": 0.8, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.0667, "name": "brick_fx2" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.7667, "name": "brick_fx2" }
+				]
+			},
+			"brick_fx7": {
+				"color": [
+					{ "time": 0.8, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1, "name": "brick_fx2" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.7667, "name": "brick_fx2" }
+				]
+			},
+			"brick_fx8": {
+				"color": [
+					{ "time": 0.8, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1, "name": "brick_fx2" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.7667, "name": "brick_fx2" }
+				]
+			},
+			"brick_fx9": {
+				"color": [
+					{ "time": 0.8, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.2333, "name": "brick_fx2" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.7667, "name": "brick_fx2" }
+				]
+			},
+			"brick_fx10": {
+				"color": [
+					{ "time": 0.8, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1667, "name": "brick_fx2" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.7667, "name": "brick_fx2" }
+				]
+			},
+			"brick_fx11": {
+				"color": [
+					{ "time": 0.8, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.2333, "name": "brick_fx2" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.7667, "name": "brick_fx2" }
+				]
+			},
+			"brick_fx12": {
+				"color": [
+					{ "color": "00000000" },
+					{ "time": 0.1333, "color": "00000067", "curve": "stepped" },
+					{ "time": 1, "color": "00000067" },
+					{ "time": 1.1667, "color": "00000000" }
+				],
+				"attachment": [
+					{ "name": "brick_fx2" },
+					{ "time": 1.1667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"ui_fx4": {
+				"translate": [
+					{ "time": 0.1 },
+					{ "time": 0.4667, "x": -89.23, "y": 30.96, "curve": "stepped" },
+					{ "time": 0.8, "x": -89.23, "y": 30.96, "curve": 0, "c2": 0.99, "c3": 0.75 },
+					{ "time": 1.1667, "x": 15.61, "y": 30.96 }
+				],
+				"scale": [
+					{ "time": 0.1, "curve": 0.121, "c2": 0.79, "c3": 0.75 },
+					{ "time": 0.4667, "x": 2.59, "y": 4.999, "curve": "stepped" },
+					{ "time": 0.7667, "x": 2.59, "y": 4.999 },
+					{ "time": 0.8 }
+				]
+			},
+			"ui_fx3": {
+				"translate": [
+					{ "time": 0.0333 },
+					{ "time": 0.4667, "x": 64.95, "y": 101.37, "curve": "stepped" },
+					{ "time": 0.8, "x": 64.95, "y": 101.37, "curve": 0, "c2": 0.99, "c3": 0.75 },
+					{ "time": 1.1667, "x": 63.74, "y": 12.2 }
+				],
+				"scale": [
+					{ "time": 0.0333 },
+					{ "time": 0.4667, "x": 4.395, "y": 3.98, "curve": "stepped" },
+					{ "time": 0.7667, "x": 4.395, "y": 3.98 },
+					{ "time": 0.8 }
+				]
+			},
+			"ui_fx6": {
+				"translate": [
+					{ "time": 0.0667 },
+					{ "time": 0.4667, "x": -115.33, "y": -3.03, "curve": "stepped" },
+					{ "time": 0.8, "x": -115.33, "y": -3.03, "curve": 0, "c2": 0.92, "c3": 0.75 },
+					{ "time": 1.1667, "x": -109.88, "y": 88.92 }
+				],
+				"scale": [
+					{ "time": 0.0667 },
+					{ "time": 0.4667, "x": 3.541, "y": 8.679, "curve": "stepped" },
+					{ "time": 0.7667, "x": 3.541, "y": 8.679 },
+					{ "time": 0.8 }
+				]
+			},
+			"ui_fx8": {
+				"translate": [
+					{ "time": 0.1 },
+					{ "time": 0.4667, "x": -49.77, "y": -85.59, "curve": "stepped" },
+					{ "time": 0.8, "x": -49.77, "y": -85.59, "curve": 0, "c2": 0.85, "c3": 0.75 },
+					{ "time": 1.1667, "x": -82.53, "y": -30.56 }
+				],
+				"scale": [
+					{ "time": 0.1 },
+					{ "time": 0.4667, "x": 1.92, "y": 8.174, "curve": "stepped" },
+					{ "time": 0.7667, "x": 1.92, "y": 8.174 },
+					{ "time": 0.8 }
+				]
+			},
+			"ui_fx10": {
+				"translate": [
+					{ "time": 0.1667 },
+					{ "time": 0.4667, "x": 93.48, "y": -32.78, "curve": "stepped" },
+					{ "time": 0.7667, "x": 93.48, "y": -32.78, "curve": 0, "c2": 0.81, "c3": 0.75 },
+					{ "time": 0.8, "x": 136.65, "y": -51.66, "curve": 0, "c2": 0.81, "c3": 0.75 },
+					{ "time": 1.1667, "x": 193.3, "y": 25.23 }
+				],
+				"scale": [
+					{ "time": 0.1667 },
+					{ "time": 0.4667, "x": 6.723, "y": 6.723, "curve": "stepped" },
+					{ "time": 0.7667, "x": 6.723, "y": 6.723 },
+					{ "time": 0.8 }
+				]
+			},
+			"ui_fx11": {
+				"translate": [
+					{ "time": 0.1667 },
+					{ "time": 0.4667, "x": 76.48, "y": -1.21, "curve": "stepped" },
+					{
+						"time": 0.8,
+						"x": 76.48,
+						"y": -1.21,
+						"curve": 0,
+						"c2": 0.81,
+						"c3": 0.347,
+						"c4": 0.92
+					},
+					{ "time": 1.1667, "x": -0.24, "y": -18.95 }
+				],
+				"scale": [
+					{ "time": 0.2333 },
+					{ "time": 0.4667, "x": 7.237, "y": 6.582, "curve": "stepped" },
+					{ "time": 0.7667, "x": 7.237, "y": 6.582 },
+					{ "time": 0.8 }
+				]
+			},
+			"ui_fx9": {
+				"translate": [
+					{ "time": 0.2333 },
+					{ "time": 0.4667, "x": -58.88, "y": 94.08, "curve": "stepped" },
+					{ "time": 0.8, "x": -58.88, "y": 94.08, "curve": 0, "c2": 0.92, "c3": 0.75 },
+					{ "time": 1.1667, "x": 4.52, "y": 25.29 }
+				],
+				"scale": [
+					{ "time": 0.2333 },
+					{ "time": 0.4667, "x": 4.92, "y": 4.92, "curve": "stepped" },
+					{ "time": 0.7667, "x": 4.92, "y": 4.92 },
+					{ "time": 0.8 }
+				]
+			},
+			"ui_fx7": {
+				"translate": [
+					{ "time": 0.1 },
+					{ "time": 0.4667, "x": 21.85, "y": -113.51, "curve": "stepped" },
+					{ "time": 0.8, "x": 21.85, "y": -113.51, "curve": 0, "c2": 0.87, "c3": 0.75 },
+					{ "time": 1.1667, "x": -70.74, "y": -68.6 }
+				],
+				"scale": [
+					{ "time": 0.1 },
+					{ "time": 0.4667, "x": 2.178, "y": 7.589, "curve": "stepped" },
+					{ "time": 0.7667, "x": 2.178, "y": 7.589 },
+					{ "time": 0.8 }
+				]
+			},
+			"ui_fx5": {
+				"translate": [
+					{ "time": 0.0667 },
+					{ "time": 0.4667, "x": -54.63, "y": -100.15, "curve": "stepped" },
+					{ "time": 0.8333, "x": -54.63, "y": -100.15, "curve": 0, "c2": 0.9, "c3": 0.75 },
+					{ "time": 1.1667, "x": 14.94, "y": -60.04 }
+				],
+				"scale": [
+					{ "time": 0.0667 },
+					{ "time": 0.4667, "x": 2.96, "y": 5.583, "curve": "stepped" },
+					{ "time": 0.7667, "x": 2.96, "y": 5.583, "curve": "stepped" },
+					{ "time": 0.8, "x": 2.96, "y": 5.583 },
+					{ "time": 0.8333 }
+				]
+			},
+			"ui_fx2": {
+				"translate": [
+					{ "time": 0.1 },
+					{ "time": 0.4667, "x": 105.62, "y": 31.56, "curve": "stepped" },
+					{ "time": 0.8, "x": 105.62, "y": 31.56, "curve": 0, "c2": 0.99, "c3": 0.75 },
+					{ "time": 1.1667, "x": 44.06, "y": -40.4 }
+				],
+				"scale": [
+					{ "time": 0.1 },
+					{ "time": 0.4667, "x": 5.186, "y": 5.186, "curve": "stepped" },
+					{ "time": 0.7667, "x": 5.186, "y": 5.186 },
+					{ "time": 0.8 }
+				]
+			},
+			"ui_fx": {
+				"scale": [
+					{ "time": 0.6 },
+					{ "time": 0.7667, "x": 1.053, "y": 1.053 },
+					{ "time": 1.1667, "x": 2.6, "y": 2.6 }
+				]
+			},
+			"ui_fx12": {
+				"translate": [
+					{ "x": 104.91, "y": -125.08 }
+				]
+			}
+		}
+	},
+	"weapon_change": {
+		"slots": {
+			"weapon_change_1": {
+				"attachment": [
+					{ "name": "weapon_change_1" },
+					{ "time": 0.1, "name": "weapon_change_2" },
+					{ "time": 0.2, "name": "weapon_change_3" },
+					{ "time": 0.3, "name": "weapon_change_4" },
+					{ "time": 0.4333, "name": "weapon_change_5" },
+					{ "time": 0.5333, "name": "weapon_change_6" },
+					{ "time": 0.6333, "name": "weapon_change_7" },
+					{ "time": 0.7333, "name": "weapon_change_8" },
+					{ "time": 0.8333, "name": null }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8521047410934559265
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8521047410934559267}
+  - component: {fileID: 8521047410934559266}
+  m_Layer: 0
+  m_Name: TreasureIconCollector
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8521047410934559267
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8521047410934559265}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8521047410934559266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8521047410934559265}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b23200ef70274800ac2dd30b6a0b590, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _directory: /NotLoadResources/Sprite/TreasureIcon/
+  _recursive: 1
+  _spriteCollectorDictionary:
+    m_keys:
+    - image_treasure_idx_0
+    - image_treasure_idx_1
+    - image_treasure_idx_10
+    - image_treasure_idx_11
+    - image_treasure_idx_12
+    - image_treasure_idx_13
+    - image_treasure_idx_14
+    - image_treasure_idx_15
+    - image_treasure_idx_16
+    - image_treasure_idx_17
+    - image_treasure_idx_2
+    - image_treasure_idx_3
+    - image_treasure_idx_4
+    - image_treasure_idx_5
+    - image_treasure_idx_6
+    - image_treasure_idx_7
+    - image_treasure_idx_8
+    - image_treasure_idx_9
+    m_values:
+    - {fileID: 21300000, guid: 33b650f6b0f4e4816bab75e645c69dd7, type: 3}
+    - {fileID: 21300000, guid: 36f0d49c703434f82be934633d1cb98d, type: 3}
+    - {fileID: 21300000, guid: 54c8431b095f948afb9a3b4c9e61c587, type: 3}
+    - {fileID: 21300000, guid: 3933f47b55cad4fd1a6bff79407b2930, type: 3}
+    - {fileID: 21300000, guid: 14c3f2203a5344ecab55f1b29a62e25d, type: 3}
+    - {fileID: 21300000, guid: 1091f255cde111e438e5055130d19966, type: 3}
+    - {fileID: 21300000, guid: 004b64d39cac6854fba4545bf2dd01ce, type: 3}
+    - {fileID: 21300000, guid: cecf8cfa123f52640ba2840fcf6ffcbb, type: 3}
+    - {fileID: 21300000, guid: 5a960c026972f164faeea56942f3ae1b, type: 3}
+    - {fileID: 21300000, guid: 6ae134223aeeb7349a6a4dfdd6a0698d, type: 3}
+    - {fileID: 21300000, guid: e7773bde762f8447ea8e6eebe42f50b9, type: 3}
+    - {fileID: 21300000, guid: ee869b3a75d7d49f69ae77965a3697d7, type: 3}
+    - {fileID: 21300000, guid: 55f94a28548a849a3891fa12837595e9, type: 3}
+    - {fileID: 21300000, guid: fd120bd580468440a830e48744125655, type: 3}
+    - {fileID: 21300000, guid: abae22d0d826848f1ad69df42cb92273, type: 3}
+    - {fileID: 21300000, guid: c3eed5245b0bf497ea07ead029eef672, type: 3}
+    - {fileID: 21300000, guid: 9b1057083a1ab48dc90c31989078d0ba, type: 3}
+    - {fileID: 21300000, guid: 2f14ad85b6fb346a595f3a60c379a21f, type: 3}

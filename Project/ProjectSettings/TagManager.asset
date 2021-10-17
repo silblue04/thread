@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Essence
+  - RandomBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - InGameObj
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: PakBg
+    uniqueID: 2273697687
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Skin
+    uniqueID: 1039105759
+    locked: 0
+  - name: Object
+    uniqueID: 257588741
+    locked: 0
+  - name: Unit
+    uniqueID: 1585805993
+    locked: 0
+  - name: ThreeDUI
+    uniqueID: 4280501863
+    locked: 0
+  - name: Effect
+    uniqueID: 4170040331
+    locked: 0
+  - name: UI
+    uniqueID: 3104382721
+    locked: 0
